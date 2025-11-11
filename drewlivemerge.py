@@ -4,9 +4,9 @@ import time
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/JapanTV.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nick1029.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/kibzmaster.m3u"
+    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/PH.m3u",
+    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/NBA%20HOMECOURT.m3u",
+    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/PPV.m3u8"
 ]
 
 EPG_URL = "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
