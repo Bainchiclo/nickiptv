@@ -322,11 +322,11 @@ async def main():
 
         await browser.close()
 
-    print("\n💾 Writing final playlist to nick1029.m3u8 ...")
+    print("\n💾 Writing final playlist to PPV.m3u8 ...")
     playlist = build_m3u(streams, url_map)
-    with open("nick1029.m3u8", "w", encoding="utf-8") as f:
+    with open("PPV.m3u8", "w", encoding="utf-8") as f:
         f.write(playlist)
-    print(f"✅ Done! Playlist saved as nick1029.m3u8 at {datetime.utcnow().isoformat()} UTC")
+    print(f"✅ Done! Playlist saved as PPV.m3u8 at {datetime.utcnow().isoformat()} UTC")
 
 if __name__ == "__main__":
     asyncio.run(main())
