@@ -3,14 +3,13 @@ import re
 import os
 
 PLAYLIST_URLS = [
-    "https://raw.githubusercontent.com/theariatv/theariatv.github.io/refs/heads/main/aria.m3u",
-    "https://raw.githubusercontent.com/theariatv/theariatv.github.io/refs/heads/main/aria%2B.m3u"
+    "https://mc-o0of718lw0.bunny.run/playlist.m3u8"
 ]
 
 OUTPUT_FILE = "AriaPlus.m3u8"
 
 ALLOWED_GROUPS = [
-    "Australia", "Canada", "Japan", "New Zealand",
+    "CONVERGE", "Canada", "Japan", "New Zealand",
     "North Korea", "United Kingdom", "United States",
     "South Korea"
 ]
