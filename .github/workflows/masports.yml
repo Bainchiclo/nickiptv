@@ -29,7 +29,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: 🎯 Run RoxieStreams scraper
-        run: python rox.py
+        run: python masports.py
 
       - name: 💾 Commit & Push if Playlist Changed
         env:
