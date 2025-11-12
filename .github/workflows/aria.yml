@@ -1,0 +1,32 @@
+name: 🎯 Update AriaPlus Playlist
+
+on:
+  workflow_dispatch:   # Manual trigger
+  schedule:           # Scheduled trigger — every hour
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: 🛠 Run aria.py Script
+        run: python aria.py
+
+      - name: 💾 Commit & Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add AriaPlus.m3u8
+          git commit -m "🔄 Update AriaPlus.m3u8" || echo "ℹ️ No changes to commit"
+          git push
