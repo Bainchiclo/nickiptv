@@ -1277,6 +1277,24 @@ https://abie.009292.xyz/nba11.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Golden State Warriors vs San Antonio Spurs
 https://abie.009292.xyz/nba8alt.m3u8
 
+#EXTGRP:Roxiestreams - Soccer
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Armenia vs Hungary
+https://abie.009292.xyz/foot.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Azerbaijan vs Iceland
+https://again.009292.xyz/fs2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",England vs Serbia
+https://abie.009292.xyz/fsp.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",France vs Ukraine
+https://again.009292.xyz/fs2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Ireland vs Portugal
+https://abie.009292.xyz/foot.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Ireland vs Portugal
+https://abie.009292.xyz/rte.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",North Macedonia vs Lativa
+https://abie.009292.xyz/fsp.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Norway vs Estonia
+https://abie.009292.xyz/sky5.m3u8
+
 #EXTGRP:Sports TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports TV", Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1921,8 +1939,6 @@ https://mc-5dugfxm3jo.bunny.run/wavve/m07/master.m3u8/master.m3u8
 https://mc-5dugfxm3jo.bunny.run/wavve/m15/master.m3u8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2401_square_20250731141410.png" group-title="WAVVE", MBN
 https://mc-5dugfxm3jo.bunny.run/wavve/c2401/master.m3u8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2413_square_20251017175409.png" group-title="WAVVE", MBN NEWS
-https://mc-5dugfxm3jo.bunny.run/wavve/c2413/master.m3u8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2412_square_20250731141549.png" group-title="WAVVE", MBN 실제상황
 https://mc-5dugfxm3jo.bunny.run/wavve/c2412/master.m3u8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2411_square_20250818162524.png" group-title="WAVVE", MBN 특종세상
