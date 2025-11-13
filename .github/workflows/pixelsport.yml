@@ -2,7 +2,7 @@ name: 🔁 Update PixelSports Playlist ⚽
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 permissions:
