@@ -1277,6 +1277,10 @@ https://abie.009292.xyz/nba11.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Golden State Warriors vs San Antonio Spurs
 https://abie.009292.xyz/nba8alt.m3u8
 
+#EXTGRP:Roxiestreams - Soccer
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",England vs Serbia
+https://abigail.xn--l3ca4btt7db.com/main.m3u8
+
 #EXTGRP:Sports TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports TV", Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
