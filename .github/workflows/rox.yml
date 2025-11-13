@@ -2,7 +2,7 @@ name: 🔁 Update RoxieStreams Playlist 🎥
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # ⏰ Run every hour
+    - cron: '*/20 * * * *'  # ⏰ Run every hour
   workflow_dispatch:
 
 permissions:
