@@ -1936,6 +1936,8 @@ https://mc-5dugfxm3jo.bunny.run/wavve/m07/master.m3u8/master.m3u8
 https://mc-5dugfxm3jo.bunny.run/wavve/m15/master.m3u8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2401_square_20250731141410.png" group-title="WAVVE", MBN
 https://mc-5dugfxm3jo.bunny.run/wavve/c2401/master.m3u8/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2413_square_20251017175409.png" group-title="WAVVE", MBN NEWS
+https://mc-5dugfxm3jo.bunny.run/wavve/c2413/master.m3u8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2412_square_20250731141549.png" group-title="WAVVE", MBN 실제상황
 https://mc-5dugfxm3jo.bunny.run/wavve/c2412/master.m3u8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2411_square_20250818162524.png" group-title="WAVVE", MBN 특종세상
