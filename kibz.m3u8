@@ -1093,6 +1093,11 @@ https://live.webcastserver.online/newz/newz/79.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://locked.pixelpanel.online/hdstream/embed/338.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png" group-title="Pixelsports - NFL",Chicago Bears at Minnesota Vikings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online:443/play/IsVdtZVXyj_Y3HBxbjvT8ypIU6WDJ5MxtZf3kQhP9z0/m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="Pixelsports - NFL",Cincinnati Bengals at Pittsburgh Steelers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -1270,18 +1275,6 @@ https://locked.pixelpanel.online/hdstream/embed/403.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",EUBANK JR vs BENN
 https://again.009292.xyz/ppv.m3u8
 
-#EXTGRP:Roxiestreams - Misc
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",EUBANK JR vs BENN
-https://again.009292.xyz/ppv.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Supercars Championship - Race
-https://abigail.009292.xyz/tnt2.m3u8
-
-#EXTGRP:Roxiestreams - Motorsports
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",FIM World Supercross Championship
-https://abigail.009292.xyz/sx.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Supercars Championship - Race 2
-https://abigail.009292.xyz/tnt2.m3u8
-
 #EXTGRP:Roxiestreams - NBA
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Denver Nuggets vs Minnesota Timberwolves
 https://again.009292.xyz/nba5.m3u8
@@ -1294,29 +1287,29 @@ https://again.009292.xyz/nba3.m3u8
 
 #EXTGRP:Roxiestreams - NFL
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Carolina Panthers vs Atlanta Falcons
-https://abbyy.xn--l3ca4btt7db.com/nfl2.m3u8
+https://abigail.009292.xyz/nfl2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Chicago Bears vs Minnesota Vikings
+https://abigail.009292.xyz/nfl5.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Cincinnati Bengals vs Pittsburgh Steelers
+https://abigail.qiyarmedia.com/nfl7.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Green Bay Packers vs New York Giants
+https://abigail.qiyarmedia.com/nfl6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Tennessee Titans
-https://abbyy.xn--l3ca4btt7db.com/nfl4.m3u8
+https://abigail.009292.xyz/nfl4.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Los Angeles Chargers vs Jacksonville Jaguars
+https://abigail.qiyarmedia.com/nfl8.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL REDZONE
-https://abbyy.xn--l3ca4btt7db.com/redzone.m3u8
+https://abigail.009292.xyz/redzone.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL REDZONE
-https://abbyy.xn--l3ca4btt7db.com/redzone2.m3u8
+https://abigail.009292.xyz/redzone2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Seattle Seahawks vs Los Angeles Rams
 https://abbyy.xn--l3ca4btt7db.com/nfl9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Tampa Bay Buccaneers vs Buffalo Bills
-https://abbyy.xn--l3ca4btt7db.com/nfl3.m3u8
-
-#EXTGRP:Roxiestreams - PPV
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - PPV",EUBANK JR vs BENN
-https://again.009292.xyz/ppv.m3u8
+https://abigail.qiyarmedia.com/nfl3.m3u8
 
 #EXTGRP:Roxiestreams - Soccer
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Brazil vs Senegal
 https://again.009292.xyz/beines.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Cyprus vs Austria
-https://abigail.009292.xyz/cyprus.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Denmark vs Belarus
-https://abigail.009292.xyz/cyprus.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Georgia vs Spain
 https://again.009292.xyz/spain.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Greece vs Scotland
