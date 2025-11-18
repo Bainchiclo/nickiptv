@@ -1313,6 +1313,8 @@ https://again.009292.xyz/nflalty.m3u8
 #EXTGRP:Roxiestreams - Soccer
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Germany vs Slovakia
 https://again.009292.xyz/fs1.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Malta vs Poland
+https://again.009292.xyz/fsp.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Netherlands vs Lithuania
 https://again.009292.xyz/sky3.m3u8
 
