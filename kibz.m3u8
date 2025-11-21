@@ -2105,12 +2105,14 @@ https://simplya.009292.xyz/aew.m3u8
 
 #EXTGRP:Roxiestreams - Formula 1
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Formula 1",Formula 1
-https://simplya.009292.xyz/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Formula 1",Formula 1
 https://simplya.009292.xyz/f1alty.m3u8
 
 #EXTGRP:Roxiestreams - Misc
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Formula 1
+https://simplya.009292.xyz/f1alty.m3u8
+
+#EXTGRP:Roxiestreams - Motorsports
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",F1 Academy - Qualifying
 https://simplya.009292.xyz/f1alty.m3u8
 
 #EXTGRP:Roxiestreams - NBA
