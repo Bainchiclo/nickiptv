@@ -2092,12 +2092,12 @@ https://dash.pixelsport.app:443/play/9IMz1H7tRQh-EIGDiNdpFs52TsxudAmPQ9lW0NM26xk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelsport.app:443/play/9IMz1H7tRQh-EIGDiNdpFhk_8Mb5iR5Igm-xyWvowLw/.m3u8
+https://dash.pixelsport.app:443/play/9IMz1H7tRQh-EIGDiNdpFkuERH1Cgbz6q4VoVxlUc4M/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png" group-title="Pixelsports - NHL",Minnesota Wild at Pittsburgh Penguins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelsport.app:443/play/9IMz1H7tRQh-EIGDiNdpFkuERH1Cgbz6q4VoVxlUc4M/.m3u8
+https://locked.pixelpanel.online/hdstream/embed/390.m3u8
 
 #EXTGRP:Roxiestreams - Combat Sports
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE Smackdown
