@@ -2103,6 +2103,8 @@ https://locked.pixelpanel.online/hdstream/embed/390.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",RING IV: Night Of Champions
 https://again.009292.xyz/ppv.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC Qatar: Tsarukyan vs Hooker
+https://loveliness.pixelcraft.qzz.io/roxieufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC Qatar: Tsarukyan vs Hooker
 https://loveliness.pixelcraft.qzz.io/simplyabigail.m3u8
 
 #EXTGRP:Roxiestreams - Misc
@@ -2112,6 +2114,8 @@ https://again.009292.xyz/deportes.m3u8
 https://again.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",RING IV: Night Of Champions
 https://again.009292.xyz/ppv.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",UFC Qatar: Tsarukyan vs Hooker
+https://loveliness.pixelcraft.qzz.io/roxieufc.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",UFC Qatar: Tsarukyan vs Hooker
 https://loveliness.pixelcraft.qzz.io/simplyabigail.m3u8
 
@@ -2190,6 +2194,8 @@ https://600.pixelcraft.qzz.io/usa.m3u8
 https://again.009292.xyz/wolves.m3u8
 
 #EXTGRP:Roxiestreams - UFC
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams - UFC",UFC Qatar: Tsarukyan vs Hooker
+https://loveliness.pixelcraft.qzz.io/roxieufc.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams - UFC",UFC Qatar: Tsarukyan vs Hooker
 https://loveliness.pixelcraft.qzz.io/simplyabigail.m3u8
 
