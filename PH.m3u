@@ -1396,12 +1396,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="Dazn" tvg-name="Dazn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiB6uGigcE7QowEXst3A3vpJ70KorWts5Jkw&s" group-title="Sports TV",Dazn
+*****#EXTINF:-1 tvg-id="Dazn" tvg-name="Dazn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiB6uGigcE7QowEXst3A3vpJ70KorWts5Jkw&s" group-title="Sports TV",Dazn
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-dash-dazn/32671e52-5768-4cb1-8e90-659445611d00/stream.mpd
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-dash-dazn/32671e52-5768-4cb1-8e90-659445611d00/stream.mpd*****
 
 #EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1-Y5n5ml9XUIb3i7k7dWA3nlG0cbdAT-JA&s", Sky Sport Premier League DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
