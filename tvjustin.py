@@ -12,7 +12,7 @@ from playwright.sync_api import sync_playwright, Error as PlaywrightError, Timeo
 
 # --- DEĞİŞİKLİK: Justin TV ana domain'i ---
 
-JUSTINTV_DOMAIN = "https://tvjustin.net/"
+JUSTINTV_DOMAIN = "https://tvjustin.com/"
 
 
 
