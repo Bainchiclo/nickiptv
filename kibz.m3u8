@@ -2165,8 +2165,10 @@ https://locked.pixelpanel.online:443/play/P0O9KwmZmP6zNIefvca0T9QznlKd_kyHADj5Oq
 https://locked.pixelpanel.online:443/play/P0O9KwmZmP6zNIefvca0T9QznlKd_kyHADj5OqQ40HKU2PnFvI8KUA6KOyXkzyJhww_fWJQuKh9TjhM3cuKIcw/.m3u8
 
 #EXTGRP:Roxiestreams - Combat Sports
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",AEW: Full Gear
+https://abigail.009292.xyz/aew.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",RING IV: Night Of Champions
-https://abigail.009292.xyz/ppv.m3u8
+https://600.pixelcraft.qzz.io/ppv.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC Qatar: Tsarukyan vs Hooker
 https://abigail.009292.xyz/ataide.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC Qatar: Tsarukyan vs Hooker
@@ -2174,19 +2176,45 @@ https://loveliness.pixelcraft.qzz.io/roxieufc.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC Qatar: Tsarukyan vs Hooker
 https://loveliness.pixelcraft.qzz.io/simplyabigail.m3u8
 
+#EXTGRP:Roxiestreams - Formula 1
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Formula 1",Formula 1 Grand Prix
+https://600.pixelcraft.qzz.io/f1.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Formula 1",Formula 1 Grand Prix
+https://600.pixelcraft.qzz.io/f1alt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Formula 1",Formula 1 Grand Prix
+https://600.pixelcraft.qzz.io/main.m3u8
+
 #EXTGRP:Roxiestreams - Misc
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW: Full Gear
+https://abigail.009292.xyz/aew.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW: Full Gear
+https://abigail.009292.xyz/aew.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Formula 1 Grand Prix
+https://600.pixelcraft.qzz.io/f1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Formula 1 Grand Prix
+https://600.pixelcraft.qzz.io/f1alt.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Formula 1 Grand Prix
+https://600.pixelcraft.qzz.io/main.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Laliga
 https://again.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Premier League
 https://again.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",RING IV: Night Of Champions
-https://abigail.009292.xyz/ppv.m3u8
+https://600.pixelcraft.qzz.io/ppv.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",UFC Qatar: Tsarukyan vs Hooker
 https://abigail.009292.xyz/ataide.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",UFC Qatar: Tsarukyan vs Hooker
 https://loveliness.pixelcraft.qzz.io/roxieufc.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",UFC Qatar: Tsarukyan vs Hooker
 https://loveliness.pixelcraft.qzz.io/simplyabigail.m3u8
+
+#EXTGRP:Roxiestreams - Motorsports
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Las Vegas Grand Prix
+https://600.pixelcraft.qzz.io/f1.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Las Vegas Grand Prix
+https://600.pixelcraft.qzz.io/f1alt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Las Vegas Grand Prix
+https://600.pixelcraft.qzz.io/main.m3u8
 
 #EXTGRP:Roxiestreams - NBA
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Atlanta Hawks vs New Orleans Pelicans
@@ -2201,6 +2229,8 @@ https://again.009292.xyz/nba6.m3u8
 https://abigail.009292.xyz/nba2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Sacramento Kings vs Denver Nuggets
 https://abigail.009292.xyz/nba7.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Washington Wizards vs Chicago Bulls
+https://abigail.009292.xyz/nba4.m3u8
 
 #EXTGRP:Roxiestreams - NFL
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Arizona State vs Colorado
@@ -2282,7 +2312,7 @@ https://abigail.009292.xyz/ncaa12.m3u8
 
 #EXTGRP:Roxiestreams - PPV
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - PPV",RING IV: Night Of Champions
-https://abigail.009292.xyz/ppv.m3u8
+https://600.pixelcraft.qzz.io/ppv.m3u8
 
 #EXTGRP:Roxiestreams - Soccer
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Barcelona vs Athletic Club
@@ -2291,16 +2321,8 @@ https://again.009292.xyz/deportes.m3u8
 https://again.009292.xyz/bayern.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Botafogo vs GrÃªmio
 https://abigail.009292.xyz/prem3.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bournemouth vs West Ham
-https://600.pixelcraft.qzz.io/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bournemouth vs West Ham
-https://600.pixelcraft.qzz.io/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Brighton vs Brentford
 https://again.009292.xyz/brentford.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Burnley vs Chelsea
-https://600.pixelcraft.qzz.io/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Burnley vs Chelsea
-https://600.pixelcraft.qzz.io/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Deportivo AlavÃ©s vs Celta Vigo
 https://again.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Fiorentina vs Juventus
@@ -2325,10 +2347,6 @@ https://abigail.009292.xyz/main.m3u8
 https://abigail.009292.xyz/ncaa12.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Newcastle United vs Manchester City
 https://loveliness.009292.xyz/liverpool2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Osasuna vs Real Sociedad
-https://600.pixelcraft.qzz.io/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Osasuna vs Real Sociedad
-https://600.pixelcraft.qzz.io/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Palmeiras vs Fluminense
 https://again.009292.xyz/tudn.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Premier League
@@ -2339,10 +2357,6 @@ https://abigail.009292.xyz/psg.m3u8
 https://again.009292.xyz/beines.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Vancouver Whitecaps vs LAFC
 https://abigail.009292.xyz/mls.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Villarreal vs Mallorca
-https://600.pixelcraft.qzz.io/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Villarreal vs Mallorca
-https://600.pixelcraft.qzz.io/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Wolves vs Crystal Palace
 https://again.009292.xyz/wolves.m3u8
 
