@@ -1313,7 +1313,7 @@ https://wurlrainbowmedia.global.transmit.live/us-west-2-a/manifest/68c4987e18e2a
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd*****
 
-#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHW9lq_sWS1Gy81NOCUus1Hrz9kISujJVjQ&s", NFL
+#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHW9lq_sWS1Gy81NOCUus1Hrz9kISujJVjQ&s", NFL 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
