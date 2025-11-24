@@ -5,23 +5,28 @@
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/UtjyxlUFhgBRaBGFMkqgdowuGQCWUnpm/alpha/stream/tenshin-nasukawa-vs-takuma-inoue/1/playlist.m3u8
+https://lb6.strmd.top/secure/tLPbNGzpfPjmykowUoXMIpeBBjMoBzMt/alpha/stream/tenshin-nasukawa-vs-takuma-inoue/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Football
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Austria U17 vs Italy U17" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Austria U17 vs Italy U17
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Austria U17 vs Italy U17" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQg+RQihDbuakIl1atOXRH0EKTPii5gy8IvNE2mtMHbGiIQA.webp" group-title="StreamedSU - Football",Austria U17 vs Italy U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/XeGeVOOHXwMEYBhzOrVsuZKRdwlksyGj/alpha/stream/austria-u17-vs-italy-u17/1/playlist.m3u8
+https://lb6.strmd.top/secure/ozjlYECFFDBEzLkEHiksFMyGkhOLBwsq/alpha/stream/austria-u17-vs-italy-u17/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nasaf Qarshi vs Traktor Sazi FC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Nasaf Qarshi vs Traktor Sazi FC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/GEQtqzLFyqCzCzWYIsNbjSMiwhypbORe/alpha/stream/nasaf-qarshi-vs-traktor-sazi-fc/1/playlist.m3u8
+https://lb5.strmd.top/secure/YsfSAygOlKPjOvidSSOqllqWjzEWEJEB/alpha/stream/nasaf-qarshi-vs-traktor-sazi-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nasaf vs Tractor" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLywIbiHjqNIPrgMQQAExBmUIEiBQEKTPii5gy2+vNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Nasaf vs Tractor
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/DOLKwTcrToihLFgXxGStywDoEfaVeIvr/charlie/stream/nasaf-vs-tractor-sazi-1438742/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Other
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Lohja, Round Robin Women, Italy - Sweden" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Lohja, Round Robin Women, Italy - Sweden
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/oACkTsBQJsHAHNxsItgyGhJTiAFIzjBd/alpha/stream/lohja-round-robin-women-italy-sweden/1/playlist.m3u8
+https://lb6.strmd.top/secure/UnPkbMhvdnlDRJfRghAtAcpXnAKMxKfu/alpha/stream/lohja-round-robin-women-italy-sweden/1/playlist.m3u8
