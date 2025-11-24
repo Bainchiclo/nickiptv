@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Lohja, Round Robin Men, Italy - Germany" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Lohja, Round Robin Men, Italy - Germany
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Austria U17 vs Italy U17" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Austria U17 vs Italy U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/DszjpJeesYZuuGrhfKqBdHWcwLIXwXwF/alpha/stream/lohja-round-robin-men-italy-germany/1/playlist.m3u8
+https://lb2.strmd.top/secure/jORVIwwHBjsQQPBmBaAOkJrdAcpsMLuD/alpha/stream/austria-u17-vs-italy-u17/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="European Curling Championships: Lohja, Round Robin Men, Italy - Germany" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",European Curling Championships: Lohja, Round Robin Men, Italy - Germany
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/tUzBEVqjgRpXHIbjzPXcxCsBjFTrJGhI/charlie/stream/lohja-round-robin-men-italy-germany-1629470836/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Tenshin Nasukawa vs Takuma Inoue" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Tenshin Nasukawa vs Takuma Inoue
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/eHPpinqstziPrOuuyCQrbAWulmCUGVuE/alpha/stream/tenshin-nasukawa-vs-takuma-inoue/1/playlist.m3u8
+https://lb3.strmd.top/secure/ShTsEmPgIugcWhBajPzSgQPMpTFwHWnj/alpha/stream/tenshin-nasukawa-vs-takuma-inoue/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nara Club vs Sagamihara" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiklEOHhgSIbiD4gYIACa4QEU3tWqCFJnxRcd5evNFOmtMDrGiIQA.webp" group-title="StreamedSU - Football",Nara Club vs Sagamihara
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/glptRzEsfHQbfEporAFnWsVHSwdsouYz/bravo/stream/1763960400000-nara-club-sagamihara/1/playlist.m3u8
+https://lb7.strmd.top/secure/SKnadxgzObFAaUVbSrgWybWRVukQYZTg/bravo/stream/1763960400000-nara-club-sagamihara/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Osaka vs Kochi United" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gkIAQBMxobhpCIIB3CZgg9EwjGBM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",FC Osaka vs Kochi United
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/MvCJQjFJytcgThWOeuIkOmRgeHPJrhfR/bravo/stream/1763960400000-osaka-kochi-united/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="India vs. South Africa" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",India vs. South Africa
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/cricket/index.m3u8
+https://lb4.strmd.top/secure/jHCAGQQOSnfduAwfCfdXrhfvGnxrwLfn/bravo/stream/1763960400000-osaka-kochi-united/1/playlist.m3u8
