@@ -101,13 +101,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd*****
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",Aniplus
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJj494OpI0bKrTrvcHqEkzMYzqtfLNdWjQrg&s" group-title="PH Cable TV",Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",Ani-One
+#EXTINF:-1 tvg-id="Amazing Race" tvg-name="Amazing Race" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0i1CNk0r3wHIgkM652LIW-NS_PpQCbJ3Sjw&s" group-title="PH Cable TV",Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://yt3.googleusercontent.com/4RMsaQKiNd5Fgbc90h2taWH_9U-v4ou89TapOb0gvqqRJDTsqnMfZjA6jLRqVFdT1ko7yOArzFA=s900-c-k-c0x00ffffff-no-rj" group-title="PH Cable TV",Ani-One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",Anime x hidive
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2GliQcEnnp4pGTdSkHwVBMvwLoWLP5D2bA&s" group-title="PH Cable TV",Anime x hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 ****#EXTINF:-1 tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title="PH Cable TV", Arirang
