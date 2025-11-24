@@ -27,7 +27,7 @@ jobs:
         run: pip install requests
 
       - name: 🎯 Run scraping script
-        run: python drewlivemerge.py
+        run: python tvpassplaylist.py
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
