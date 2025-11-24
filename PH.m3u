@@ -1216,26 +1216,8 @@ https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_key=0a23d3a4fc1747364e0c21a2628c2527:a86b3696fd9a4710da046dcac8af0b3c
 https://abm5x5xaaaaaaaamnqoji7bfgac34.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd*****
 
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 1
-http://45.173.75.4:2061/play/a09z
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 2
-http://45.173.75.4:2061/play/a06l
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 3
-http://45.173.75.4:2061/play/a020
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 4
-http://45.173.75.4:2061/play/a063
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 5
-http://45.173.75.4:2061/play/a01r
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 6
-http://45.173.75.4:2061/play/a017
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", ESPN 7
-http://45.173.75.4:2061/play/a016*****
+https://tvpass.org/live/ESPN2/hd
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcN1GFNzhEnMmPxoejSTUjT3yYJ_gkDbO0g&s" group-title="Sports TV",Eurosport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
