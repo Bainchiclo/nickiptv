@@ -9,7 +9,7 @@ playlist_urls = [
     "https://mc-5dugfxm3jo.bunny.run/playlist.m3u8",
     "https://mc-hda11sn95o.bunny.run/playlist.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Roxiestreams.m3u8",
-    "https://www.apsattv.com/uslg.m3u",
+    "http://tvpass.org/playlist/m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Pixelsports.m3u8"
 ] 
 
