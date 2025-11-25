@@ -1,0 +1,176 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Atlanta Hawks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_atlantahawks/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Boston Celtics
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_bostonceltics/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Brooklyn Nets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_brooklynnets/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Charlotte Hornets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_charlottehornets/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Chicago Bulls
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_chicagobulls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_clevelandcavaliers/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Dallas Mavericks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_dallasmavericks/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Denver Nuggets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_denvernuggets/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Detroit Pistons
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_detroitpistons/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Golden State Warriors
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_goldenstatewarriors/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Houston Rockets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_houstonrockets/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Indiana Pacers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_indianapacers/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", LA Clippers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_laclippers/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Los Angeles Lakers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_losangeleslakers/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Memphis Grizzlies
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_memphisgrizzlies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Miami Heat
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_miamiheat/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Milwaukee Bucks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_milwaukeebucks/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Minnesota Timberwolves
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_minnesotatimberwolves/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_neworleanspelicans/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", New York Knicks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_newyorkknicks/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_oklahomacitythunder/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Orlando Magic
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_orlandomagic/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Philadelphia 76ers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_philadelphia76ers/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Phoenix Suns
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_phoenixsuns/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Sacramento Kings
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_sacramentokings/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", San Antonio Spurs 
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_sanantoniospurs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Toronto Raptors
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_torontoraptors/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Utah Jazz
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_utahjazz/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Washington Wizards
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/nba_washingtonwizards/index.m3u8
+
