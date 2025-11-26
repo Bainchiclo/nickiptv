@@ -680,13 +680,13 @@ http://161.49.17.2:6610/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
+*****#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd*****
 
 ****#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="PH Cable TV", Metro Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
