@@ -1061,10 +1061,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://i.imgur.com/MfkSpMr.png",Top Gear
+*****#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://i.imgur.com/MfkSpMr.png",Top Gear
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0020a49a0d48d25362f30057e72f0b4a":"86abf8c2a6f693a958c6492bef11ee81"}
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd*****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="PH Cable TV", Travel Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
