@@ -473,8 +473,8 @@ http://tv14s.xyz:8080/A1Jay5/362586/101825
 ****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="PH Cable TV"", GMA News TV
 http://vipgerretger.top:8080/VIP015591737373165310/a2376cb85e0c/34749*****
 
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="PH Cable TV"", GMA News TV II
-http://vocotv.live:80/user9970/2011197/705839*****
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="PH Cable TV"", GMA News TV
+http://fo.dnsoso.us/live/9b91a675f1/9b87vm9lcc/500967.m3u8
 
 ****#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH Cable TV", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
