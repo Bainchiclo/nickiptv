@@ -1631,6 +1631,9 @@ https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm2sy5W60kAhdI_6viKTFCbYhWFcGnwQNRDg&s" group-title="Sports TV", ABC
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png"" group-title="Sports TV", ABC News Live
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="Sports TV",M LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
