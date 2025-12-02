@@ -115,4 +115,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
+#EXTINF:-1 tvg-id="CH801" tvg-logo="https://www.facebook.com/fastsportsHDPK/" group-title="Sports TV", Fight Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
