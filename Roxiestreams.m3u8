@@ -1,76 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Arsenal vs Brentford
-https://loveliness.wnion.co.in/dep.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Fortaleza vs Corinthians
-https://loveliness.wnion.co.in/main.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Fortaleza vs Corinthians
-https://loveliness.wnion.co.in/usa.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Liverpool vs Sunderland
+https://loveliness.wnion.co.in/tnt3.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",AtlÃ©tico Mineiro vs Palmeiras
+https://loveliness.wnion.co.in/mls.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bahia vs Sport Recife
 https://loveliness.wnion.co.in/mls.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Brighton vs Aston Villa
 https://loveliness.wnion.co.in/prem.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Cruz Azul vs Tigres UANL
-https://loveliness.wnion.co.in/mls.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Burnley vs Crystal Palace
-https://loveliness.wnion.co.in/colo.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Liverpool vs Sunderland
-https://loveliness.wnion.co.in/tnt3.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Wolves vs Nottingham Forest
-https://thedaffodil.wnion.co.in/flu.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Union Berlin vs Bayern MÃ¼nchen
 https://loveliness.wnion.co.in/cbssn.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Inter Milan vs Venezia
-https://loveliness.wnion.co.in/dortmund.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Dundee United vs Rangers
-https://loveliness.wnion.co.in/arena.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Flamengo vs CearÃ¡
-https://loveliness.wnion.co.in/c11.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",SÃ£o Paulo vs Internacional
-https://loveliness.wnion.co.in/tudn.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bochum vs Stuttgart
-https://loveliness.wnion.co.in/main.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bochum vs Stuttgart
-https://loveliness.wnion.co.in/usa.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Juventude vs Santos
-https://loveliness.wnion.co.in/marseille.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Napoli vs Cagliarin
-https://loveliness.wnion.co.in/arena.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Monterrey vs Toluca
-https://loveliness.wnion.co.in/azteca.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Athletic Club vs Real Madrid
 https://loveliness.wnion.co.in/dep.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",AtlÃ©tico Mineiro vs Palmeiras
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Burnley vs Crystal Palace
+https://loveliness.wnion.co.in/colo.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Fortaleza vs Corinthians
+https://loveliness.wnion.co.in/usa.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Fortaleza vs Corinthians
+https://loveliness.wnion.co.in/main.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Inter Milan vs Venezia
+https://loveliness.wnion.co.in/dortmund.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Arsenal vs Brentford
+https://loveliness.wnion.co.in/dep.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Wolves vs Nottingham Forest
+https://thedaffodil.wnion.co.in/flu.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Flamengo vs CearÃ¡
+https://loveliness.wnion.co.in/c11.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Juventude vs Santos
+https://loveliness.wnion.co.in/marseille.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Cruz Azul vs Tigres UANL
 https://loveliness.wnion.co.in/mls.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",New York Knicks vs Boston Celtics
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Dundee United vs Rangers
+https://loveliness.wnion.co.in/arena.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",SÃ£o Paulo vs Internacional
+https://loveliness.wnion.co.in/tudn.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Napoli vs Cagliarin
+https://loveliness.wnion.co.in/arena.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bochum vs Stuttgart
+https://loveliness.wnion.co.in/usa.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Bochum vs Stuttgart
+https://loveliness.wnion.co.in/main.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Monterrey vs Toluca
+https://loveliness.wnion.co.in/azteca.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Oklahoma City Thunder vs Golden State Warriors
+https://loveliness.wnion.co.in/nba3.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Oklahoma City Thunder vs Golden State Warriors
 https://loveliness.wnion.co.in/nba3alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",New York Knicks vs Boston Celtics
 https://loveliness.wnion.co.in/nba3.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Portland Trail Blazers vs Toronto Raptors
-https://thedaffodil.wnion.co.in/nba2.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Washington Wizards vs Philadelphia 76ers
-https://thedaffodil.wnion.co.in/nba.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Memphis Grizzlies vs San Antonio Spurs
-https://thedaffodil.wnion.co.in/nba5.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Oklahoma City Thunder vs Golden State Warriors
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",New York Knicks vs Boston Celtics
 https://loveliness.wnion.co.in/nba3alt.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Oklahoma City Thunder vs Golden State Warriors
-https://loveliness.wnion.co.in/nba3.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Minnesota Timberwolves vs New Orleans Pelicans
-https://thedaffodil.wnion.co.in/nba4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New York Giants vs New England Patriots
-https://loveliness.wnion.co.in/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New York Giants vs New England Patriots
 https://loveliness.wnion.co.in/nfl.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New York Giants vs New England Patriots
+https://loveliness.wnion.co.in/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE NXT
 https://loveliness.wnion.co.in/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Qualifying
-https://loveliness.wnion.co.in/f1alt.m3u8
+https://loveliness.wnion.co.in/f1.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Qualifying
-https://loveliness.wnion.co.in/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Sprint
 https://loveliness.wnion.co.in/f1alt.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Sprint
 https://loveliness.wnion.co.in/f1.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Sprint
+https://loveliness.wnion.co.in/f1alt.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",WWE NXT
 https://loveliness.wnion.co.in/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE NXT
