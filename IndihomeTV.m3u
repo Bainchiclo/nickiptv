@@ -1,121 +1,121 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", My Kids
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", My Kids
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", TV5 Monde
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", HBO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Tvri World
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Tvri World
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Warner
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Warner
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Thrill
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", AXN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Rock Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Kix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Kix
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", K+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", K+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome TV" tvg-logo="", Aljazeera
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Aljazeera
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
-#EXTINF:-1 tvg-id="Horee" tvg-logo="https://iili.io/JmoB8np.png" group-title="IndiHome TV",Horee!
+#EXTINF:-1 tvg-id="Horee" tvg-logo="https://iili.io/JmoB8np.png" group-title="IndiHome|SkyGo",Horee!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg" group-title="IndiHome TV" Maxstream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg" group-title="IndiHome|SkyGo" Maxstream
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Chinese_Drama_Logo.webp" group-title="IndiHome TV",Chinese Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Chinese_Drama_Logo.webp" group-title="IndiHome|SkyGo",Chinese Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Animal_Planet.svg" group-title="IndiHome TV",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Animal_Planet.svg" group-title="IndiHome|SkyGo",Animal Planet HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Curiosity_Channel.svg" group-title="IndiHome TV",Curiosity
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Curiosity_Channel.svg" group-title="IndiHome|SkyGo",Curiosity
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Discovery_Asia.webp" group-title="IndiHome TV",Discovery Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Discovery_Asia.webp" group-title="IndiHome|SkyGo",Discovery Asia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Love_Nature.webp" group-title="IndiHome TV",Love Nature HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Love_Nature.webp" group-title="IndiHome|SkyGo",Love Nature HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="1111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png" group-title="IndiHome TV", Panda TV
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png" group-title="IndiHome|SkyGo", Panda TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
-#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="IndiHome TV", Cartoon Network
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="IndiHome|SkyGo", Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1 tvg-id="CH801" tvg-logo="https://www.facebook.com/fastsportsHDPK/" group-title="IndiHome TV", Fight Sports
+#EXTINF:-1 tvg-id="CH801" tvg-logo="https://www.facebook.com/fastsportsHDPK/" group-title="IndiHome|SkyGo", Fight Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -129,3 +129,39 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
 https://cdn09jtedge.indihometv.com/dassdvr/134/nba/manifest.mpd*****
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Arirang
+https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", BBC Earth
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", BBC Lifestyle
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Boomerang
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Bloomberg
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Cbeebies
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Fashion TV
+https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Lotus
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", NHK World
+https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", NHK World Premium
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IndiHome|SkyGo" tvg-logo="", Warner TV
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
