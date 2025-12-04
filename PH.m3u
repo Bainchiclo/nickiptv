@@ -1812,8 +1812,17 @@ https://loveliness.wnion.co.in/f1.m3u8
 *****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipi_Cg3KyLx8hpnBt_BrigAfm6VtiXliqrg&s" group-title="Cable Tv [Sports]", WWE NXT
 https://loveliness.wnion.co.in/wwe.m3u8*****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN
 https://7pal.short.gy/espnus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Cable Tv [Sports]", ESPN 2
-https://7pal.short.gy/espn2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" group-title="Cable Tv [PH]", Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6eDEHT9CpmIFRXSNJhVfnC6t5ghFZGvvwcg&s" group-title="Cable Tv [PH]", Fashion Box
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqEsAaGfydjuAvdWqRrjxcjyxVGvpJIvvXg&s" group-title="Cable Tv [PH]", MTV 80s
+https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Cable Tv [Sports]", ESPN 2
+https://7pal.short.gy/espn2*****
