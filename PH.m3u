@@ -1826,3 +1826,29 @@ https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 
 *****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Cable Tv [Sports]", ESPN 2
 https://7pal.short.gy/espn2*****
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="Cable Tv [PH]", MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnxhd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="Cable Tv [PH]", MN Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [Sports]" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png", Football FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=979e72a070ec437ba92c597c287acbad:7f4db6de524b2e51c87f61566ff77039
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#https://get.perfecttv.net/1080.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=footballfhd|authorization=Bearer 
+https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=footballfhd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [Sports]" tvg-logo="https://get.perfecttv.net/logo/cricketfhd.png", Cricket FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=cricket
