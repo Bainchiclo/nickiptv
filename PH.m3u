@@ -1678,7 +1678,8 @@ https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playli
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm2sy5W60kAhdI_6viKTFCbYhWFcGnwQNRDg&s" group-title="Cable Tv [PH]", ABC
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://kstv.us:8080/DBeverly/2290061890/48754
+*****https://fl1.moveonjoy.com/ABC_EAST/index.m3u8*****
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png"" group-title="Cable Tv [PH]", ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
