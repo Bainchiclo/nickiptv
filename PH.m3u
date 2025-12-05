@@ -632,13 +632,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
-*****#EXTINF:-1 group-title="Cable Tv [PH]" tvg-id="" tvg-logo="https://i.imgur.com/Nd9gqA2.png",K+
+#EXTINF:-1 group-title="Cable Tv [PH]" tvg-id="" tvg-logo="https://i.imgur.com/Nd9gqA2.png",K+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd*****
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 ****#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Cable Tv [PH]", KBS World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
