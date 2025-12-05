@@ -1895,8 +1895,11 @@ https://loveliness.wnion.co.in/f1.m3u8*****
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipi_Cg3KyLx8hpnBt_BrigAfm6VtiXliqrg&s" group-title="Cable Tv [Sports]", WWE NXT
 http://kstv.us:8080/DBeverly/2290061890/47642
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQ3GF3p0lZOxdXofDM4tD6cJqtcQ6IYy31A&s" group-title="Cable Tv [Sports]", BEK Sports
 https://7pal.short.gy/espnus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvIHVF-xsnBXCyl8lFzufEOLgFf5jdN_1EnQ&s" group-title="Cable Tv [Sports]", Horse & Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
