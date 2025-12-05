@@ -1446,6 +1446,9 @@ http://kstv.us:8080/DBeverly/2290061890/15929
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQdBzoiXwuVu9iDL9immdY8Ro5U0jK1vQMA&s" group-title="Cable Tv [Sports]", TSN 2
 http://kstv.us:8080/DBeverly/2290061890/15928
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png" group-title="Cable Tv [Sports]", TSN 3
+http://kstv.us:8080/Slick007/1934209783/40649
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpYp7zr6GXMk3QoXbaC3hw7BpNSp3O28_Dg&s" group-title="Cable Tv [Sports]", TSN 4
 http://kstv.us:8080/DBeverly/2290061890/15926
 
