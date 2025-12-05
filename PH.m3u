@@ -1901,6 +1901,9 @@ https://7pal.short.gy/espnus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvIHVF-xsnBXCyl8lFzufEOLgFf5jdN_1EnQ&s" group-title="Cable Tv [Sports]", Horse & Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8QnpMZlxWHwO627tEGNJ7W-NLrgLdkqpsg&s" group-title="Cable Tv [PH]", Bloomberg Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGiXTkx0kxThEl-xwM_pKcSoLmROS6UPyPlw&s" group-title="Cable Tv [Sports]", Sky Sports Main Event
 http://kstv.us:8080/DBeverly/2290061890/47868
 
