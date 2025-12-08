@@ -2,11 +2,11 @@
 
 #EXTINF:-1 group-logo="https://i.imgur.com/4iqV3FD.jpeg"
 
-#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge",Grandstand
+*****#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge",Grandstand
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/astro/info/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjaGljYXB5dGVyIiwiZXhwIjoxNzY2NDY3NzY1fQ.gn7M5KNhI0kKLWbp-drm5egt9f87-JOtexCfHDYNtQQ
+https://converse.nathcreqtives.com/astro/info/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjaGljYXB5dGVyIiwiZXhwIjoxNzY2NDY3NzY1fQ.gn7M5KNhI0kKLWbp-drm5egt9f87-JOtexCfHDYNtQQ****
 
 #EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge",PTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
