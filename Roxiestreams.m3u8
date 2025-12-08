@@ -1,56 +1,56 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Torino vs Milan
 https://600.xn--1000-ugoxe8a5a7g4h.com/dep.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New Orleans Saints vs Tampa Bay Buccaneers
-https://600.shadow-ran.online/nfl6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Indianapolis Colts vs Jacksonville Jaguars
 https://600.shadow-ran.online/nfl7.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL RedZone
-https://600.xn--1000-ugoa0hsb9a0hb.com/redzone2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL RedZone
-https://600.xn--1000-ugoa0hsb9a0hb.com/redzone.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Denver Broncos vs Las Vegas Raiders
-https://600.xn--1000-ugoa0hsb9a0hb.com/nfl9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Pittsburgh Steelers vs Baltimore Ravens
 https://600.shadow-ran.online/nfl8.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL RedZone
+https://600.xn--1000-ugoa0hsb9a0hb.com/redzone.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL RedZone
+https://600.xn--1000-ugoa0hsb9a0hb.com/redzone2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New Orleans Saints vs Tampa Bay Buccaneers
+https://600.shadow-ran.online/nfl6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Los Angeles Rams vs Arizona Cardinals
 https://600.xn--1000-ugoa0hsb9a0hb.com/nfl11.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Denver Broncos vs Las Vegas Raiders
+https://600.xn--1000-ugoa0hsb9a0hb.com/nfl9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Miami Dolphins vs New York Jets
 https://600.shadow-ran.online/nfl5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Chicago Bears vs Green Bay Packers
 https://600.xn--1000-ugoa0hsb9a0hb.com/nfl10.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.xn--1000-ugoa0hsb9a0hb.com/hub.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",CRUZ vs ROACH
+https://600.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
 https://600.xn--1000-ugoa0hsb9a0hb.com/simply.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.shadow-ran.online/tnt2.m3u8
+https://600.xn--1000-ugoxe8a5a7g4h.com/ufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
+https://600.xn--1000-ugoa0hsb9a0hb.com/hub.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
 https://600.shadow-ran.online/ufc.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.shadow-ran.online/hub.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.shadow-ran.online/simply.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.xn--1000-ugoa0hsb9a0hb.com/ufc.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.xn--1000-ugoxe8a5a7g4h.com/hub.m3u8
+https://600.xn--1000-ugoxe8a5a7g4h.com/simply.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
 https://600.xn--1000-ugoa0hsb9a0hb.com/tnt2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.xn--1000-ugoxe8a5a7g4h.com/simply.m3u8
+https://600.xn--1000-ugoxe8a5a7g4h.com/hub.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.shadow-ran.online/plus.m3u8
+https://600.xn--1000-ugoxe8a5a7g4h.com/plus.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
+https://600.xn--1000-ugoa0hsb9a0hb.com/ufc.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
 https://600.xn--1000-ugoa0hsb9a0hb.com/plus.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
+https://600.shadow-ran.online/simply.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
+https://600.shadow-ran.online/plus.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
 https://600.xn--1000-ugoxe8a5a7g4h.com/tnt2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.xn--1000-ugoxe8a5a7g4h.com/ufc.m3u8
+https://600.shadow-ran.online/hub.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",UFC 323: Dvalishvili vs Yan 2
-https://600.xn--1000-ugoxe8a5a7g4h.com/plus.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",CRUZ vs ROACH
-https://600.shadow-ran.online/ppv.m3u8
+https://600.shadow-ran.online/tnt2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Laliga
 https://600.xn--1000-ugoxe8a5a7g4h.com/dep.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Laliga
