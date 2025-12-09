@@ -1961,12 +1961,12 @@ https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&chan
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=cricket
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [Sports]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png", Astro Grandstand
+*****#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [Sports]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png", Astro Grandstand
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd*****
 
 #EXTINF:-1 tvg-id="daznrise" tvg-name="DAZN RISE" tvg-logo="https://i.ibb.co/BL5vq04/image-removebg-preview-2.png" group-title="Cable Tv [Sports]",DAZN RISE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
