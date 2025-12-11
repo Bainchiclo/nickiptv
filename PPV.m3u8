@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d7c8f4da9cb95b75f6b66baa0697ae58-thumbnail.jpg" group-title="PPVLand - Global Football Streams",SK Rapid vs. Omonoia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6cde3f3ea3dfe1fb1030d997f29c796c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brann vs. Fenerbahçe
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/uecl_rap/index.m3u8
+https://gg.poocloud.in/uel_brn/index.m3u8
