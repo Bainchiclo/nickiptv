@@ -1468,20 +1468,20 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://cdn.vectorstock.com/i/1000v/67/91/tennis-player-silhouette-logo-vector-22656791.jpg" group-title="Cable Tv [Sports]",Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRH6JtaqWqAJYTx4weDjvybjDT9sITrAl7dQ&s" group-title="Cable Tv [Sports]", TSN 1
-http://kstv.us:8080/DBeverly/2290061890/15929
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRH6JtaqWqAJYTx4weDjvybjDT9sITrAl7dQ&s" group-title="Cable Tv [Sports]", TSN 1
+http://kstv.us:8080/DBeverly/2290061890/15929*****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQdBzoiXwuVu9iDL9immdY8Ro5U0jK1vQMA&s" group-title="Cable Tv [Sports]", TSN 2
-http://kstv.us:8080/DBeverly/2290061890/15928
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQdBzoiXwuVu9iDL9immdY8Ro5U0jK1vQMA&s" group-title="Cable Tv [Sports]", TSN 2
+http://kstv.us:8080/DBeverly/2290061890/15928*****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png" group-title="Cable Tv [Sports]", TSN 3
-http://kstv.us:8080/Slick007/1934209783/40649
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png" group-title="Cable Tv [Sports]", TSN 3
+http://kstv.us:8080/Slick007/1934209783/40649****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpYp7zr6GXMk3QoXbaC3hw7BpNSp3O28_Dg&s" group-title="Cable Tv [Sports]", TSN 4
-http://kstv.us:8080/DBeverly/2290061890/15926
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpYp7zr6GXMk3QoXbaC3hw7BpNSp3O28_Dg&s" group-title="Cable Tv [Sports]", TSN 4
+http://kstv.us:8080/DBeverly/2290061890/15926*****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQu7sgt_Cc2BXbhH8bGYhUdClFSWpeZ7-7xg&s" group-title="Cable Tv [Sports]", TSN 5
-http://kstv.us:8080/DBeverly/2290061890/15925
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQu7sgt_Cc2BXbhH8bGYhUdClFSWpeZ7-7xg&s" group-title="Cable Tv [Sports]", TSN 5
+http://kstv.us:8080/DBeverly/2290061890/15925****
 
 #EXTINF:-1 group-title="Cable Tv [Sports]" tvg-id="" tvg-logo="https://stmify.com/wp-content/uploads/2024/10/177-s.webp", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
