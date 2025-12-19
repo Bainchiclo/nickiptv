@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]", 1 test A2z
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/119440.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]",[PH] Cinema One
 https://webhop.live:443/live/juno123/juno123/19206.ts
 #EXTINF:-1 tvg-id="" tvg-name="[PH] GMA News TV" tvg-logo="" group-title=". PH [Test]",[PH] GMA News TV
