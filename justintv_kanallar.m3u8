@@ -10,10 +10,6 @@ https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
-#EXTINF:-1 tvg-name="AF Elbasani - KF Tirana (18:30)" group-title="Maç Yayınları",AF Elbasani - KF Tirana (18:30)
-https://andro.2385437.xyz/checklist/androstreamlivech17988679.m3u8
-#EXTINF:-1 tvg-name="AF Elbasani - KF Tirana (18:30)" group-title="Maç Yayınları",AF Elbasani - KF Tirana (18:30)
-https://andro.2385437.xyz/checklist/androstreamlivech17988679.m3u8
 #EXTINF:-1 tvg-name="AS Marsa - Esperance ST (20:00)" group-title="Maç Yayınları",AS Marsa - Esperance ST (20:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17989097.m3u8
 #EXTINF:-1 tvg-name="AS Marsa - Esperance ST (20:00)" group-title="Maç Yayınları",AS Marsa - Esperance ST (20:00)
@@ -24,6 +20,10 @@ https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech17988721.m3u8
 #EXTINF:-1 tvg-name="Al Ahli Doha - PFK Andijan (19:00)" group-title="Maç Yayınları",Al Ahli Doha - PFK Andijan (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17988721.m3u8
+#EXTINF:-1 tvg-name="Al Ahli Manama - Al Najma (20:00)" group-title="Maç Yayınları",Al Ahli Manama - Al Najma (20:00)
+https://andro.2385437.xyz/checklist/androstreamlivech17989145.m3u8
+#EXTINF:-1 tvg-name="Al Ahli Manama - Al Najma (20:00)" group-title="Maç Yayınları",Al Ahli Manama - Al Najma (20:00)
+https://andro.2385437.xyz/checklist/androstreamlivech17989145.m3u8
 #EXTINF:-1 tvg-name="Al Ahli Qatar - Al Wakrah (19:00)" group-title="Maç Yayınları",Al Ahli Qatar - Al Wakrah (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17988839.m3u8
 #EXTINF:-1 tvg-name="Al Ahli Qatar - Al Wakrah (19:00)" group-title="Maç Yayınları",Al Ahli Qatar - Al Wakrah (19:00)
@@ -90,6 +90,10 @@ https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech17988828.m3u8
 #EXTINF:-1 tvg-name="Beşiktaş (Bayanlar) - Botaş SK (Bayanlar) (19:00)" group-title="Maç Yayınları",Beşiktaş (Bayanlar) - Botaş SK (Bayanlar) (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17988828.m3u8
+#EXTINF:-1 tvg-name="Bnei Herzliya - Hapoel Holon (19:35)" group-title="Maç Yayınları",Bnei Herzliya - Hapoel Holon (19:35)
+https://andro.2385437.xyz/checklist/androstreamlivech17988952.m3u8
+#EXTINF:-1 tvg-name="Bnei Herzliya - Hapoel Holon (19:35)" group-title="Maç Yayınları",Bnei Herzliya - Hapoel Holon (19:35)
+https://andro.2385437.xyz/checklist/androstreamlivech17988952.m3u8
 #EXTINF:-1 tvg-name="Brezilya - İtalya (18:10)" group-title="Maç Yayınları",Brezilya - İtalya (18:10)
 https://andro.2385437.xyz/checklist/androstreamlivech17988549.m3u8
 #EXTINF:-1 tvg-name="Brezilya - İtalya (18:10)" group-title="Maç Yayınları",Brezilya - İtalya (18:10)
@@ -192,14 +196,14 @@ https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-name="Fildişi Sahili - Mozambik (20:30)" group-title="Maç Yayınları",Fildişi Sahili - Mozambik (20:30)
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-name="Fildişi Sahili - Mozambik (20:30)" group-title="Maç Yayınları",Fildişi Sahili - Mozambik (20:30)
+https://andro.2385437.xyz/checklist/androstreamlivech17989152.m3u8
+#EXTINF:-1 tvg-name="Fildişi Sahili - Mozambik (20:30)" group-title="Maç Yayınları",Fildişi Sahili - Mozambik (20:30)
+https://andro.2385437.xyz/checklist/androstreamlivech17989152.m3u8
 #EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
-#EXTINF:-1 tvg-name="Hadiya Hossana - Wolaitta Dicha (18:00)" group-title="Maç Yayınları",Hadiya Hossana - Wolaitta Dicha (18:00)
-https://andro.2385437.xyz/checklist/androstreamlivech17988514.m3u8
-#EXTINF:-1 tvg-name="Hadiya Hossana - Wolaitta Dicha (18:00)" group-title="Maç Yayınları",Hadiya Hossana - Wolaitta Dicha (18:00)
-https://andro.2385437.xyz/checklist/androstreamlivech17988514.m3u8
 #EXTINF:-1 tvg-name="Hollandaa - Küba (16:40)" group-title="Maç Yayınları",Hollandaa - Küba (16:40)
 https://andro.2385437.xyz/checklist/androstreamlivech17988981.m3u8
 #EXTINF:-1 tvg-name="Hollandaa - Küba (16:40)" group-title="Maç Yayınları",Hollandaa - Küba (16:40)
@@ -242,10 +246,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech17988510.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech17988768.m3u8
 #EXTINF:-1 tvg-name="MBA-MAI Moscow - BC UNICS (19:00)" group-title="Maç Yayınları",MBA-MAI Moscow - BC UNICS (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17988768.m3u8
-#EXTINF:-1 tvg-name="MS Safed - Ironi Eilat (19:30)" group-title="Maç Yayınları",MS Safed - Ironi Eilat (19:30)
-https://andro.2385437.xyz/checklist/androstreamlivech17988955.m3u8
-#EXTINF:-1 tvg-name="MS Safed - Ironi Eilat (19:30)" group-title="Maç Yayınları",MS Safed - Ironi Eilat (19:30)
-https://andro.2385437.xyz/checklist/androstreamlivech17988955.m3u8
+#EXTINF:-1 tvg-name="Maccabi Haifa B.C. - Hapoel Haifa (20:15)" group-title="Maç Yayınları",Maccabi Haifa B.C. - Hapoel Haifa (20:15)
+https://andro.2385437.xyz/checklist/androstreamlivech17989165.m3u8
+#EXTINF:-1 tvg-name="Maccabi Haifa B.C. - Hapoel Haifa (20:15)" group-title="Maç Yayınları",Maccabi Haifa B.C. - Hapoel Haifa (20:15)
+https://andro.2385437.xyz/checklist/androstreamlivech17989165.m3u8
 #EXTINF:-1 tvg-name="Mega U19 - Vojvodina U19 (19:00)" group-title="Maç Yayınları",Mega U19 - Vojvodina U19 (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17988845.m3u8
 #EXTINF:-1 tvg-name="Mega U19 - Vojvodina U19 (19:00)" group-title="Maç Yayınları",Mega U19 - Vojvodina U19 (19:00)
@@ -278,6 +282,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech17988945.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech17988562.m3u8
 #EXTINF:-1 tvg-name="Pharco - ENPPI Club (18:00)" group-title="Maç Yayınları",Pharco - ENPPI Club (18:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17988562.m3u8
+#EXTINF:-1 tvg-name="Qadsia SC - Sitra Club (19:30)" group-title="Maç Yayınları",Qadsia SC - Sitra Club (19:30)
+https://andro.2385437.xyz/checklist/androstreamlivech17989115.m3u8
+#EXTINF:-1 tvg-name="Qadsia SC - Sitra Club (19:30)" group-title="Maç Yayınları",Qadsia SC - Sitra Club (19:30)
+https://andro.2385437.xyz/checklist/androstreamlivech17989115.m3u8
 #EXTINF:-1 tvg-name="Quantum - Turbo (20:00)" group-title="Maç Yayınları",Quantum - Turbo (20:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17989041.m3u8
 #EXTINF:-1 tvg-name="Quantum - Turbo (20:00)" group-title="Maç Yayınları",Quantum - Turbo (20:00)
