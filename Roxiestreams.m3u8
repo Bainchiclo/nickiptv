@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW
-https://daffodil.shadow-ran.online/aew.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW
 https://daffodil.shadow-ran.online/aewalt.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW
+https://daffodil.shadow-ran.online/aew.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NCAA (College Football)
 https://daffodil.shadow-ran.online/ncaaalt.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NCAA (College Football)
@@ -15,10 +15,10 @@ https://daffodil.shadow-ran.online/napoli.m3u8
 https://601.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Houston Rockets vs Los Angeles Lakers
 https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Cleveland Cavaliers vs New York Knicks
-https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",San Antonio Spurs vs Oklahoma City Thunder
 https://601.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Cleveland Cavaliers vs New York Knicks
+https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Minnesota Timberwolves vs Denver Nuggets
 https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",California v Hawaiâi
@@ -28,9 +28,9 @@ https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE NXT
 https://601.shadow-ran.online/wwe2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW
-https://daffodil.shadow-ran.online/aew.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW
 https://daffodil.shadow-ran.online/aewalt.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",AEW
+https://daffodil.shadow-ran.online/aew.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NCAA (College Football)
 https://daffodil.shadow-ran.online/ncaaalt.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NCAA (College Football)
