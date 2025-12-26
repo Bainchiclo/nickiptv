@@ -1,250 +1,250 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]", 1 test A2z
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=".PH [Globe Users]", 1 test A2z
 http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/119440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]",[PH] Cinema One
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=".PH [Globe Users]",[PH] Cinema One
 https://webhop.live:443/live/juno123/juno123/19206.ts
-#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA News TV" tvg-logo="" group-title=". PH [Test]",[PH] GMA News TV
+#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA News TV" tvg-logo="" group-title=".PH [Globe Users]",[PH] GMA News TV
 https://webhop.live:443/live/juno123/juno123/19229.ts
-#EXTINF:-1 tvg-id="" tvg-name="[PH] TFC" tvg-logo="" group-title=". PH [Test]",[PH] TFC
+#EXTINF:-1 tvg-id="" tvg-name="[PH] TFC" tvg-logo="" group-title=".PH [Globe Users]",[PH] TFC
 https://webhop.live:443/live/juno123/juno123/19247.ts
-#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA Pinoy" tvg-logo="" group-title=". PH [Test]",[PH] GMA Pinoy
+#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA Pinoy" tvg-logo="" group-title=".PH [Globe Users]",[PH] GMA Pinoy
 https://webhop.live:443/live/juno123/juno123/19253.ts
-#EXTINF:-1 tvg-id="" tvg-name="[PH] Crime+Investigation" tvg-logo="" group-title=". PH [Test]",[PH] Crime+Investigation
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Crime+Investigation" tvg-logo="" group-title=".PH [Globe Users]",[PH] Crime+Investigation
 https://webhop.live:443/live/juno123/juno123/19255.ts
-#EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports2" tvg-logo="" group-title=". PH [Test]",[PH] beIN Sports2
+#EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports2" tvg-logo="" group-title=".PH [Globe Users]",[PH] beIN Sports2
 https://webhop.live:443/live/juno123/juno123/133702.ts
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC West (SP)" tvg-logo="" group-title=". PH [Test]",US (PH) TFC West (SP)
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC West (SP)" tvg-logo="" group-title=".PH [Globe Users]",US (PH) TFC West (SP)
 https://webhop.live:443/live/juno123/juno123/150958.ts
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 2 (SP)" tvg-logo="" group-title=". PH [Test]",US (PH) TFC 2 (SP)
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 2 (SP)" tvg-logo="" group-title=".PH [Globe Users]",US (PH) TFC 2 (SP)
 https://webhop.live:443/live/juno123/juno123/150959.ts
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 1 (SP)" tvg-logo="" group-title=". PH [Test]",US (PH) TFC 1 (SP)
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 1 (SP)" tvg-logo="" group-title=".PH [Globe Users]",US (PH) TFC 1 (SP)
 https://webhop.live:443/live/juno123/juno123/150960.ts
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Pinoy TV (SP)" tvg-logo="" group-title=". PH [Test]",US (PH) GMA Pinoy TV (SP)
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Pinoy TV (SP)" tvg-logo="" group-title=".PH [Globe Users]",US (PH) GMA Pinoy TV (SP)
 https://webhop.live:443/live/juno123/juno123/150961.ts
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA News TV SD (SP)" tvg-logo="" group-title=". PH [Test]",US (PH) GMA News TV SD (SP)
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA News TV SD (SP)" tvg-logo="" group-title=".PH [Globe Users]",US (PH) GMA News TV SD (SP)
 https://webhop.live:443/live/juno123/juno123/150962.ts
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Life TV (SP)" tvg-logo="" group-title=". PH [Test]",US (PH) GMA Life TV (SP)
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Life TV (SP)" tvg-logo="" group-title=".PH [Globe Users]",US (PH) GMA Life TV (SP)
 https://webhop.live:443/live/juno123/juno123/150963.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH BBC Earth HD (C)" tvg-logo="" group-title=". PH [Test]",PH BBC Earth HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH BBC Earth HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH BBC Earth HD (C)
 https://webhop.live:443/live/juno123/juno123/150964.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH BBC World News (C)" tvg-logo="" group-title=". PH [Test]",PH BBC World News (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH BBC World News (C)" tvg-logo="" group-title=".PH [Globe Users]",PH BBC World News (C)
 https://webhop.live:443/live/juno123/juno123/150965.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH WARNER HD (C)" tvg-logo="" group-title=". PH [Test]",PH WARNER HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH WARNER HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH WARNER HD (C)
 https://webhop.live:443/live/juno123/juno123/150966.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH RUSH PBA (FHD) (C)" tvg-logo="" group-title=". PH [Test]",PH RUSH PBA (FHD) (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH RUSH PBA (FHD) (C)" tvg-logo="" group-title=".PH [Globe Users]",PH RUSH PBA (FHD) (C)
 https://webhop.live:443/live/juno123/juno123/150967.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH UAAP Varsity CH (C)" tvg-logo="" group-title=". PH [Test]",PH UAAP Varsity CH (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH UAAP Varsity CH (C)" tvg-logo="" group-title=".PH [Globe Users]",PH UAAP Varsity CH (C)
 https://webhop.live:443/live/juno123/juno123/150968.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Tap Sports (C)" tvg-logo="" group-title=". PH [Test]",PH Tap Sports (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Tap Sports (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Tap Sports (C)
 https://webhop.live:443/live/juno123/juno123/150969.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Tap Edge Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Tap Edge Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Tap Edge Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Tap Edge Channel (C)
 https://webhop.live:443/live/juno123/juno123/150970.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Tap Action Flix HD (C)" tvg-logo="" group-title=". PH [Test]",PH Tap Action Flix HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Tap Action Flix HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Tap Action Flix HD (C)
 https://webhop.live:443/live/juno123/juno123/150971.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TV5 (C)" tvg-logo="" group-title=". PH [Test]",PH TV5 (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5 (C)" tvg-logo="" group-title=".PH [Globe Users]",PH TV5 (C)
 https://webhop.live:443/live/juno123/juno123/150972.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TAP TV (C)" tvg-logo="" group-title=". PH [Test]",PH TAP TV (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH TAP TV (C)" tvg-logo="" group-title=".PH [Globe Users]",PH TAP TV (C)
 https://webhop.live:443/live/juno123/juno123/150973.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TAP Movies HD (C)" tvg-logo="" group-title=". PH [Test]",PH TAP Movies HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH TAP Movies HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH TAP Movies HD (C)
 https://webhop.live:443/live/juno123/juno123/150974.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Rock Entertainment (C)" tvg-logo="" group-title=". PH [Test]",PH Rock Entertainment (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Rock Entertainment (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Rock Entertainment (C)
 https://webhop.live:443/live/juno123/juno123/150975.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Asia (C)" tvg-logo="" group-title=". PH [Test]",PH Discovery Asia (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Asia (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Discovery Asia (C)
 https://webhop.live:443/live/juno123/juno123/150976.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Premier Sports HD (C)" tvg-logo="" group-title=". PH [Test]",PH Premier Sports HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Premier Sports HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Premier Sports HD (C)
 https://webhop.live:443/live/juno123/juno123/150978.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Paramount Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Paramount Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Paramount Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Paramount Channel (C)
 https://webhop.live:443/live/juno123/juno123/150979.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH One news HD (C)" tvg-logo="" group-title=". PH [Test]",PH One news HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH One news HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH One news HD (C)
 https://webhop.live:443/live/juno123/juno123/150980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH One Sports Plus (C)" tvg-logo="" group-title=". PH [Test]",PH One Sports Plus (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH One Sports Plus (C)" tvg-logo="" group-title=".PH [Globe Users]",PH One Sports Plus (C)
 https://webhop.live:443/live/juno123/juno123/150981.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Nick Jr (C)" tvg-logo="" group-title=". PH [Test]",PH Nick Jr (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Nick Jr (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Nick Jr (C)
 https://webhop.live:443/live/juno123/juno123/150982.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH NHK Japan (C)" tvg-logo="" group-title=". PH [Test]",PH NHK Japan (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH NHK Japan (C)" tvg-logo="" group-title=".PH [Globe Users]",PH NHK Japan (C)
 https://webhop.live:443/live/juno123/juno123/150983.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH NAT GEO (C)" tvg-logo="" group-title=". PH [Test]",PH NAT GEO (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH NAT GEO (C)" tvg-logo="" group-title=".PH [Globe Users]",PH NAT GEO (C)
 https://webhop.live:443/live/juno123/juno123/150984.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Moonbug Kids SD (C)" tvg-logo="" group-title=". PH [Test]",PH Moonbug Kids SD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Moonbug Kids SD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Moonbug Kids SD (C)
 https://webhop.live:443/live/juno123/juno123/150985.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH KIX HD (C)" tvg-logo="" group-title=". PH [Test]",PH KIX HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH KIX HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH KIX HD (C)
 https://webhop.live:443/live/juno123/juno123/150986.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH K-Plus Channel (C)" tvg-logo="" group-title=". PH [Test]",PH K-Plus Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH K-Plus Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH K-Plus Channel (C)
 https://webhop.live:443/live/juno123/juno123/150987.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH HITS HD (C)" tvg-logo="" group-title=". PH [Test]",PH HITS HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH HITS HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH HITS HD (C)
 https://webhop.live:443/live/juno123/juno123/150988.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH France24_DR (C)" tvg-logo="" group-title=". PH [Test]",PH France24_DR (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH France24_DR (C)" tvg-logo="" group-title=".PH [Globe Users]",PH France24_DR (C)
 https://webhop.live:443/live/juno123/juno123/150990.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH EWTN_DR (C)" tvg-logo="" group-title=". PH [Test]",PH EWTN_DR (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH EWTN_DR (C)" tvg-logo="" group-title=".PH [Globe Users]",PH EWTN_DR (C)
 https://webhop.live:443/live/juno123/juno123/150992.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH EGG (C)" tvg-logo="" group-title=". PH [Test]",PH EGG (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH EGG (C)" tvg-logo="" group-title=".PH [Globe Users]",PH EGG (C)
 https://webhop.live:443/live/juno123/juno123/150993.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Dreamworks HD (C)" tvg-logo="" group-title=". PH [Test]",PH Dreamworks HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Dreamworks HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Dreamworks HD (C)
 https://webhop.live:443/live/juno123/juno123/150994.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH DepEd (C)" tvg-logo="" group-title=". PH [Test]",PH DepEd (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH DepEd (C)" tvg-logo="" group-title=".PH [Globe Users]",PH DepEd (C)
 https://webhop.live:443/live/juno123/juno123/150995.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN HD (C)" tvg-logo="" group-title=". PH [Test]",PH CNN HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH CNN HD (C)
 https://webhop.live:443/live/juno123/juno123/150997.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN (C)" tvg-logo="" group-title=". PH [Test]",PH CNN (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN (C)" tvg-logo="" group-title=".PH [Globe Users]",PH CNN (C)
 https://webhop.live:443/live/juno123/juno123/150998.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CCTV 4 (C)" tvg-logo="" group-title=". PH [Test]",PH CCTV 4 (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH CCTV 4 (C)" tvg-logo="" group-title=".PH [Globe Users]",PH CCTV 4 (C)
 https://webhop.live:443/live/juno123/juno123/150999.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Blue Ant Extreme Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Blue Ant Extreme Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Blue Ant Extreme Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Blue Ant Extreme Channel (C)
 https://webhop.live:443/live/juno123/juno123/151001.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Be in sports 2 (C)" tvg-logo="" group-title=". PH [Test]",PH Be in sports 2 (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Be in sports 2 (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Be in sports 2 (C)
 https://webhop.live:443/live/juno123/juno123/151002.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH BUKO Channel (C)" tvg-logo="" group-title=". PH [Test]",PH BUKO Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH BUKO Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH BUKO Channel (C)
 https://webhop.live:443/live/juno123/juno123/151004.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH BOOMERANG (C)" tvg-logo="" group-title=". PH [Test]",PH BOOMERANG (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH BOOMERANG (C)" tvg-logo="" group-title=".PH [Globe Users]",PH BOOMERANG (C)
 https://webhop.live:443/live/juno123/juno123/151005.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Aniplus Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Aniplus Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Aniplus Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Aniplus Channel (C)
 https://webhop.live:443/live/juno123/juno123/151006.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ARIRANG TV WORLD (C)" tvg-logo="" group-title=". PH [Test]",PH ARIRANG TV WORLD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH ARIRANG TV WORLD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH ARIRANG TV WORLD (C)
 https://webhop.live:443/live/juno123/juno123/151007.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAL PLANET (C)" tvg-logo="" group-title=". PH [Test]",PH ANIMAL PLANET (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAL PLANET (C)" tvg-logo="" group-title=".PH [Globe Users]",PH ANIMAL PLANET (C)
 https://webhop.live:443/live/juno123/juno123/151008.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH AL JAZEERA (C)" tvg-logo="" group-title=". PH [Test]",PH AL JAZEERA (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH AL JAZEERA (C)" tvg-logo="" group-title=".PH [Globe Users]",PH AL JAZEERA (C)
 https://webhop.live:443/live/juno123/juno123/151009.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH A2Z (C)" tvg-logo="" group-title=". PH [Test]",PH A2Z (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH A2Z (C)" tvg-logo="" group-title=".PH [Globe Users]",PH A2Z (C)
 https://webhop.live:443/live/juno123/juno123/151010.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH One News HD (C)" tvg-logo="" group-title=". PH [Test]",PH One News HD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH One News HD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH One News HD (C)
 https://webhop.live:443/live/juno123/juno123/151012.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH One News SD (C)" tvg-logo="" group-title=". PH [Test]",PH One News SD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH One News SD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH One News SD (C)
 https://webhop.live:443/live/juno123/juno123/151013.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH NHK WORLD (C)" tvg-logo="" group-title=". PH [Test]",PH NHK WORLD (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH NHK WORLD (C)" tvg-logo="" group-title=".PH [Globe Users]",PH NHK WORLD (C)
 https://webhop.live:443/live/juno123/juno123/151014.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH EWTN (C)" tvg-logo="" group-title=". PH [Test]",PH EWTN (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH EWTN (C)" tvg-logo="" group-title=".PH [Globe Users]",PH EWTN (C)
 https://webhop.live:443/live/juno123/juno123/151015.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Teleradio (D)" tvg-logo="" group-title=". PH [Test]",PH Teleradio (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Teleradio (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Teleradio (D)
 https://webhop.live:443/live/juno123/juno123/151016.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ANC (D)" tvg-logo="" group-title=". PH [Test]",PH ANC (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH ANC (D)" tvg-logo="" group-title=".PH [Globe Users]",PH ANC (D)
 https://webhop.live:443/live/juno123/juno123/151017.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) FILIPINO (E)" tvg-logo="" group-title=". PH [Test]",CA (PH) FILIPINO (E)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) FILIPINO (E)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) FILIPINO (E)
 https://webhop.live:443/live/juno123/juno123/151018.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA LIFE (E)" tvg-logo="" group-title=". PH [Test]",CA (PH) GMA LIFE (E)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA LIFE (E)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) GMA LIFE (E)
 https://webhop.live:443/live/juno123/juno123/151019.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA NEWS (E)" tvg-logo="" group-title=". PH [Test]",CA (PH) GMA NEWS (E)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA NEWS (E)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) GMA NEWS (E)
 https://webhop.live:443/live/juno123/juno123/151020.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA PINOY (E)" tvg-logo="" group-title=". PH [Test]",CA (PH) GMA PINOY (E)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA PINOY (E)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) GMA PINOY (E)
 https://webhop.live:443/live/juno123/juno123/151021.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) KAPATID 5 (E)" tvg-logo="" group-title=". PH [Test]",CA (PH) KAPATID 5 (E)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) KAPATID 5 (E)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) KAPATID 5 (E)
 https://webhop.live:443/live/juno123/juno123/151022.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (E)" tvg-logo="" group-title=". PH [Test]",CA (PH) TFC (E)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (E)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) TFC (E)
 https://webhop.live:443/live/juno123/juno123/151023.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Cinema One Global (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) Cinema One Global (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Cinema One Global (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) Cinema One Global (B)
 https://webhop.live:443/live/juno123/juno123/151024.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Filipino TV (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) Filipino TV (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Filipino TV (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) Filipino TV (B)
 https://webhop.live:443/live/juno123/juno123/151025.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Life TV (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) GMA Life TV (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Life TV (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) GMA Life TV (B)
 https://webhop.live:443/live/juno123/juno123/151026.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA News TV (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) GMA News TV (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA News TV (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) GMA News TV (B)
 https://webhop.live:443/live/juno123/juno123/151027.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Pinoy TV (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) GMA Pinoy TV (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Pinoy TV (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) GMA Pinoy TV (B)
 https://webhop.live:443/live/juno123/juno123/151028.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Kapatid TV5 (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) Kapatid TV5 (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Kapatid TV5 (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) Kapatid TV5 (B)
 https://webhop.live:443/live/juno123/juno123/151029.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Lifestyle Network (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) Lifestyle Network (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Lifestyle Network (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) Lifestyle Network (B)
 https://webhop.live:443/live/juno123/juno123/151030.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (B)" tvg-logo="" group-title=". PH [Test]",CA (PH) TFC (B)
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (B)" tvg-logo="" group-title=".PH [Globe Users]",CA (PH) TFC (B)
 https://webhop.live:443/live/juno123/juno123/151031.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ABC Austrailia (C)" tvg-logo="" group-title=". PH [Test]",PH ABC Austrailia (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH ABC Austrailia (C)" tvg-logo="" group-title=".PH [Globe Users]",PH ABC Austrailia (C)
 https://webhop.live:443/live/juno123/juno123/151032.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ASIAN FOOD CHANNEL (C)" tvg-logo="" group-title=". PH [Test]",PH ASIAN FOOD CHANNEL (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH ASIAN FOOD CHANNEL (C)" tvg-logo="" group-title=".PH [Globe Users]",PH ASIAN FOOD CHANNEL (C)
 https://webhop.live:443/live/juno123/juno123/151033.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAX (C)" tvg-logo="" group-title=". PH [Test]",PH ANIMAX (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAX (C)" tvg-logo="" group-title=".PH [Globe Users]",PH ANIMAX (C)
 https://webhop.live:443/live/juno123/juno123/151034.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arabic TFC" tvg-logo="" group-title=". PH [Test]",Arabic TFC
+#EXTINF:-1 tvg-id="" tvg-name="Arabic TFC" tvg-logo="" group-title=".PH [Globe Users]",Arabic TFC
 https://webhop.live:443/live/juno123/juno123/151035.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH AXN (C)" tvg-logo="" group-title=". PH [Test]",PH AXN (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH AXN (C)" tvg-logo="" group-title=".PH [Globe Users]",PH AXN (C)
 https://webhop.live:443/live/juno123/juno123/151036.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CELESTIAL MOVIE PINOY (C)" tvg-logo="" group-title=". PH [Test]",PH CELESTIAL MOVIE PINOY (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH CELESTIAL MOVIE PINOY (C)" tvg-logo="" group-title=".PH [Globe Users]",PH CELESTIAL MOVIE PINOY (C)
 https://webhop.live:443/live/juno123/juno123/151038.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinema One (D)" tvg-logo="" group-title=". PH [Test]",PH Cinema One (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinema One (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Cinema One (D)
 https://webhop.live:443/live/juno123/juno123/151040.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo (C)" tvg-logo="" group-title=". PH [Test]",PH Cinemo (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Cinemo (C)
 https://webhop.live:443/live/juno123/juno123/151041.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo APAC (D)" tvg-logo="" group-title=". PH [Test]",PH Cinemo APAC (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo APAC (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Cinemo APAC (D)
 https://webhop.live:443/live/juno123/juno123/151042.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo EMEA (D)" tvg-logo="" group-title=". PH [Test]",PH Cinemo EMEA (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo EMEA (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Cinemo EMEA (D)
 https://webhop.live:443/live/juno123/juno123/151043.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo Nola (D)" tvg-logo="" group-title=". PH [Test]",PH Cinemo Nola (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo Nola (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Cinemo Nola (D)
 https://webhop.live:443/live/juno123/juno123/151044.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CHANNEL NEWS ASIA (C)" tvg-logo="" group-title=". PH [Test]",PH CHANNEL NEWS ASIA (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH CHANNEL NEWS ASIA (C)" tvg-logo="" group-title=".PH [Globe Users]",PH CHANNEL NEWS ASIA (C)
 https://webhop.live:443/live/juno123/juno123/151045.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN (D)" tvg-logo="" group-title=". PH [Test]",PH CNN (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN (D)" tvg-logo="" group-title=".PH [Globe Users]",PH CNN (D)
 https://webhop.live:443/live/juno123/juno123/151046.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN Philipines (C)" tvg-logo="" group-title=". PH [Test]",PH CNN Philipines (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN Philipines (C)" tvg-logo="" group-title=".PH [Globe Users]",PH CNN Philipines (C)
 https://webhop.live:443/live/juno123/juno123/151047.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Discovery Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Discovery Channel (C)
 https://webhop.live:443/live/juno123/juno123/151048.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH ONE SPORTS (C)" tvg-logo="" group-title=". PH [Test]",PH ONE SPORTS (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH ONE SPORTS (C)" tvg-logo="" group-title=".PH [Globe Users]",PH ONE SPORTS (C)
 https://webhop.live:443/live/juno123/juno123/151049.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA LIFE (D)" tvg-logo="" group-title=". PH [Test]",PH GMA LIFE (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA LIFE (D)" tvg-logo="" group-title=".PH [Globe Users]",PH GMA LIFE (D)
 https://webhop.live:443/live/juno123/juno123/151052.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA News TV (D)" tvg-logo="" group-title=". PH [Test]",PH GMA News TV (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA News TV (D)" tvg-logo="" group-title=".PH [Globe Users]",PH GMA News TV (D)
 https://webhop.live:443/live/juno123/juno123/151053.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA Pinoy TV (D)" tvg-logo="" group-title=". PH [Test]",PH GMA Pinoy TV (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA Pinoy TV (D)" tvg-logo="" group-title=".PH [Globe Users]",PH GMA Pinoy TV (D)
 https://webhop.live:443/live/juno123/juno123/151054.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Hillsong Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Hillsong Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Hillsong Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Hillsong Channel (C)
 https://webhop.live:443/live/juno123/juno123/151055.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH HITS Movies (C)" tvg-logo="" group-title=". PH [Test]",PH HITS Movies (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH HITS Movies (C)" tvg-logo="" group-title=".PH [Globe Users]",PH HITS Movies (C)
 https://webhop.live:443/live/juno123/juno123/151056.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH IBC13 (C)" tvg-logo="" group-title=". PH [Test]",PH IBC13 (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH IBC13 (C)" tvg-logo="" group-title=".PH [Globe Users]",PH IBC13 (C)
 https://webhop.live:443/live/juno123/juno123/151057.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya (D)" tvg-logo="" group-title=". PH [Test]",PH Kapamilya (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Kapamilya (D)
 https://webhop.live:443/live/juno123/juno123/151058.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Kapamilya Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Kapamilya Channel (C)
 https://webhop.live:443/live/juno123/juno123/151059.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Knowledge Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Knowledge Channel (C)
 https://webhop.live:443/live/juno123/juno123/151061.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (D)" tvg-logo="" group-title=". PH [Test]",PH Knowledge Channel (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (D)" tvg-logo="" group-title=".PH [Globe Users]",PH Knowledge Channel (D)
 https://webhop.live:443/live/juno123/juno123/151062.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (C)" tvg-logo="" group-title=". PH [Test]",PH LIGHT TV (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (C)" tvg-logo="" group-title=".PH [Globe Users]",PH LIGHT TV (C)
 https://webhop.live:443/live/juno123/juno123/151063.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (D)" tvg-logo="" group-title=". PH [Test]",PH LIGHT TV (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (D)" tvg-logo="" group-title=".PH [Globe Users]",PH LIGHT TV (D)
 https://webhop.live:443/live/juno123/juno123/151064.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH MTV Asia (C)" tvg-logo="" group-title=". PH [Test]",PH MTV Asia (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH MTV Asia (C)" tvg-logo="" group-title=".PH [Globe Users]",PH MTV Asia (C)
 https://webhop.live:443/live/juno123/juno123/151065.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH MYX (D)" tvg-logo="" group-title=". PH [Test]",PH MYX (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH MYX (D)" tvg-logo="" group-title=".PH [Globe Users]",PH MYX (D)
 https://webhop.live:443/live/juno123/juno123/151066.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Nick (C)" tvg-logo="" group-title=". PH [Test]",PH Nick (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Nick (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Nick (C)
 https://webhop.live:443/live/juno123/juno123/151067.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH One (C)" tvg-logo="" group-title=". PH [Test]",PH One (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH One (C)" tvg-logo="" group-title=".PH [Globe Users]",PH One (C)
 https://webhop.live:443/live/juno123/juno123/151068.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinema World (C)" tvg-logo="" group-title=". PH [Test]",PH Cinema World (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinema World (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Cinema World (C)
 https://webhop.live:443/live/juno123/juno123/151069.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ph ONE Sport (C)" tvg-logo="" group-title=". PH [Test]",Ph ONE Sport (C)
+#EXTINF:-1 tvg-id="" tvg-name="Ph ONE Sport (C)" tvg-logo="" group-title=".PH [Globe Users]",Ph ONE Sport (C)
 https://webhop.live:443/live/juno123/juno123/151070.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Outdoor Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Outdoor Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Outdoor Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Outdoor Channel (C)
 https://webhop.live:443/live/juno123/juno123/151071.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH PBO (C)" tvg-logo="" group-title=". PH [Test]",PH PBO (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH PBO (C)" tvg-logo="" group-title=".PH [Globe Users]",PH PBO (C)
 https://webhop.live:443/live/juno123/juno123/151072.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH NBN 4 (C)" tvg-logo="" group-title=". PH [Test]",PH NBN 4 (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH NBN 4 (C)" tvg-logo="" group-title=".PH [Globe Users]",PH NBN 4 (C)
 https://webhop.live:443/live/juno123/juno123/151073.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH PTV4 (D)" tvg-logo="" group-title=". PH [Test]",PH PTV4 (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH PTV4 (D)" tvg-logo="" group-title=".PH [Globe Users]",PH PTV4 (D)
 https://webhop.live:443/live/juno123/juno123/151074.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI (C)" tvg-logo="" group-title=". PH [Test]",PH SARI SARI (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI (C)" tvg-logo="" group-title=".PH [Globe Users]",PH SARI SARI (C)
 https://webhop.live:443/live/juno123/juno123/151075.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TeleNovela (C)" tvg-logo="" group-title=". PH [Test]",PH TeleNovela (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH TeleNovela (C)" tvg-logo="" group-title=".PH [Globe Users]",PH TeleNovela (C)
 https://webhop.live:443/live/juno123/juno123/151076.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC (D)" tvg-logo="" group-title=". PH [Test]",PH TFC (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC (D)
 https://webhop.live:443/live/juno123/juno123/151077.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Asia (D)" tvg-logo="" group-title=". PH [Test]",PH TFC Asia (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Asia (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC Asia (D)
 https://webhop.live:443/live/juno123/juno123/151078.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Australia (D)" tvg-logo="" group-title=". PH [Test]",PH TFC Australia (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Australia (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC Australia (D)
 https://webhop.live:443/live/juno123/juno123/151079.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Canada (D)" tvg-logo="" group-title=". PH [Test]",PH TFC Canada (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Canada (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC Canada (D)
 https://webhop.live:443/live/juno123/juno123/151080.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Europe (D)" tvg-logo="" group-title=". PH [Test]",PH TFC Europe (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Europe (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC Europe (D)
 https://webhop.live:443/live/juno123/juno123/151081.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Middle East (D)" tvg-logo="" group-title=". PH [Test]",PH TFC Middle East (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Middle East (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC Middle East (D)
 https://webhop.live:443/live/juno123/juno123/151082.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC USA (D)" tvg-logo="" group-title=". PH [Test]",PH TFC USA (D)
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC USA (D)" tvg-logo="" group-title=".PH [Globe Users]",PH TFC USA (D)
 https://webhop.live:443/live/juno123/juno123/151083.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH thill (C)" tvg-logo="" group-title=". PH [Test]",PH thill (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH thill (C)" tvg-logo="" group-title=".PH [Globe Users]",PH thill (C)
 https://webhop.live:443/live/juno123/juno123/151084.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH TLC (C)" tvg-logo="" group-title=". PH [Test]",PH TLC (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH TLC (C)" tvg-logo="" group-title=".PH [Globe Users]",PH TLC (C)
 https://webhop.live:443/live/juno123/juno123/151085.ts
-#EXTINF:-1 tvg-id="" tvg-name="PH Travel Channel (C)" tvg-logo="" group-title=". PH [Test]",PH Travel Channel (C)
+#EXTINF:-1 tvg-id="" tvg-name="PH Travel Channel (C)" tvg-logo="" group-title=".PH [Globe Users]",PH Travel Channel (C)
 https://webhop.live:443/live/juno
