@@ -2,9 +2,15 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 01
 #EXTVLCOPT:http-origin=https://streamingon.org
-#EXTVLCOPT:http-referrer=https://streamingon.org/
+#EXTVLCOPT:http-referrer=https://streamingon.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://instreams.live/US/NBA1/index.m3u8
+https://instreams.pro/US/NBA1/index.m3u8
+
+#EXTINF:-1 tvg-chno="292" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Dallas Mavericks vs Sacramento Kings (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Dallas Mavericks vs Sacramento Kings (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://streamingon.org
+#EXTVLCOPT:http-origin=https://streamingon.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/US/NBA1/index.m3u8?st=z5iIUzi6_M1WIJZ6v8dHYw&e=1766883671
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 02
 #EXTVLCOPT:http-origin=https://arizonaplay.club
