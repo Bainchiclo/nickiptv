@@ -2174,8 +2174,14 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRVdGJL3otxzjqOXB5s7KP3I-VwmglZvnzA&s" group-title="Cable Tv [PH]", GMA 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTVfp5P2XI3hJ1NobeBkpqGTjvmMkW3mVzqw&s" group-title="Cable Tv [PH]", GMA 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://honortvph.dpdns.org/1093/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRVdGJL3otxzjqOXB5s7KP3I-VwmglZvnzA&s" group-title="Cable Tv [PH]", GTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+https://honortvph.dpdns.org/1143/manifest.mpd
