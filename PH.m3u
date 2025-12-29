@@ -2173,7 +2173,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [Sports]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W1NNB7uuAwDqH3fUc15qD0gr-JDO4FYJKg&s", Kapatid Channel
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [PH]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W1NNB7uuAwDqH3fUc15qD0gr-JDO4FYJKg&s", Kapatid Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
