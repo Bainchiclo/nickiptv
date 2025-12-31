@@ -144,10 +144,6 @@ https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18033932.m3u8
 #EXTINF:-1 tvg-name="Indiana Pacers - Orlando Magic (23:00)" group-title="Maç Yayınları",Indiana Pacers - Orlando Magic (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033932.m3u8
-#EXTINF:-1 tvg-name="Iowa State Cyclones (Bayanlar) - Houston Cougars (Bayanlar) (21:45)" group-title="Maç Yayınları",Iowa State Cyclones (Bayanlar) - Houston Cougars (Bayanlar) (21:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18033817.m3u8
-#EXTINF:-1 tvg-name="Iowa State Cyclones (Bayanlar) - Houston Cougars (Bayanlar) (21:45)" group-title="Maç Yayınları",Iowa State Cyclones (Bayanlar) - Houston Cougars (Bayanlar) (21:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18033817.m3u8
 #EXTINF:-1 tvg-name="La Salle Explorers - George Mason Patriots (22:00)" group-title="Maç Yayınları",La Salle Explorers - George Mason Patriots (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033799.m3u8
 #EXTINF:-1 tvg-name="La Salle Explorers - George Mason Patriots (22:00)" group-title="Maç Yayınları",La Salle Explorers - George Mason Patriots (22:00)
@@ -216,6 +212,10 @@ https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Sunderland - Manchester City (23:00)" group-title="Maç Yayınları",Sunderland - Manchester City (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="Syracuse Orange - Clemson Tigers (22:00)" group-title="Maç Yayınları",Syracuse Orange - Clemson Tigers (22:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18033802.m3u8
+#EXTINF:-1 tvg-name="Syracuse Orange - Clemson Tigers (22:00)" group-title="Maç Yayınları",Syracuse Orange - Clemson Tigers (22:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18033802.m3u8
 #EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
@@ -306,26 +306,14 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
-#EXTINF:-1 tvg-name="UNC Asheville Bulldogs - High Point Panthers (22:00)" group-title="Maç Yayınları",UNC Asheville Bulldogs - High Point Panthers (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18033811.m3u8
-#EXTINF:-1 tvg-name="UNC Asheville Bulldogs - High Point Panthers (22:00)" group-title="Maç Yayınları",UNC Asheville Bulldogs - High Point Panthers (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18033811.m3u8
 #EXTINF:-1 tvg-name="USC Upstate Spartans - Radford Highlanders (22:00)" group-title="Maç Yayınları",USC Upstate Spartans - Radford Highlanders (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033807.m3u8
 #EXTINF:-1 tvg-name="USC Upstate Spartans - Radford Highlanders (22:00)" group-title="Maç Yayınları",USC Upstate Spartans - Radford Highlanders (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033807.m3u8
-#EXTINF:-1 tvg-name="Vikas Deo - Matthis Ross (21:30)" group-title="Maç Yayınları",Vikas Deo - Matthis Ross (21:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18033704.m3u8
-#EXTINF:-1 tvg-name="Vikas Deo - Matthis Ross (21:30)" group-title="Maç Yayınları",Vikas Deo - Matthis Ross (21:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18033704.m3u8
 #EXTINF:-1 tvg-name="Virginia Commonwealth Rams - St. Bonaventure Bonnies (22:00)" group-title="Maç Yayınları",Virginia Commonwealth Rams - St. Bonaventure Bonnies (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033814.m3u8
 #EXTINF:-1 tvg-name="Virginia Commonwealth Rams - St. Bonaventure Bonnies (22:00)" group-title="Maç Yayınları",Virginia Commonwealth Rams - St. Bonaventure Bonnies (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033814.m3u8
-#EXTINF:-1 tvg-name="Virginia Tech Hokies - Virginia Cavaliers (22:00)" group-title="Maç Yayınları",Virginia Tech Hokies - Virginia Cavaliers (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18033808.m3u8
-#EXTINF:-1 tvg-name="Virginia Tech Hokies - Virginia Cavaliers (22:00)" group-title="Maç Yayınları",Virginia Tech Hokies - Virginia Cavaliers (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18033808.m3u8
 #EXTINF:-1 tvg-name="William & Mary Tribe - Stony Brook Seawolves (22:00)" group-title="Maç Yayınları",William & Mary Tribe - Stony Brook Seawolves (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18033809.m3u8
 #EXTINF:-1 tvg-name="William & Mary Tribe - Stony Brook Seawolves (22:00)" group-title="Maç Yayınları",William & Mary Tribe - Stony Brook Seawolves (22:00)
