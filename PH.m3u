@@ -11,6 +11,15 @@ http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=Ta
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscgQIRqlLoNtHDTbq1aJTb4tisHOIiOPrYw&s" group-title="Cable Tv [PH]",ABC 7 Los Angeles
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
+#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="Cable Tv [PH]" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/c7/bc/0c/c7bc0cdaa2c3e5b02ceb374fa2282cf2.jpg", GMA OneSeg
+#EXTVLCOPT:http-referrer=https://mc-o0of718lw0.bunny.run/license
+#EXTVLCOPT:http-origin=http://136.239.158.30:6610
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+https://mc-5fythpik4t.bunny.run/7/dopamine/manifest.mpd
+
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9F_ME-A3fvVS5AFn8EJrhDHkZ8aItOZKyg&s" group-title="Cable Tv [PH]",3rsSINEPINOY
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 
