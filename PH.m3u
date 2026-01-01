@@ -44,6 +44,9 @@ http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable Tv [PH]", Abante Radyo
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Cable Tv [PH]", ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
