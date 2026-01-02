@@ -1612,10 +1612,10 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://play-lh.googleusercontent.com/RAd9B7xcEckaTwiTYBE95p3Qk6qjm77XIm8fOuKViWTyd2N9DZVcQDtvHkB3AmCMiVYm" group-title="Cable Tv [Sports]",UFC TV
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://play-lh.googleusercontent.com/RAd9B7xcEckaTwiTYBE95p3Qk6qjm77XIm8fOuKViWTyd2N9DZVcQDtvHkB3AmCMiVYm" group-title=".PH [WebOS]",.UFC
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://play-lh.googleusercontent.com/RAd9B7xcEckaTwiTYBE95p3Qk6qjm77XIm8fOuKViWTyd2N9DZVcQDtvHkB3AmCMiVYm" group-title=".PH [WebOS]",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://play-lh.googleusercontent.com/RAd9B7xcEckaTwiTYBE95p3Qk6qjm77XIm8fOuKViWTyd2N9DZVcQDtvHkB3AmCMiVYm" group-title=".PH [WebOS]",.UFC TV
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://play-lh.googleusercontent.com/RAd9B7xcEckaTwiTYBE95p3Qk6qjm77XIm8fOuKViWTyd2N9DZVcQDtvHkB3AmCMiVYm" group-title=".PH [WebOS]",UFC TV
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable Tv [Sports]"", Fubo Sports
