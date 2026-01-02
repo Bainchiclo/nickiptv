@@ -5,16 +5,16 @@
 *****#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRVdGJL3otxzjqOXB5s7KP3I-VwmglZvnzA&s" group-title=".PH [WebOS]", .GMA 7 II
 https://bisdaktv.fun/stream/nayswan.php?name=gma7*****
 
-#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", .GMA 7
+#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY4LvT86fM74ocVChyFS93HUe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1013243316&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", .GMA 7 Gsat
+#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", GMA 7 Gsat
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
-#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", .GTV 
+#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", GTV 
 http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY7wAtJC%2BsmBQ5ARU076BdkhW2QukEgPdTHaavrsdcsbbg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1025965250&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", .Kapamilya Channel HD Converge
+#EXTINF:-1 tvg-logo="" group-title=".PH [WebOS]", Kapamilya Channel HD Converge
 http://136.158.97.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1013243321&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscgQIRqlLoNtHDTbq1aJTb4tisHOIiOPrYw&s" group-title="Cable Tv [PH]",ABC 7 Los Angeles
