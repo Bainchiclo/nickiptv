@@ -2266,42 +2266,42 @@ https://honortvph.dpdns.org/1093/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 https://honortvph.dpdns.org/1143/manifest.mpd
 
-#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", .TFC Asia
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", TFC Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
-#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", .TFC Europe
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", TFC Europe
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
 https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
-#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", .TFC Canada
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", TFC Canada
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
-#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", .Cinemo
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", Cinemo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
-#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", .Teleradyo
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", Teleradyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
-#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", .Myx
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", Myx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
