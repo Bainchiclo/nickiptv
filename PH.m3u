@@ -2260,3 +2260,18 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png" group-title="Cable Tv [PH]", Star Movies HD
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
+
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-logo="https://i.imgur.com/EBrUGJw.png" group-title="Cable Tv [PH]", Star Movies Select HD
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
