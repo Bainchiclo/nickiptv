@@ -8,3 +8,6 @@ http://supersonictv.live:8080/611366/682256/22199
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="Cable Tv [Sports]", ESPN U
 http://supersonictv.live:8080/611366/682256/22202
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipi_Cg3KyLx8hpnBt_BrigAfm6VtiXliqrg&s" group-title="Cable Tv [Sports]", WWE NXT
+http://kstv.us:8080/DBeverly/2290061890/47642
