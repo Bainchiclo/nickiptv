@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN
+http://supersonictv.live:8080/611366/682256/22198
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRMV2G1q3dXWyhbC_BpMpCWMkfQAigmoiuQ&s" group-title="Cable Tv [Sports]", ESPN 2
+http://supersonictv.live:8080/611366/682256/22199
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="Cable Tv [Sports]", ESPN U
+http://supersonictv.live:8080/611366/682256/22202
