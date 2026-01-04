@@ -14,3 +14,6 @@ http://kstv.us:8080/DBeverly/2290061890/47642
 
 #EXTINF:-1 tvg-id="US: MSG" tvg-name="USA MSG" tvg-logo="http://msgnetworks.wpengine.netdna-cdn.com/wp-content/themes/msgn/images/msgn-logo.jpg" group-title="Cable Tv [Sports]",USA MSG
 http://supersonictv.live:8080/565354/367783/40404
+
+#EXTINF:-1 tvg-logo="https://volleyballmag.com/wp-content/uploads/2024/10/CBS-Sports-Network-logo.jpg" group-title="Cable Tv [Sports]",USA CBS Sport Network UHD
+http://supersonictv.live:8080/611366/682256/40395
