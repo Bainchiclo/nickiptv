@@ -1962,23 +1962,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db
 *****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/bltf6d1b89ebcad0ac0/68a31b459c59073b2e2e6928/Sky_Sports_new.png?downsize=1200:*&output-format=jpg" group-title="Cable Tv [Sports]", Sky Sports Live
 https://loveliness.wnion.co.in/f1.m3u8*****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipi_Cg3KyLx8hpnBt_BrigAfm6VtiXliqrg&s" group-title="Cable Tv [Sports]", WWE NXT
-http://kstv.us:8080/DBeverly/2290061890/47642
-
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQ3GF3p0lZOxdXofDM4tD6cJqtcQ6IYy31A&s" group-title="Cable Tv [Sports]", BEK Sports
-https://7pal.short.gy/espnus*****
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN
-http://supersonictv.live:8080/611366/682256/22198
-*****http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/1262.m3u8*****
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRMV2G1q3dXWyhbC_BpMpCWMkfQAigmoiuQ&s" group-title="Cable Tv [Sports]", ESPN 2
-http://supersonictv.live:8080/611366/682256/22199
-*****http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/95868.m3u8*****
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="Cable Tv [Sports]", ESPN U
-http://supersonictv.live:8080/611366/682256/22202
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvIHVF-xsnBXCyl8lFzufEOLgFf5jdN_1EnQ&s" group-title="Cable Tv [Sports]", Horse & Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
@@ -1994,19 +1977,6 @@ http://kstv.us:8080/DBeverly/2290061890/47868
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVwKYXcSz09ufcG77IlHkiT_pI7AF1BhrTg&s" group-title="Cable Tv [Sports]", tvN Sports
 https://setting.qkim.net/alive/api/url.m3u8?m=url&s=tving&i=C51404&q=SD&apikey=TQDUYRMX4P&u=Y
 
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sbs.com.au/_next/static/img/sport/watch-sport-9799ba9.png" group-title="Cable Tv [Sports]", SBS Sports
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsespnpc&streamName=sbsespn2*****
-
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/4XMJ2spCNeoZDAlQZG6RShsP-4r4Z6P_HUamo1StgVhIOwClBIgYEEBZGrTVlhL_5vw" group-title="Cable Tv [Sports]", SBS Golf
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2*****
-
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWVDK0yAtzIXirEf7v8sb1CbFguwQURbw-A&s" group-title="Cable Tv [Sports]", SBS Golf 2
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22*****
-
-*****http://cord-cutter.net:8080/r7XbDh/113019/35243*****
-
-*****http://cord-cutter.net:8080/TyX89D/568339/35243 2027*****
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" group-title="Cable Tv [PH]", Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 
@@ -2015,9 +1985,6 @@ https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqEsAaGfydjuAvdWqRrjxcjyxVGvpJIvvXg&s" group-title="Cable Tv [PH]", MTV 80s
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Cable Tv [Sports]", ESPN 2
-https://7pal.short.gy/espn2*****
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="Cable Tv [PH]", MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
