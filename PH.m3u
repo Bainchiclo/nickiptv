@@ -1606,36 +1606,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/o
 #EXTINF:-1 tvg-id="The NBA Channel" tvg-name="The NBA Channel" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",The NBA Channel
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 01
-http://kstv.us:8080/DBeverly/2290061890/47477
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 02
-http://kstv.us:8080/DBeverly/2290061890/47478
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 03
-http://kstv.us:8080/DBeverly/2290061890/47479
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 04
-http://kstv.us:8080/DBeverly/2290061890/47480
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 05
-http://kstv.us:8080/DBeverly/2290061890/47481
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 06
-http://kstv.us:8080/DBeverly/2290061890/47482
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 07
-http://kstv.us:8080/DBeverly/2290061890/47483
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 08
-http://kstv.us:8080/DBeverly/2290061890/47484
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 09
-http://kstv.us:8080/DBeverly/2290061890/47485
-
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Cable TV [Sports]",NBA Live 10
-http://kstv.us:8080/DBeverly/2290061890/474816
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="Cable TV [Sports]", Pilipinas Live 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
