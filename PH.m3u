@@ -2171,7 +2171,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Cable Tv [PH]", GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Cable Tv [PH]", GMA 7^{CON}
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Cable Tv [PH]", GMA 7 <sup>con</sup>
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 group-title="Cable Tv [PH]" tvg-id="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.HhV0Rs2uCZQ0J7OoWKXSbgHaDp?rs=1&pid=ImgDetMain&o=7&rm=3", Shorts TV
