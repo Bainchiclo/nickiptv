@@ -1943,8 +1943,8 @@ https://s8host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA/3-1x1.png" tvg-id="LN_CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA" group-title="Cable Tv [PH]",NBC 4 Washington News
 https://s8host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s8host1.localnow.api.cms.amdvids.com&ads.playbackid=CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1747755763&ads.n3=qp_content_id&ads.v3=CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA&ads.n4=content_name&ads.v4=NBC%20Washington%20News&ads.n21=h&ads.v21=1080&ads.n22=channel_corp&ads.v22=NBCUniversal&ads.n23=content_type&ads.v23=channel&ads.n24=channel_ext_id&ads.v24=&ads.n25=app_store_url&ads.v25=&ads.n26=network_name&ads.v26=nbc-washington-news&ads.n27=content_producer_name&ads.v27=NBCUniversal&ads.n28=channel_id&ads.v28=CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA&ads.n29=device_type&ads.v29=&ads.n30=pos&ads.v30=midroll&ads.n31=ifa_type&ads.v31=&ads.n32=gpp_sid&ads.v32=&ads.n33=dnt&ads.v33=&ads.n34=channel_brand_id&ads.v34=AMDB013249&ads.n35=content_custom_3_param&ads.v35=channel&ads.n36=content_provider&ads.v36=nbc-washington-news&ads.n37=channel_company_id&ads.v37=AMDP500448&ads.n38=cust_devicename&ads.v38=desktop_web&ads.n39=channel_genre&ads.v39=News&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=device_make&ads.v41=&ads.n42=app_name&ads.v42=&ads.n43=content_custom_1_param&ads.v43=CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA&ads.n44=app_version&ads.v44=0.0.0&ads.n45=gpp&ads.v45=&ads.n46=device_model&ads.v46=&ads.n47=w&ads.v47=1920&ads.n48=channel_title&ads.v48=NBC%20Washington%20News&ads.n49=channel_name&ads.v49=NBC%20Washington%20News&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=content_custom_2_param&ads.v51=AMDB013249&ads.n52=ip&ads.v52=86.48.9.131&ads.n53=channel_language&ads.v53=en&ads.n54=content_livestream&ads.v54=1&ads.n55=app_bundle&ads.v55=&ads.n56=did&ads.v56=&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemrdir6VQf-woYGsdKnErE3PO74K_5BE_FA&s" group-title="Cable Tv [Sports]", Xtrem Sports
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemrdir6VQf-woYGsdKnErE3PO74K_5BE_FA&s" group-title="Cable Tv [Sports]", Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8*****
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rJMTP3bvJ36M3x03QLmT5-Q4sZDUmcIrJQ&s" group-title="Cable Tv [Sports]", Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
@@ -1964,8 +1964,8 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_RG0Yo_S12fvgWgcjC36W8T5Cd92Fpr4uw&s" group-title="Cable Tv [PH]", Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGiXTkx0kxThEl-xwM_pKcSoLmROS6UPyPlw&s" group-title="Cable Tv [Sports]", Sky Sports Main Event
-http://kstv.us:8080/DBeverly/2290061890/47868
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGiXTkx0kxThEl-xwM_pKcSoLmROS6UPyPlw&s" group-title="Cable Tv [Sports]", Sky Sports Main Event
+http://kstv.us:8080/DBeverly/2290061890/47868*****
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVwKYXcSz09ufcG77IlHkiT_pI7AF1BhrTg&s" group-title="Cable Tv [Sports]", tvN Sports
 https://setting.qkim.net/alive/api/url.m3u8?m=url&s=tving&i=C51404&q=SD&apikey=TQDUYRMX4P&u=Y
