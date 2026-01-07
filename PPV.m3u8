@@ -9,6 +9,16 @@ https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4dc857c21048c6d253c0a007d48be30f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bologna vs. Atalanta
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/sa_bol/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4a62506af2d3952389788c0d85953606-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Napoli vs. Hellas Verona
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/sa_nap/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ae74949e4deac35de85a36df9e3359c6-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Barcelona vs. Athletic Club
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -38,4 +48,4 @@ https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/thesimpsons/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/thesimpsons/index.m3u8
