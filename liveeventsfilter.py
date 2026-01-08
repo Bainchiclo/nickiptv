@@ -11,7 +11,6 @@ VALID_CONTENT_TYPES = [
     "video/ts",
     "video/x-flv",
 ]
-curl -L -o events.m3u8 https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8
 
 def is_stream_playable(url: str, headers=None) -> bool:
     headers = headers or {}
