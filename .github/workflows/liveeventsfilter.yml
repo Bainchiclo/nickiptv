@@ -28,6 +28,7 @@ jobs:
 
       - name: 🎯 Run scraping script
         run: curl -L -o events.m3u8 https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8
+
              python3 liveeventsfilter.py events.m3u8 liveeventsfilter.m3u8
 
 
