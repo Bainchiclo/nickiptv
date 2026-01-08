@@ -1,8 +1,11 @@
 import requests
 import sys
+import subprocess
+import time
 from pathlib import Path
 
 TIMEOUT = 10
+VLC_TEST_DURATION = 5  # seconds
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -17,51 +20,35 @@ HLS_TAGS = (
 )
 
 
+# ------------------ HLS PRE-VALIDATION ------------------
+
 def validate_m3u8(url: str) -> bool:
-    """Validate an HLS playlist by checking required tags."""
     try:
         r = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
         if r.status_code >= 400:
             return False
 
-        text = r.text[:4096]  # Read only first few KB
-        if "#EXTM3U" not in text:
-            return False
-
-        return any(tag in text for tag in HLS_TAGS)
+        text = r.text[:4096]
+        return "#EXTM3U" in text and any(tag in text for tag in HLS_TAGS)
 
     except requests.RequestException:
         return False
 
 
 def validate_segment(url: str) -> bool:
-    """Validate an HLS media segment (TS/AAC/MP4)."""
     try:
-        r = requests.get(
-            url,
-            timeout=TIMEOUT,
-            stream=True,
-            headers=HEADERS,
-        )
+        r = requests.get(url, timeout=TIMEOUT, stream=True, headers=HEADERS)
         if r.status_code >= 400:
             return False
 
         chunk = next(r.iter_content(chunk_size=188), None)
-        if not chunk:
-            return False
-
-        # MPEG-TS sync byte
-        return chunk[0] == 0x47
+        return bool(chunk and chunk[0] == 0x47)
 
     except requests.RequestException:
         return False
 
 
-def is_hls_stream_valid(url: str) -> bool:
-    """
-    HLS-aware stream validation.
-    Uses HEAD for detection and GET for content verification.
-    """
+def is_hls_candidate(url: str) -> bool:
     try:
         head = requests.head(
             url,
@@ -73,18 +60,69 @@ def is_hls_stream_valid(url: str) -> bool:
         if head.status_code >= 400:
             return False
 
-        content_type = head.headers.get("Content-Type", "").lower()
+        ct = head.headers.get("Content-Type", "").lower()
 
-        # HLS playlist
-        if ".m3u8" in url.lower() or "mpegurl" in content_type:
+        if ".m3u8" in url.lower() or "mpegurl" in ct:
             return validate_m3u8(url)
 
-        # Media segment
         return validate_segment(url)
 
     except requests.RequestException:
         return False
 
+
+# ------------------ VLC VALIDATION ------------------
+
+def validate_with_vlc(url: str) -> bool:
+    """
+    Uses VLC to actually attempt playback.
+    This is the most accurate validation possible.
+    """
+    try:
+        proc = subprocess.Popen(
+            [
+                "cvlc",
+                "--no-video",
+                "--quiet",
+                "--network-caching=1000",
+                "--play-and-exit",
+                url,
+            ],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+
+        start = time.time()
+
+        while time.time() - start < VLC_TEST_DURATION:
+            if proc.poll() is not None:
+                return proc.returncode == 0
+            time.sleep(0.2)
+
+        proc.terminate()
+        return True  # VLC was able to play without crashing
+
+    except FileNotFoundError:
+        print("✗ VLC (cvlc) not found in PATH")
+        sys.exit(1)
+
+    except Exception:
+        return False
+
+
+def is_stream_playable(url: str) -> bool:
+    """
+    Two-stage validation:
+    1. Fast HLS validation
+    2. Real VLC playback test
+    """
+    if not is_hls_candidate(url):
+        return False
+
+    return validate_with_vlc(url)
+
+
+# ------------------ M3U8 FILTER ------------------
 
 def filter_m3u8(input_path: str, output_path: str):
     with open(input_path, "r", encoding="utf-8") as f:
@@ -104,22 +142,24 @@ def filter_m3u8(input_path: str, output_path: str):
 
         if line.strip():
             url = line.strip()
-            print(f"Checking: {url}")
+            print(f"Testing in VLC: {url}")
 
-            if is_hls_stream_valid(url):
-                print("  ✓ Valid HLS stream")
+            if is_stream_playable(url):
+                print("  ✓ VLC playable")
                 output_lines.extend(buffer_tags)
                 output_lines.append(url)
             else:
-                print("  ✗ Invalid / offline")
+                print("  ✗ VLC failed")
 
             buffer_tags = []
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(output_lines) + "\n")
 
-    print(f"\nSaved filtered playlist to: {output_path}")
+    print(f"\nSaved VLC-verified playlist to: {output_path}")
 
+
+# ------------------ ENTRY POINT ------------------
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
