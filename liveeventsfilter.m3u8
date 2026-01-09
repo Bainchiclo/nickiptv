@@ -144,6 +144,11 @@ https://d15.epicquesthero.com:999/hls/mevent1.m3u8?md5=-b1cK3eRVmuf0Jc7U8bc6Q&ex
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/ueyeztrazb4.m3u8?st=1jymGgiRZ9myUkxD4GaB3b8tYdP_oFptD3ZE8KUc0xA&e=1767997837
+#EXTINF:-1 tvg-chno="87" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Cameroon vs. Morocco (PPV)" tvg-logo="https://old.ppv.to/assets/thumb/ec7cefaabbeeaedf3a6df73dc0999056-thumbnail.jpg" group-title="Live Events",[Football] Cameroon vs. Morocco (PPV)
+#EXTVLCOPT:http-referrer=https://ppv.to
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Eintracht Frankfurt vs. Borussia Dortmund (PPV)" tvg-logo="https://old.ppv.to/assets/thumb/985665e2b484202b781fa102ac24eb43-thumbnail.jpg" group-title="Live Events",[Football] Eintracht Frankfurt vs. Borussia Dortmund (PPV)
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-origin=https://ppvs.su
@@ -359,11 +364,6 @@ http://origin.thetvapp.to/hls/NHL22/mono.m3u8
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHLNetwork/mono.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-id="Soccer.Dummy.us" tvg-name="[Netherlands Eredivisie] NEC vs Utrecht (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Live Events",[Netherlands Eredivisie] NEC vs Utrecht (SPORT9)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d2.merichunidya.com:1686/hls/do89.m3u8?md5=5Q6GCU2IkiYW0_JiQcsCEQ&expires=1767992484
 #EXTINF:-1 tvg-chno="237" tvg-id="Live.Event.us" tvg-name="[Other] ACA 198: Omarov vs Suleymanov 2 (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Other] ACA 198: Omarov vs Suleymanov 2 (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
