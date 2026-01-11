@@ -15,7 +15,7 @@ http://supersonictv.live:8080/565354/367783/40404
 #EXTINF:-1 tvg-logo="https://volleyballmag.com/wp-content/uploads/2024/10/CBS-Sports-Network-logo.jpg" group-title="Cable TV [Sports]",USA CBS Sport Network UHD
 http://supersonictv.live:8080/611366/682256/40395
 
-#EXTINF:-1 group-title=""Cable TV [Mix]" tvg-id="" tvg-logo="", Myx
+#EXTINF:-1 group-title=""Cable TV [Mix]" tvg-id="" tvg-logo="", Home Network Canada
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
