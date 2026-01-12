@@ -21,11 +21,6 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Ambil file mapping dari repo privat
-        run: |
-          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} private
-          cp private/cool_mapping.txt $HOME/cool_mapping.txt
-
       - name: Jalankan script Python dan simpan output
         run: |
           if python serudoon.py > hodalmi.m3u; then
