@@ -1,31 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/YImcsqhySzMpqblZJrJEUBkSlEiUeLXA/admin/stream/wrestling/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sevilla vs Celta Vigo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Streamed",Sevilla vs Celta Vigo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/EvbdMKitAQgWsTZZzTxjBetjskHfuHoP/delta/stream/live_laliga_sevilla-celta-live-streaming-440848656/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Barnsley" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Streamed",Liverpool vs Barnsley
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/GBzVqKjVWixAkUQdLgnJvBozDbhECCBF/delta/stream/live_fa-cup_liverpool-barnsley-live-streaming-483126768/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal vs Al-Nassr" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqoKMABMwvFCG4g+ICKpAlcxsyE1mCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Streamed",Al-Hilal vs Al-Nassr
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/UtHpgRgVJCCMMxdCwhtkaHBFzrXwjitD/charlie/stream/al-hilal-saudi-fc-vs-al-nassr-1436047/1/playlist.m3u8
+https://lb7.strmd.top/secure/VreMXkMpWcBPBkNLnfuMJonZGFwHMZxy/charlie/stream/al-hilal-saudi-fc-vs-al-nassr-1436047/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs Cagliari" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuQ3gIIbiB06+IEiEQGQRiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Genoa vs Cagliari
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/gBOnPKwZwSJgNwCvtNAPyBOxnfRikZVv/admin/stream/sa_gen/1/playlist.m3u8
+https://lb4.strmd.top/secure/NQgoDdadEDjvXkgxJMmEOAvkKGBWHGIu/admin/stream/sa_gen/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Ultimate Pool Champions League  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Ultimate Pool Champions League  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/lDphJecILhrurTvsoYOjagpUEASIEhid/echo/stream/ultimate-pool-champions-league-billar/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC U23 Asian Cup: Jordan U23 vs Kyrgyzstan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFsZAR+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="Streamed",AFC U23 Asian Cup: Jordan U23 vs Kyrgyzstan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/LJJqtjoVQOFutZbDyHitEHOIfnPeORPI/charlie/stream/jordan-u23-vs-kyrgyzstan-1629473356/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC U23 Asian Cup: Saudi Arabia U23 vs Vietnam U23" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOENnkgI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="Streamed",AFC U23 Asian Cup: Saudi Arabia U23 vs Vietnam U23
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/rZVzxGHUWFbntJoufdzYhpmSsaamYqFV/charlie/stream/saudi-arabia-u23-vs-vietnam-u23-1629473355/1/playlist.m3u8
+https://lb4.strmd.top/secure/sMwPZUEOmNYMJVowCDubiSFDIKjfdoYe/echo/stream/ultimate-pool-champions-league-billar/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pretoria Capitals vs MI Cape Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTcQEEABNgABlAg1fEIg1qQxkChAwtBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Streamed",Pretoria Capitals vs MI Cape Town
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/enagzCTMDNSHjHkIZXyidLOdWpCKClbD/charlie/stream/pretoria-capitals-vs-mi-cape-town-1629473354/1/playlist.m3u8
+https://lb1.strmd.top/secure/SsVWkVstdGmmMciZvojsNPfHleTiYlLd/charlie/stream/pretoria-capitals-vs-mi-cape-town-1629473354/1/playlist.m3u8
