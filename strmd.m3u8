@@ -1,31 +1,101 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 15 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 15 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/qRdnaNSwmLIbhZmFJIBXHinLhdvGcbiE/charlie/stream/court-15-qualifying-first-round-1629473371/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 6 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 6 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/BGWHAPpwPjjImHNtPCHPLfVETPWvhkEV/charlie/stream/court-6-qualifying-first-round-1629473368/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: ANZ Arena (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: ANZ Arena (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/OdTAKMxravMPZdZQbqpOTAIlIpNpudsT/charlie/stream/anz-arena-qualifying-first-round-1629473378/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 10 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 10 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/pZvTuVGRGVbeBuabPMWcBJUJAyCtsEhi/charlie/stream/court-10-qualifying-first-round-1629473367/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 13 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 13 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/WYwJdLqnzMgCnwUHEDLKAAeNfKPGVsIg/charlie/stream/court-13-qualifying-first-round-1629473375/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 5 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 5 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/WBWYPTNMrKEHYXHiWygGqiidQjlMrUXa/charlie/stream/court-5-qualifying-first-round-1629473369/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Utah Jazz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Cleveland Cavaliers vs Utah Jazz
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/iHuFyWHvnjjtqdMsITnOVORfAadzgCmA/delta/stream/live_nba_cavaliers-jazz-live-streaming-427996224/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Southeastern Louisiana Lions vs New Orleans Privateers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Southeastern Louisiana Lions vs New Orleans Privateers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/UbWsdoLASSNyujrRjNEAfRkZbomXsloy/delta/stream/live_ncaa_se-louisiana-new-orleans-live-streaming-428010480/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="American University Eagles vs Navy Midshipmen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",American University Eagles vs Navy Midshipmen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/zCtpDdRJeoXnMOTEaJXGzCnhHkMmhxXV/delta/stream/live_ncaa_american-univ-navy-live-streaming-461227824/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Coppin State Eagles vs South Carolina State Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Coppin State Eagles vs South Carolina State Bulldogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/CAkoUJKlOANsdzpHpGKURCUAISaLaGVC/delta/stream/live_ncaa_coppin-st-south-carolina-st-live-streaming-461228688/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Norfolk State vs Maryland Eastern Shore Hawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Norfolk State vs Maryland Eastern Shore Hawks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/SacenCKkmaGGROAxpRUffrqsJfNPWIYv/delta/stream/live_ncaa_norfolk-st-maryland-eastern-live-streaming-461229120/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres vs Florida Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Buffalo Sabres vs Florida Panthers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/wJvkHYSLHBagoWDfHJWuANTRViCnPMDs/delta/stream/live_nhl_sabres-panthers-live-streaming-488369520/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings vs Carolina Hurricanes" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Detroit Red Wings vs Carolina Hurricanes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/BHhwmUFMqziiUBufILZugqSLAgGAdwpf/delta/stream/live_nhl_red-wings-hurricanes-live-streaming-488369952/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers vs Seattle Kraken" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",New York Rangers vs Seattle Kraken
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/bzVtIAPVIUuWNMKpHospgOjzrfEJUJoh/delta/stream/live_nhl_rangers-kraken-live-streaming-488370384/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs Tampa Bay Lightning" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Philadelphia Flyers vs Tampa Bay Lightning
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/EjElKCJnxjzxeyoPDTtswLOLJBgEEbpc/delta/stream/live_nhl_flyers-lightning-live-streaming-488370816/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 250 Adelaide / ATP 250 Auckland	  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",ATP 250 Adelaide / ATP 250 Auckland	  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/qdjumRELnRTTlLfRABiHiVLllblrPBrc/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris SG vs Paris FC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyAExpgUIbiAj6QfECRA6DOUxAIUmfFFzXl680Q6a0wasaIhA.webp" group-title="Streamed",Paris SG vs Paris FC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uokLcOAZFFsqTfpZDEFEuxTMLVVANaBt/admin/stream/fra_psg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sevilla vs Celta Vigo" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJsCREADGBIhuINSBQgYICCETGchlAQpM+KLnvL15ol01pg9Y0QggA.webp" group-title="Streamed",Sevilla vs Celta Vigo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/YDekddyKgGEwKXcyDqIbVDLfroxbVbpK/admin/stream/ll_sev/1/playlist.m3u8
+https://lb3.strmd.top/secure/wmALdsmbNCBBuvafzCtCKiiDLQarLbjJ/admin/stream/France3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Barnsley" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATMOHhgyqkNxAQDIPkcQmQIEpYIUmfFF23l680Q6a0w2saIhA.webp" group-title="Streamed",Liverpool vs Barnsley
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/KIxGKiQqKrsWpJshBTRHjNvVxxiPpEbF/admin/stream/fa_liv/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Juventus vs Cremonese" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA.webp" group-title="Streamed",Juventus vs Cremonese
+https://lb7.strmd.top/secure/yzrMOXufRKLYUqfowCcmqNQnpBlxKfKz/admin/stream/fa_liv/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",WWE: Monday Night RAW
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/CMNZIOsxEYBTiRBdbIizPpHSfVLeiies/admin/stream/sa_juv/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Monday Night Raw" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",Monday Night Raw
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/plJkMbEkPNxwSKxdufDmTRzDMDqhYkFG/delta/stream/live-event_monday-night-raw-live-stream/1/playlist.m3u8
+https://lb7.strmd.top/secure/urWjtWsFYBeielLTRuoVmKhdwOiVkiEf/echo/stream/wwe-monday-night-raw-wwe-2025/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Ultimate Pool Champions League  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Ultimate Pool Champions League  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/agTSsPtDgAySauOvFmfRKTCHSVIDnTVr/echo/stream/ultimate-pool-champions-league-billar/1/playlist.m3u8
+https://lb6.strmd.top/secure/aQjxCGwwfLbdzgHRnngUaDpKqyHGiAXl/echo/stream/ultimate-pool-champions-league-billar/1/playlist.m3u8
