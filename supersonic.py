@@ -1,117 +1,139 @@
-import requests
+import asyncio
+import aiohttp
 import sys
 from pathlib import Path
 from urllib.parse import urljoin
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-TIMEOUT = 10
-MIN_SEGMENT_SIZE = 20000  # 20 KB
-MAX_THREADS = 20  # adjust based on CPU/network
+TIMEOUT = aiohttp.ClientTimeout(total=8)
+MIN_SEGMENT_SIZE = 20000
+MAX_CONCURRENCY = 100
+MAX_HLS_DEPTH = 3
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-# Domains to automatically reject
-BLOCKED_DOMAINS = [
+BLOCKED_DOMAINS = {
     "amagi.tv",
-    "ssai2-ads.api.leiniao.com"
-]
+    "ssai2-ads.api.leiniao.com",
+}
 
 
-def is_stream_playable(url, headers=None):
-    """Check if a stream is playable (relaxed): blocked domains + HLS/segments."""
-    for blocked in BLOCKED_DOMAINS:
-        if blocked in url:
-            return False
+# ---------- Network helpers ----------
 
-    headers = {**DEFAULT_HEADERS, **(headers or {})}
-
+async def head_ok(session, url, headers):
     try:
-        r = requests.get(url, headers=headers, timeout=TIMEOUT)
-        if r.status_code >= 400:
+        async with session.head(url, headers=headers, allow_redirects=True) as r:
+            return r.status < 400, r.headers.get("Content-Type", "").lower()
+    except aiohttp.ClientError:
+        return False, ""
+
+
+async def stream_has_data(session, url, headers):
+    try:
+        async with session.get(url, headers=headers) as r:
+            if r.status >= 400:
+                return False
+
+            total = 0
+            async for chunk in r.content.iter_chunked(8192):
+                total += len(chunk)
+                if total >= MIN_SEGMENT_SIZE:
+                    return True
             return False
-    except requests.RequestException:
+    except aiohttp.ClientError:
         return False
 
-    content_type = r.headers.get("Content-Type", "").lower()
 
-    # HLS playlist
-    if ".m3u8" in url or "mpegurl" in content_type:
-        text = r.text
-        if not text.lstrip().startswith("#EXTM3U"):
+# ---------- Stream validation ----------
+
+async def is_stream_playable(session, url, headers, depth=0):
+    if depth > MAX_HLS_DEPTH:
+        return False
+
+    for d in BLOCKED_DOMAINS:
+        if d in url:
             return False
 
-        lines = [l.strip() for l in text.splitlines() if l.strip()]
+    ok, content_type = await head_ok(session, url, headers)
+    if not ok:
+        return False
 
-        # Master playlist → check first variant recursively
-        if any(l.startswith("#EXT-X-STREAM-INF") for l in lines):
-            for i, l in enumerate(lines):
-                if l.startswith("#EXT-X-STREAM-INF") and i + 1 < len(lines):
-                    variant = lines[i + 1]
-                    if not variant.startswith("#"):
-                        return is_stream_playable(urljoin(url, variant), headers)
-            return False
+    if ".m3u8" not in url and "mpegurl" not in content_type:
+        return True
 
-        # Media playlist → check first segment size
-        segments = [l for l in lines if not l.startswith("#")]
-        if not segments:
-            return False
-
-        seg_url = urljoin(url, segments[0])
-        try:
-            seg = requests.get(seg_url, headers=headers, timeout=TIMEOUT, stream=True)
-            if seg.status_code >= 400:
+    try:
+        async with session.get(url, headers=headers) as r:
+            if r.status >= 400:
                 return False
+            text = await r.text()
+    except aiohttp.ClientError:
+        return False
 
-            data = b""
-            for chunk in seg.iter_content(8192):
-                if not chunk:
-                    break
-                data += chunk
-                if len(data) >= 65536:
-                    break
+    if not text.startswith("#EXTM3U"):
+        return False
 
-            if len(data) < MIN_SEGMENT_SIZE:
-                return False
+    lines = text.splitlines()
 
-            return True
-        except requests.RequestException:
+    # Master playlist
+    for i, line in enumerate(lines):
+        if line.startswith("#EXT-X-STREAM-INF") and i + 1 < len(lines):
+            variant = lines[i + 1].strip()
+            if not variant.startswith("#"):
+                return await is_stream_playable(
+                    session,
+                    urljoin(url, variant),
+                    headers,
+                    depth + 1,
+                )
             return False
 
-    return True
+    # Media playlist → first segment
+    segments = [l for l in lines if l and not l.startswith("#")]
+    if not segments:
+        return False
+
+    return await stream_has_data(
+        session,
+        urljoin(url, segments[0]),
+        headers,
+    )
 
 
-def check_stream(entry):
-    """Worker function for multithreading. Returns (playable, extinf, vlcopts, url, title)."""
+# ---------- Worker ----------
+
+async def check_stream(semaphore, session, entry):
     extinf, vlcopts, url = entry
     headers = {}
+
     for opt in vlcopts:
         key, _, value = opt[len("#EXTVLCOPT:"):].partition("=")
-        key = key.lower()
-        if key == "http-referrer":
+        k = key.lower()
+        if k == "http-referrer":
             headers["Referer"] = value
-        elif key == "http-origin":
+        elif k == "http-origin":
             headers["Origin"] = value
-        elif key == "http-user-agent":
+        elif k == "http-user-agent":
             headers["User-Agent"] = value
 
-    playable = is_stream_playable(url, headers)
+    async with semaphore:
+        playable = await is_stream_playable(session, url, headers)
 
-    # Extract title from EXTINF line
     title = ""
     if extinf:
         parts = extinf[0].split(",", 1)
         if len(parts) == 2:
             title = parts[1].strip()
 
-    return playable, extinf, vlcopts, url, title
+    return playable, title, extinf, vlcopts, url
 
 
-def filter_m3u_playlist(input_path, output_path):
-    """Reads EXTINF playlist, filters playable streams, adds group-title, sorts alphabetically."""
-    with open(input_path, "r", encoding="utf-8", errors="ignore") as f:
-        lines = [line.rstrip() for line in f]
+# ---------- Playlist processing ----------
+
+async def filter_m3u_playlist(input_path, output_path):
+    lines = Path(input_path).read_text(
+        encoding="utf-8", errors="ignore"
+    ).splitlines()
 
     entries = []
     extinf, vlcopts = [], []
@@ -121,55 +143,71 @@ def filter_m3u_playlist(input_path, output_path):
             extinf = [line]
         elif line.startswith("#EXTVLCOPT"):
             vlcopts.append(line)
-        elif line.strip().startswith(("http://", "https://")):
-            url = line.strip()
-            entries.append((extinf.copy(), vlcopts.copy(), url))
-            extinf, vlcopts = [], []
+        elif line.startswith(("http://", "https://")):
+            entries.append((extinf.copy(), vlcopts.copy(), line.strip()))
+            extinf.clear()
+            vlcopts.clear()
 
-    playable_entries = []
+    connector = aiohttp.TCPConnector(
+        limit_per_host=20,
+        ssl=False,
+    )
 
-    with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        future_to_entry = {executor.submit(check_stream, e): e for e in entries}
-        for future in as_completed(future_to_entry):
-            playable, extinf, vlcopts, url, title = future.result()
+    semaphore = asyncio.Semaphore(MAX_CONCURRENCY)
+
+    async with aiohttp.ClientSession(
+        timeout=TIMEOUT,
+        connector=connector,
+        headers=DEFAULT_HEADERS,
+    ) as session:
+
+        tasks = [
+            check_stream(semaphore, session, e)
+            for e in entries
+        ]
+
+        playable_entries = []
+
+        for coro in asyncio.as_completed(tasks):
+            playable, title, extinf, vlcopts, url = await coro
             if playable:
-                print(f"✓ Playable: {title} ({url})")
-                # Add group-title="Supersonic" to EXTINF line
+                print(f"✓ {title}")
                 if extinf:
                     parts = extinf[0].split(",", 1)
-                    if len(parts) == 2:
-                        extinf[0] = f'{parts[0]} group-title="Supersonic",{parts[1]}'
-                    else:
-                        extinf[0] = f'{parts[0]} group-title="Supersonic"'
-                playable_entries.append((title, extinf, vlcopts, url))
+                    extinf[0] = (
+                        f'{parts[0]} group-title="Supersonic",{parts[1]}'
+                        if len(parts) == 2
+                        else f'{parts[0]} group-title="Supersonic"'
+                    )
+                playable_entries.append((title.lower(), extinf, vlcopts, url))
             else:
-                print(f"✗ Rejected (blocked domain / tiny segment / unreachable): {url}")
+                print(f"✗ {url}")
 
-    # Sort alphabetically by title
-    playable_entries.sort(key=lambda x: x[0].lower())
+    playable_entries.sort(key=lambda x: x[0])
 
-    output = ["#EXTM3U"]
-    for title, extinf, vlcopts, url in playable_entries:
-        output.extend(extinf)
-        output.extend(vlcopts)
-        output.append(url)
+    out = ["#EXTM3U"]
+    for _, extinf, vlcopts, url in playable_entries:
+        out.extend(extinf)
+        out.extend(vlcopts)
+        out.append(url)
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(output) + "\n")
+    Path(output_path).write_text(
+        "\n".join(out) + "\n",
+        encoding="utf-8",
+    )
 
-    print(f"\nSaved filtered and sorted playlist to: {output_path}")
+    print(f"\nSaved to {output_path}")
 
+
+# ---------- CLI ----------
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python filter_m3u_playlist.py input.m3u output.m3u")
+        print("Usage: python filter_m3u_playlist_async.py input.m3u output.m3u")
         sys.exit(1)
 
-    input_file = sys.argv[1]
-    output_file = sys.argv[2]
-
-    if not Path(input_file).exists():
+    if not Path(sys.argv[1]).exists():
         print("Input file does not exist.")
         sys.exit(1)
 
-    filter_m3u_playlist(input_file, output_file)
+    asyncio.run(filter_m3u_playlist(sys.argv[1], sys.argv[2]))
