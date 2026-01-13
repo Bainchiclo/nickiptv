@@ -27,10 +27,13 @@ jobs:
         run: pip3 install requests
 
       - name: 🎯 Run scraping script
-        run: curl -L -o spsonic.m3u8 http://supersonictv.live:8080/get.php?username=611366&password=682256&type=m3u
-
-             python3 supersonic.py spsonic.m3u8 supersonic.m3u8
-
+        run: curl -L \
+              -H "User-Agent: VLC/3.0.20 LibVLC/3.0.20" \
+              -H "Accept: */*" \
+              -H "Connection: keep-alive" \
+              -o spsonic.m3u8 \
+              "http://supersonictv.live:8080/get.php?username=611366&password=682256&type=m3u"
+               python3 supersonic.py spsonic.m3u8 supersonic.m3u8
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
