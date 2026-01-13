@@ -1,156 +1,212 @@
 #EXTM3U
+#EXTINF:-1 group-title="Fast",!USA YES Network UHD
+http://supersonictv.live:8080/611366/682256/40438
+#EXTINF:-1 group-title="Fast",24/7  The Dukes of Hazzard
+http://supersonictv.live:8080/611366/682256/77158
+#EXTINF:-1 group-title="Fast",24/7 Airwolf
+http://supersonictv.live:8080/611366/682256/77103
 #EXTINF:-1 group-title="Fast",24/7 All in the Family
 http://supersonictv.live:8080/611366/682256/77102
+#EXTINF:-1 group-title="Fast",24/7 Angel From Hell
+http://supersonictv.live:8080/611366/682256/79196
 #EXTINF:-1 group-title="Fast",24/7 Beverly Hills, 90210
 http://supersonictv.live:8080/611366/682256/77104
 #EXTINF:-1 group-title="Fast",24/7 Bewitched
 http://supersonictv.live:8080/611366/682256/77105
-#EXTINF:-1 group-title="Fast",24/7 Boston Legal
-http://supersonictv.live:8080/611366/682256/79281
-#EXTINF:-1 group-title="Fast",24/7 Breaking In
-http://supersonictv.live:8080/611366/682256/79286
 #EXTINF:-1 group-title="Fast",24/7 CHiPs
 http://supersonictv.live:8080/611366/682256/77109
-#EXTINF:-1 group-title="Fast",24/7 Columbo
-http://supersonictv.live:8080/611366/682256/77111
-#EXTINF:-1 group-title="Fast",24/7 Comedy Movie 2024
-http://supersonictv.live:8080/611366/682256/88446
-#EXTINF:-1 group-title="Fast",24/7 Dead to Me
-http://supersonictv.live:8080/611366/682256/79637
-#EXTINF:-1 group-title="Fast",24/7 Drama Movie 2024
-http://supersonictv.live:8080/611366/682256/88451
+#EXTINF:-1 group-title="Fast",24/7 Dennis The Menace
+http://supersonictv.live:8080/611366/682256/77113
+#EXTINF:-1 group-title="Fast",24/7 Dexter's Laboratory
+http://supersonictv.live:8080/611366/682256/78993
+#EXTINF:-1 group-title="Fast",24/7 Diff'rent Strokes
+http://supersonictv.live:8080/611366/682256/77114
+#EXTINF:-1 group-title="Fast",24/7 Due South
+http://supersonictv.live:8080/611366/682256/77116
+#EXTINF:-1 group-title="Fast",24/7 Eve Uk
+http://supersonictv.live:8080/611366/682256/79741
+#EXTINF:-1 group-title="Fast",24/7 Expedition Unknown
+http://supersonictv.live:8080/611366/682256/79718
 #EXTINF:-1 group-title="Fast",24/7 Family Matters
 http://supersonictv.live:8080/611366/682256/77118
-#EXTINF:-1 group-title="Fast",24/7 Family Ties
-http://supersonictv.live:8080/611366/682256/77119
-#EXTINF:-1 group-title="Fast",24/7 Jeopardy The Greatest of All Time
-http://supersonictv.live:8080/611366/682256/80191
-#EXTINF:-1 group-title="Fast",24/7 King of the Hill
-http://supersonictv.live:8080/611366/682256/79007
-#EXTINF:-1 group-title="Fast",24/7 Legends of Chamberlain Heights
-http://supersonictv.live:8080/611366/682256/80287
-#EXTINF:-1 group-title="Fast",24/7 Leverage
-http://supersonictv.live:8080/611366/682256/80288
-#EXTINF:-1 group-title="Fast",24/7 Life Unexpected
-http://supersonictv.live:8080/611366/682256/80290
-#EXTINF:-1 group-title="Fast",24/7 Marvels Hero Project
-http://supersonictv.live:8080/611366/682256/80416
-#EXTINF:-1 group-title="Fast",24/7 Outdaughtered
-http://supersonictv.live:8080/611366/682256/80678
-#EXTINF:-1 group-title="Fast",24/7 Queen Of The South
-http://supersonictv.live:8080/611366/682256/80817
-#EXTINF:-1 group-title="Fast",24/7 Queen Sono
-http://supersonictv.live:8080/611366/682256/80818
-#EXTINF:-1 group-title="Fast",24/7 Queer Eye
-http://supersonictv.live:8080/611366/682256/80822
+#EXTINF:-1 group-title="Fast",24/7 Friends
+http://supersonictv.live:8080/611366/682256/77122
+#EXTINF:-1 group-title="Fast",24/7 Gilligan's Island
+http://supersonictv.live:8080/611366/682256/77123
+#EXTINF:-1 group-title="Fast",24/7 Green Acres
+http://supersonictv.live:8080/611366/682256/77126
+#EXTINF:-1 group-title="Fast",24/7 I Dream Of Jeannie
+http://supersonictv.live:8080/611366/682256/77130
+#EXTINF:-1 group-title="Fast",24/7 It's Always Sunny in Philadelphia
+http://supersonictv.live:8080/611366/682256/77132
+#EXTINF:-1 group-title="Fast",24/7 Life With Boys
+http://supersonictv.live:8080/611366/682256/80291
+#EXTINF:-1 group-title="Fast",24/7 Lilyhammer
+http://supersonictv.live:8080/611366/682256/80293
+#EXTINF:-1 group-title="Fast",24/7 Marvel s Spider Man
+http://supersonictv.live:8080/611366/682256/80584
+#EXTINF:-1 group-title="Fast",24/7 MASH
+http://supersonictv.live:8080/611366/682256/77140
+#EXTINF:-1 group-title="Fast",24/7 Moving On
+http://supersonictv.live:8080/611366/682256/80475
+#EXTINF:-1 group-title="Fast",24/7 Sanford & Son
+http://supersonictv.live:8080/611366/682256/77149
+#EXTINF:-1 group-title="Fast",24/7 Tales from the Crypt
+http://supersonictv.live:8080/611366/682256/77157
+#EXTINF:-1 group-title="Fast",24/7 The Addams Family
+http://supersonictv.live:8080/611366/682256/77160
 #EXTINF:-1 group-title="Fast",24/7 The Andy Griffith Show
 http://supersonictv.live:8080/611366/682256/77153
+#EXTINF:-1 group-title="Fast",24/7 The Beverly Hillbillies
+http://supersonictv.live:8080/611366/682256/77154
+#EXTINF:-1 group-title="Fast",24/7 The Facts of Life
+http://supersonictv.live:8080/611366/682256/77156
+#EXTINF:-1 group-title="Fast",24/7 The First Team
+http://supersonictv.live:8080/611366/682256/81308
+#EXTINF:-1 group-title="Fast",24/7 The Golden Girls
+http://supersonictv.live:8080/611366/682256/77162
+#EXTINF:-1 group-title="Fast",24/7 The Jeffersons
+http://supersonictv.live:8080/611366/682256/77164
+#EXTINF:-1 group-title="Fast",24/7 The Munsters
+http://supersonictv.live:8080/611366/682256/77165
+#EXTINF:-1 group-title="Fast",24/7 The Night Shift
+http://supersonictv.live:8080/611366/682256/81623
 #EXTINF:-1 group-title="Fast",24/7 The Sopranos
 http://supersonictv.live:8080/611366/682256/76846
-#EXTINF:-1 group-title="Fast",24/7 Trial by Media
-http://supersonictv.live:8080/611366/682256/81727
-#EXTINF:-1 group-title="Fast",24/7 Tropical Cop Tales
-http://supersonictv.live:8080/611366/682256/81730
+#EXTINF:-1 group-title="Fast",24/7 The Sopranos
+http://supersonictv.live:8080/611366/682256/77167
 #EXTINF:-1 group-title="Fast",24/7 Twilight Zone
 http://supersonictv.live:8080/611366/682256/86103
-#EXTINF:-1 group-title="Fast",24/7 Wentworth Prison
-http://supersonictv.live:8080/611366/682256/81826
+#EXTINF:-1 group-title="Fast",24/7 Unforgettable
+http://supersonictv.live:8080/611366/682256/81778
 #EXTINF:-1 group-title="Fast",24/7 Westworld
 http://supersonictv.live:8080/611366/682256/81829
+#EXTINF:-1 group-title="Fast",24/7 What If
+http://supersonictv.live:8080/611366/682256/81830
 #EXTINF:-1 group-title="Fast",24/7 What We Do in the Shadows
 http://supersonictv.live:8080/611366/682256/81831
-#EXTINF:-1 group-title="Fast",[]USA ANTENNA TV
-http://supersonictv.live:8080/611366/682256/22047
-#EXTINF:-1 group-title="Fast",[AR] Abu Dhabi Sports 2 HD
-http://supersonictv.live:8080/611366/682256/84119
-#EXTINF:-1 group-title="Fast",[AR] Al Jazeera English
-http://supersonictv.live:8080/611366/682256/86403
-#EXTINF:-1 group-title="Fast",[BR] ITV HD
-http://supersonictv.live:8080/611366/682256/85227
-#EXTINF:-1 group-title="Fast",[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/611366/682256/85228
-#EXTINF:-1 group-title="Fast",[BR] MEGAPIX 4K
-http://supersonictv.live:8080/611366/682256/85232
-#EXTINF:-1 group-title="Fast",[BR] Travel Box FHD
-http://supersonictv.live:8080/611366/682256/85326
-#EXTINF:-1 group-title="Fast",[BR] Universal Channel FHD
-http://supersonictv.live:8080/611366/682256/85119
-#EXTINF:-1 group-title="Fast",[BR] Viva FHD
-http://supersonictv.live:8080/611366/682256/85121
-#EXTINF:-1 group-title="Fast",[ES] ALQUILER 3
-http://supersonictv.live:8080/611366/682256/85938
-#EXTINF:-1 group-title="Fast",[ES] CANAL SUR Andalucia
-http://supersonictv.live:8080/611366/682256/85871
-#EXTINF:-1 group-title="Fast",[ES] DISNEY JR
-http://supersonictv.live:8080/611366/682256/85878
-#EXTINF:-1 group-title="Fast",[ES] M.CINEDOC&ROLL HD
-http://supersonictv.live:8080/611366/682256/85926
-#EXTINF:-1 group-title="Fast",[GR] Ote Sport 2
-http://supersonictv.live:8080/611366/682256/84616
-#EXTINF:-1 group-title="Fast",[IN]  ASIANET NEWS
-http://supersonictv.live:8080/611366/682256/85591
-#EXTINF:-1 group-title="Fast",[IT] Discovery HD
-http://supersonictv.live:8080/611366/682256/83484
-#EXTINF:-1 group-title="Fast",[NL] Discovery World
-http://supersonictv.live:8080/611366/682256/84487
-#EXTINF:-1 group-title="Fast",[NL] Djazz tv
-http://supersonictv.live:8080/611366/682256/84485
+#EXTINF:-1 group-title="Fast",24/7 YO ROCKY 1
+http://supersonictv.live:8080/611366/682256/81940
+#EXTINF:-1 group-title="Fast",[]ABC Phoenix KNXV
+http://supersonictv.live:8080/611366/682256/71736
+#EXTINF:-1 group-title="Fast",[]CW33 (KVCW) Las Vegas
+http://supersonictv.live:8080/611366/682256/71589
+#EXTINF:-1 group-title="Fast",[AR] Abu Dhabi Sports 4 HD
+http://supersonictv.live:8080/611366/682256/84121
+#EXTINF:-1 group-title="Fast",[DE] ARTE
+http://supersonictv.live:8080/611366/682256/84710
+#EXTINF:-1 group-title="Fast",[ES] ALQUILER 10
+http://supersonictv.live:8080/611366/682256/85945
+#EXTINF:-1 group-title="Fast",[GR] BBC EARTH
+http://supersonictv.live:8080/611366/682256/84514
+#EXTINF:-1 group-title="Fast",[GR] COSMOTE CINEMA 1
+http://supersonictv.live:8080/611366/682256/84520
+#EXTINF:-1 group-title="Fast",[IN]  ASIANET PLUS
+http://supersonictv.live:8080/611366/682256/85594
+#EXTINF:-1 group-title="Fast",[IN]  IN STAR JALSHA MOVIES FHD
+http://supersonictv.live:8080/611366/682256/85562
+#EXTINF:-1 group-title="Fast",[IT-Reg] Canale 2 Altamura
+http://supersonictv.live:8080/611366/682256/83591
+#EXTINF:-1 group-title="Fast",[IT-Reg] Super J TV Teramo (Opt-1)
+http://supersonictv.live:8080/611366/682256/83649
+#EXTINF:-1 group-title="Fast",[IT] Premium Stories
+http://supersonictv.live:8080/611366/682256/83445
+#EXTINF:-1 group-title="Fast",[RO] ANIMAL PLANET
+http://supersonictv.live:8080/611366/682256/83867
+#EXTINF:-1 group-title="Fast",[RO] TVR International
+http://supersonictv.live:8080/611366/682256/83977
+#EXTINF:-1 group-title="Fast",[TR] beIN Movies  Premiere 1
+http://supersonictv.live:8080/611366/682256/86273
+#EXTINF:-1 group-title="Fast",[TR] Bein Sport 4
+http://supersonictv.live:8080/611366/682256/86265
 #EXTINF:-1 group-title="Fast",[TR] beIN Sports Haber
 http://supersonictv.live:8080/611366/682256/86268
-#EXTINF:-1 group-title="Fast",[UK] Eurosport 1 FHD
-http://supersonictv.live:8080/611366/682256/40451
 #EXTINF:-1 group-title="Fast",[USA] DISCOVERY VELOCITY
 http://supersonictv.live:8080/611366/682256/22078
+#EXTINF:-1 group-title="Fast",[USA] Fox Sports Sun (North Florida)
+http://supersonictv.live:8080/611366/682256/78959
 #EXTINF:-1 group-title="Fast",[USA] FREEFORM WEST
 http://supersonictv.live:8080/611366/682256/21805
-#EXTINF:-1 group-title="Fast",ABC 10 KAKE Wichita
-http://supersonictv.live:8080/611366/682256/71902
-#EXTINF:-1 group-title="Fast",ABC 13 WBKO Bowling Green
-http://supersonictv.live:8080/611366/682256/71353
-#EXTINF:-1 group-title="Fast",ABC Austin KVUE TX
-http://supersonictv.live:8080/611366/682256/71297
+#EXTINF:-1 group-title="Fast",[USA] Reelz
+http://supersonictv.live:8080/611366/682256/22142
+#EXTINF:-1 group-title="Fast",[VA | Roanoke | NBC WSLS
+http://supersonictv.live:8080/611366/682256/71760
+#EXTINF:-1 group-title="Fast",ABC 12 WJRT Flint
+http://supersonictv.live:8080/611366/682256/71480
+#EXTINF:-1 group-title="Fast",ABC 25 Columbia (WOLO)
+http://supersonictv.live:8080/611366/682256/71415
+#EXTINF:-1 group-title="Fast",ABC 32 WNCF Montgomery
+http://supersonictv.live:8080/611366/682256/71661
+#EXTINF:-1 group-title="Fast",ABC 57 South Bend (WBND)
+http://supersonictv.live:8080/611366/682256/71818
 #EXTINF:-1 group-title="Fast",ABC Charlotte WSOC NC
 http://supersonictv.live:8080/611366/682256/71387
+#EXTINF:-1 group-title="Fast",ABC Chicago WLS
+http://supersonictv.live:8080/611366/682256/71396
+#EXTINF:-1 group-title="Fast",ABC Cleveland WEWS
+http://supersonictv.live:8080/611366/682256/71402
 #EXTINF:-1 group-title="Fast",ABC Columbus WSYX
 http://supersonictv.live:8080/611366/682256/71406
-#EXTINF:-1 group-title="Fast",ABC Houston KTRK
-http://supersonictv.live:8080/611366/682256/71525
+#EXTINF:-1 group-title="Fast",ABC Connecticut
+http://supersonictv.live:8080/611366/682256/71420
+#EXTINF:-1 group-title="Fast",ABC Dallas WFAA
+http://supersonictv.live:8080/611366/682256/71437
 #EXTINF:-1 group-title="Fast",ABC Indianapolis WRTV
 http://supersonictv.live:8080/611366/682256/71555
-#EXTINF:-1 group-title="Fast",ABC Louisville WHAS
-http://supersonictv.live:8080/611366/682256/71617
-#EXTINF:-1 group-title="Fast",ABC Nashville WKRN
-http://supersonictv.live:8080/611366/682256/71669
+#EXTINF:-1 group-title="Fast",ABC Miami WPLG
+http://supersonictv.live:8080/611366/682256/71645
 #EXTINF:-1 group-title="Fast",ABC Philadelphia WPVI
 http://supersonictv.live:8080/611366/682256/71720
-#EXTINF:-1 group-title="Fast",ABC Sacramento KXTV
-http://supersonictv.live:8080/611366/682256/71767
+#EXTINF:-1 group-title="Fast",ABC Salt Lake city KTVX
+http://supersonictv.live:8080/611366/682256/71775
+#EXTINF:-1 group-title="Fast",ABC San Antonio KSAT
+http://supersonictv.live:8080/611366/682256/71782
+#EXTINF:-1 group-title="Fast",ABC San Diego KGTV
+http://supersonictv.live:8080/611366/682256/71789
+#EXTINF:-1 group-title="Fast",ABC Sarasota WWSB
+http://supersonictv.live:8080/611366/682256/71766
+#EXTINF:-1 group-title="Fast",ABC Seattle KOMO
+http://supersonictv.live:8080/611366/682256/71807
+#EXTINF:-1 group-title="Fast",ABC St Louis KDNL
+http://supersonictv.live:8080/611366/682256/71829
 #EXTINF:-1 group-title="Fast",ABC Tampa Bay
 http://supersonictv.live:8080/611366/682256/71862
-#EXTINF:-1 group-title="Fast",ABC13 (KYUR) Anchorage
-http://supersonictv.live:8080/611366/682256/71320
+#EXTINF:-1 group-title="Fast",ABC Washington
+http://supersonictv.live:8080/611366/682256/71886
 #EXTINF:-1 group-title="Fast",ABC13 (WVEC) Hampton Roads
 http://supersonictv.live:8080/611366/682256/71533
+#EXTINF:-1 group-title="Fast",ABC13 (WZZM) Grand Rapids
+http://supersonictv.live:8080/611366/682256/71499
+#EXTINF:-1 group-title="Fast",ABC17 (KMIZ) Jefferson City
+http://supersonictv.live:8080/611366/682256/71567
+#EXTINF:-1 group-title="Fast",ABC2 (WBAY) Green Bay
+http://supersonictv.live:8080/611366/682256/71510
+#EXTINF:-1 group-title="Fast",ABC24 (WATN) Memphis
+http://supersonictv.live:8080/611366/682256/71638
 #EXTINF:-1 group-title="Fast",ABC25 (KXXV) Bryan
 http://supersonictv.live:8080/611366/682256/71373
-#EXTINF:-1 group-title="Fast",ABC25 (WJXX) Jacksonville
-http://supersonictv.live:8080/611366/682256/71563
+#EXTINF:-1 group-title="Fast",ABC27 (WHTM) Harrisburg
+http://supersonictv.live:8080/611366/682256/71530
 #EXTINF:-1 group-title="Fast",ABC3 (WSIL) Illinois
 http://supersonictv.live:8080/611366/682256/71559
-#EXTINF:-1 group-title="Fast",ABC36 (WTVQ) Lexington
-http://supersonictv.live:8080/611366/682256/71621
-#EXTINF:-1 group-title="Fast",ABC6 (WJBF) Augusta
-http://supersonictv.live:8080/611366/682256/71315
+#EXTINF:-1 group-title="Fast",ABC31 (WAAY) Huntsville
+http://supersonictv.live:8080/611366/682256/71547
+#EXTINF:-1 group-title="Fast",ABC4 (KITV) Honolulu
+http://supersonictv.live:8080/611366/682256/71543
+#EXTINF:-1 group-title="Fast",ABC4 (WCIV) Charleston SC
+http://supersonictv.live:8080/611366/682256/71423
 #EXTINF:-1 group-title="Fast",ABC7 (KOAT) New Mexico
 http://supersonictv.live:8080/611366/682256/71683
-#EXTINF:-1 group-title="Fast",ABC7 (KVIA) El Paso
-http://supersonictv.live:8080/611366/682256/71464
-#EXTINF:-1 group-title="Fast",ABC8 (KTUL) Tulsa
-http://supersonictv.live:8080/611366/682256/71866
+#EXTINF:-1 group-title="Fast",ABC7 (WKBW) Buffalo
+http://supersonictv.live:8080/611366/682256/71367
+#EXTINF:-1 group-title="Fast",ABC8 (WCHS) Charleston
+http://supersonictv.live:8080/611366/682256/71424
 #EXTINF:-1 group-title="Fast",ABC9 (WMUR) Manchester
 http://supersonictv.live:8080/611366/682256/71632
-#EXTINF:-1 group-title="Fast",Adult Amateur
-http://supersonictv.live:8080/611366/682256/86480
+#EXTINF:-1 group-title="Fast",ABC9 (WSYR) Syracuse
+http://supersonictv.live:8080/611366/682256/71838
+#EXTINF:-1 group-title="Fast",ABC9 WTVC Chattanooga
+http://supersonictv.live:8080/611366/682256/71392
 #EXTINF:-1 group-title="Fast",Adult Amateur
 http://supersonictv.live:8080/611366/682256/86491
 #EXTINF:-1 group-title="Fast",Adult Anal Sex
@@ -163,30 +219,22 @@ http://supersonictv.live:8080/611366/682256/86493
 http://supersonictv.live:8080/611366/682256/86483
 #EXTINF:-1 group-title="Fast",Adult Black
 http://supersonictv.live:8080/611366/682256/86485
+#EXTINF:-1 group-title="Fast",Adult Blonde Girl Squirt
+http://supersonictv.live:8080/611366/682256/86479
 #EXTINF:-1 group-title="Fast",Adult Blowjob
 http://supersonictv.live:8080/611366/682256/86487
-#EXTINF:-1 group-title="Fast",Adult Brazzers TV 1
-http://supersonictv.live:8080/611366/682256/86409
 #EXTINF:-1 group-title="Fast",Adult Brazzers TV 2
 http://supersonictv.live:8080/611366/682256/86460
 #EXTINF:-1 group-title="Fast",Adult Brazzers TV 3
 http://supersonictv.live:8080/611366/682256/86461
 #EXTINF:-1 group-title="Fast",Adult Brazzers TV 4
 http://supersonictv.live:8080/611366/682256/86462
-#EXTINF:-1 group-title="Fast",Adult Groupsex
-http://supersonictv.live:8080/611366/682256/86509
-#EXTINF:-1 group-title="Fast",Adult HotClub
-http://supersonictv.live:8080/611366/682256/86414
-#EXTINF:-1 group-title="Fast",Adult HotClub Black
-http://supersonictv.live:8080/611366/682256/86420
-#EXTINF:-1 group-title="Fast",Adult HotClub Blowjob Extreme
-http://supersonictv.live:8080/611366/682256/86421
-#EXTINF:-1 group-title="Fast",Adult HotClub Gone Wild
-http://supersonictv.live:8080/611366/682256/86423
-#EXTINF:-1 group-title="Fast",Adult Pinko 2
-http://supersonictv.live:8080/611366/682256/86434
-#EXTINF:-1 group-title="Fast",Adult Red Erotic 4
-http://supersonictv.live:8080/611366/682256/86440
+#EXTINF:-1 group-title="Fast",Adult Brazzers TV 5
+http://supersonictv.live:8080/611366/682256/86463
+#EXTINF:-1 group-title="Fast",Adult Brunette
+http://supersonictv.live:8080/611366/682256/86488
+#EXTINF:-1 group-title="Fast",Adult Outdoor Club
+http://supersonictv.live:8080/611366/682256/86428
 #EXTINF:-1 group-title="Fast",Adult Red Erotic 5
 http://supersonictv.live:8080/611366/682256/86441
 #EXTINF:-1 group-title="Fast",Adult Red Erotic 6
@@ -199,186 +247,396 @@ http://supersonictv.live:8080/611366/682256/86464
 http://supersonictv.live:8080/611366/682256/86465
 #EXTINF:-1 group-title="Fast",Adult Sensation 3
 http://supersonictv.live:8080/611366/682256/86466
+#EXTINF:-1 group-title="Fast",Adult Sensation 4
+http://supersonictv.live:8080/611366/682256/86467
 #EXTINF:-1 group-title="Fast",Adult Sensation 5
 http://supersonictv.live:8080/611366/682256/86468
-#EXTINF:-1 group-title="Fast",CA CTV News Channel
-http://supersonictv.live:8080/611366/682256/40388
-#EXTINF:-1 group-title="Fast",CA Fight Network
-http://supersonictv.live:8080/611366/682256/40463
-#EXTINF:-1 group-title="Fast",CA Fox Sports Racing
-http://supersonictv.live:8080/611366/682256/40462
-#EXTINF:-1 group-title="Fast",CA MLB Network
-http://supersonictv.live:8080/611366/682256/40464
+#EXTINF:-1 group-title="Fast",Adult SexTream
+http://supersonictv.live:8080/611366/682256/86446
+#EXTINF:-1 group-title="Fast",Adult Venus 1
+http://supersonictv.live:8080/611366/682256/86447
+#EXTINF:-1 group-title="Fast",Adult Venus 2
+http://supersonictv.live:8080/611366/682256/86448
+#EXTINF:-1 group-title="Fast",AK | Fairbanks | NBC KTVF
+http://supersonictv.live:8080/611366/682256/71476
+#EXTINF:-1 group-title="Fast",AL | Birmingham | NBC WVTM
+http://supersonictv.live:8080/611366/682256/71358
+#EXTINF:-1 group-title="Fast",AL | Selma | CBS WAKA
+http://supersonictv.live:8080/611366/682256/71812
+#EXTINF:-1 group-title="Fast",AR | Little Rock | NBC KARK
+http://supersonictv.live:8080/611366/682256/71608
+#EXTINF:-1 group-title="Fast",AR | Monroe-El Dorado | NBC KTVE
+http://supersonictv.live:8080/611366/682256/71666
+#EXTINF:-1 group-title="Fast",AU Channel 9 Brisbane
+http://supersonictv.live:8080/611366/682256/82773
+#EXTINF:-1 group-title="Fast",AZ | Tucson | CBS KOLD
+http://supersonictv.live:8080/611366/682256/71859
+#EXTINF:-1 group-title="Fast",AZ | Tucson | NBC KVOA
+http://supersonictv.live:8080/611366/682256/71861
 #EXTINF:-1 group-title="Fast",CA NFL Network
 http://supersonictv.live:8080/611366/682256/40466
-#EXTINF:-1 group-title="Fast",CA SPORTSNET_360
-http://supersonictv.live:8080/611366/682256/40472
-#EXTINF:-1 group-title="Fast",CA TSN 1 UHD
-http://supersonictv.live:8080/611366/682256/40467
-#EXTINF:-1 group-title="Fast",CA TSN 3 UHD
-http://supersonictv.live:8080/611366/682256/40469
+#EXTINF:-1 group-title="Fast",CA SPORTSNET PACIFIC
+http://supersonictv.live:8080/611366/682256/40477
 #EXTINF:-1 group-title="Fast",CA TSN 4 UHD
 http://supersonictv.live:8080/611366/682256/40470
-#EXTINF:-1 group-title="Fast",CA | Bakersfield | CBS KBAK
-http://supersonictv.live:8080/611366/682256/71334
+#EXTINF:-1 group-title="Fast",CA | Chico | NBC KNVN
+http://supersonictv.live:8080/611366/682256/71383
 #EXTINF:-1 group-title="Fast",CA | Eureka | NBC KIEM
 http://supersonictv.live:8080/611366/682256/71473
+#EXTINF:-1 group-title="Fast",CA | Fresno | CBS KGPE
+http://supersonictv.live:8080/611366/682256/71497
+#EXTINF:-1 group-title="Fast",CA | Monterey | CBS KION
+http://supersonictv.live:8080/611366/682256/71665
+#EXTINF:-1 group-title="Fast",CA | Palm Springs | NBC KMIR
+http://supersonictv.live:8080/611366/682256/71715
+#EXTINF:-1 group-title="Fast",CA | Salinas | NBC KSBW
+http://supersonictv.live:8080/611366/682256/71780
+#EXTINF:-1 group-title="Fast",CA | San Luis Obispo | FOX KKFX
+http://supersonictv.live:8080/611366/682256/71800
+#EXTINF:-1 group-title="Fast",CBS 19 (KYTX) Tyler
+http://supersonictv.live:8080/611366/682256/71879
+#EXTINF:-1 group-title="Fast",CBS 19 Columbia (WLTX)
+http://supersonictv.live:8080/611366/682256/71416
+#EXTINF:-1 group-title="Fast",CBS 22 South Bend (WSBT)
+http://supersonictv.live:8080/611366/682256/71819
+#EXTINF:-1 group-title="Fast",CBS 3 (WSHM) Springfield MA
+http://supersonictv.live:8080/611366/682256/71823
+#EXTINF:-1 group-title="Fast",CBS 3 WREG Memphis
+http://supersonictv.live:8080/611366/682256/71639
+#EXTINF:-1 group-title="Fast",CBS 30 (KXJB) Fargo
+http://supersonictv.live:8080/611366/682256/71477
 #EXTINF:-1 group-title="Fast",CBS 6 KOTV Tulsa
 http://supersonictv.live:8080/611366/682256/71868
-#EXTINF:-1 group-title="Fast",CBS 9 (KWTV) Oklahoma City
-http://supersonictv.live:8080/611366/682256/71698
-#EXTINF:-1 group-title="Fast",CBS Baltimore WJZ
-http://supersonictv.live:8080/611366/682256/71330
-#EXTINF:-1 group-title="Fast",CBS Charlotte WBTV NC
-http://supersonictv.live:8080/611366/682256/71388
+#EXTINF:-1 group-title="Fast",CBS 8 WAKA Selma
+http://supersonictv.live:8080/611366/682256/71806
+#EXTINF:-1 group-title="Fast",CBS Chicago WBBM
+http://supersonictv.live:8080/611366/682256/71397
+#EXTINF:-1 group-title="Fast",CBS Cincinnati WKRC
+http://supersonictv.live:8080/611366/682256/71434
+#EXTINF:-1 group-title="Fast",CBS Cleveland WOIO
+http://supersonictv.live:8080/611366/682256/71403
+#EXTINF:-1 group-title="Fast",CBS Columbus WBNS
+http://supersonictv.live:8080/611366/682256/71407
+#EXTINF:-1 group-title="Fast",CBS Dallas KTVT
+http://supersonictv.live:8080/611366/682256/71438
 #EXTINF:-1 group-title="Fast",CBS Greensboro WFMY
 http://supersonictv.live:8080/611366/682256/71516
-#EXTINF:-1 group-title="Fast",CBS Hartford WFSB
-http://supersonictv.live:8080/611366/682256/71537
-#EXTINF:-1 group-title="Fast",CBS Houston KHOU
-http://supersonictv.live:8080/611366/682256/71526
 #EXTINF:-1 group-title="Fast",CBS Indianapolis WTTV
 http://supersonictv.live:8080/611366/682256/71556
 #EXTINF:-1 group-title="Fast",CBS Jacksonville WJAX
 http://supersonictv.live:8080/611366/682256/71564
-#EXTINF:-1 group-title="Fast",CBS Nashville WTVF
-http://supersonictv.live:8080/611366/682256/71670
+#EXTINF:-1 group-title="Fast",CBS New Orleans WWL
+http://supersonictv.live:8080/611366/682256/71703
 #EXTINF:-1 group-title="Fast",CBS Philadelphia KYW
 http://supersonictv.live:8080/611366/682256/71721
-#EXTINF:-1 group-title="Fast",CBS San Francisco KCBS
-http://supersonictv.live:8080/611366/682256/71794
-#EXTINF:-1 group-title="Fast",CBS San Francisco KPIX
-http://supersonictv.live:8080/611366/682256/71795
+#EXTINF:-1 group-title="Fast",CBS Phoenix KPHO
+http://supersonictv.live:8080/611366/682256/71737
+#EXTINF:-1 group-title="Fast",CBS Pittsburgh KDKA
+http://supersonictv.live:8080/611366/682256/71732
+#EXTINF:-1 group-title="Fast",CBS San Antonio KENS
+http://supersonictv.live:8080/611366/682256/71783
+#EXTINF:-1 group-title="Fast",CBS San Diego KFMB
+http://supersonictv.live:8080/611366/682256/71790
+#EXTINF:-1 group-title="Fast",CBS St Louis KMOV
+http://supersonictv.live:8080/611366/682256/71830
+#EXTINF:-1 group-title="Fast",CBS Washington WUSA
+http://supersonictv.live:8080/611366/682256/71887
 #EXTINF:-1 group-title="Fast",CBS WJTV Jackson
 http://supersonictv.live:8080/611366/682256/71560
 #EXTINF:-1 group-title="Fast",CBS WKYT Lexington
 http://supersonictv.live:8080/611366/682256/71622
-#EXTINF:-1 group-title="Fast",CBS WPRI Providence RI
-http://supersonictv.live:8080/611366/682256/71727
+#EXTINF:-1 group-title="Fast",CBS12 WDEF Chattanooga
+http://supersonictv.live:8080/611366/682256/71393
 #EXTINF:-1 group-title="Fast",CBS13 (KRCG) Jefferson City
 http://supersonictv.live:8080/611366/682256/71568
-#EXTINF:-1 group-title="Fast",CW KTLA Los Angeles
-http://supersonictv.live:8080/611366/682256/71614
-#EXTINF:-1 group-title="Fast",CW15 (WCWN) Albany NY
-http://supersonictv.live:8080/611366/682256/71303
+#EXTINF:-1 group-title="Fast",CBS13 (WLOX-DT2) Gulfport
+http://supersonictv.live:8080/611366/682256/71506
+#EXTINF:-1 group-title="Fast",CBS3 (KBTX) Bryan
+http://supersonictv.live:8080/611366/682256/71374
+#EXTINF:-1 group-title="Fast",CBS4 (WGFL) Gainesville
+http://supersonictv.live:8080/611366/682256/71503
+#EXTINF:-1 group-title="Fast",CINEMAX 5 STARMAX
+http://supersonictv.live:8080/611366/682256/22878
+#EXTINF:-1 group-title="Fast",CINEMAX ACTIONMAX
+http://supersonictv.live:8080/611366/682256/22881
+#EXTINF:-1 group-title="Fast",Cinemax East
+http://supersonictv.live:8080/611366/682256/22879
+#EXTINF:-1 group-title="Fast",CINEMAX MORE MAX
+http://supersonictv.live:8080/611366/682256/22882
+#EXTINF:-1 group-title="Fast",CO | Colorado Springs | CBS KKTV
+http://supersonictv.live:8080/611366/682256/71421
+#EXTINF:-1 group-title="Fast",CO | Grand Junction | NBC KKCO
+http://supersonictv.live:8080/611366/682256/71509
+#EXTINF:-1 group-title="Fast",CT | Hartford | ABC
+http://supersonictv.live:8080/611366/682256/71536
+#EXTINF:-1 group-title="Fast",CW 19 KQCW Tulsa
+http://supersonictv.live:8080/611366/682256/71869
+#EXTINF:-1 group-title="Fast",CW WNUV (Baltimore)
+http://supersonictv.live:8080/611366/682256/71331
+#EXTINF:-1 group-title="Fast",CW11 (KSTW) Seattle
+http://supersonictv.live:8080/611366/682256/71809
+#EXTINF:-1 group-title="Fast",CW14 (WCWF) Green Bay
+http://supersonictv.live:8080/611366/682256/71512
+#EXTINF:-1 group-title="Fast",CW19 (WPCW) Pittsburgh
+http://supersonictv.live:8080/611366/682256/71733
+#EXTINF:-1 group-title="Fast",CW21 (WTTO) Birmingham
+http://supersonictv.live:8080/611366/682256/71359
+#EXTINF:-1 group-title="Fast",CW23 (WUCW) Saint Paul
+http://supersonictv.live:8080/611366/682256/71773
+#EXTINF:-1 group-title="Fast",CW35 (KMYS) San Antonio
+http://supersonictv.live:8080/611366/682256/71784
+#EXTINF:-1 group-title="Fast",CW44 (KBCW) San Francisco
+http://supersonictv.live:8080/611366/682256/71796
+#EXTINF:-1 group-title="Fast",CW44 (WTOG) St. Petersburg
+http://supersonictv.live:8080/611366/682256/71834
+#EXTINF:-1 group-title="Fast",CW50 (WKBD) Detroit
+http://supersonictv.live:8080/611366/682256/71453
 #EXTINF:-1 group-title="Fast",CW57 (WPSG) Philadelphia
 http://supersonictv.live:8080/611366/682256/71722
-#EXTINF:-1 group-title="Fast",CW69 (WUPA) Atlanta
-http://supersonictv.live:8080/611366/682256/71294
-#EXTINF:-1 group-title="Fast",FL | West Palm Beach | CBS WPEC
-http://supersonictv.live:8080/611366/682256/71893
+#EXTINF:-1 group-title="Fast",CW58 (WNAB) Nashville
+http://supersonictv.live:8080/611366/682256/71671
+#EXTINF:-1 group-title="Fast",District of Columbia Network
+http://supersonictv.live:8080/611366/682256/71419
+#EXTINF:-1 group-title="Fast",Epix
+http://supersonictv.live:8080/611366/682256/22886
+#EXTINF:-1 group-title="Fast",EPIX Drive-In
+http://supersonictv.live:8080/611366/682256/22888
+#EXTINF:-1 group-title="Fast",Epix Hits
+http://supersonictv.live:8080/611366/682256/22889
+#EXTINF:-1 group-title="Fast",EPIX2
+http://supersonictv.live:8080/611366/682256/22887
+#EXTINF:-1 group-title="Fast",FL | Cape Coral | FOX WFTX
+http://supersonictv.live:8080/611366/682256/71380
+#EXTINF:-1 group-title="Fast",FL | Fort Myers | CBS WINK
+http://supersonictv.live:8080/611366/682256/71492
+#EXTINF:-1 group-title="Fast",FL | Fort Myers | NBC WBBH
+http://supersonictv.live:8080/611366/682256/71493
+#EXTINF:-1 group-title="Fast",FL | Gainesville | NBC WNBW
+http://supersonictv.live:8080/611366/682256/71504
+#EXTINF:-1 group-title="Fast",FL | St. Petersburg | CBS WTSP
+http://supersonictv.live:8080/611366/682256/71833
 #EXTINF:-1 group-title="Fast",FL | West Palm Beach | FOX WFLX
 http://supersonictv.live:8080/611366/682256/71894
 #EXTINF:-1 group-title="Fast",FOX 10 (WALA) Alabama
 http://supersonictv.live:8080/611366/682256/71326
 #EXTINF:-1 group-title="Fast",FOX 13 WHBQ Memphis
 http://supersonictv.live:8080/611366/682256/71640
-#EXTINF:-1 group-title="Fast",FOX 24 KSAS Wichita
-http://supersonictv.live:8080/611366/682256/71903
+#EXTINF:-1 group-title="Fast",FOX 23 KOKI Tulsa
+http://supersonictv.live:8080/611366/682256/71870
+#EXTINF:-1 group-title="Fast",FOX 25 (KOKH) Oklahoma City
+http://supersonictv.live:8080/611366/682256/71700
+#EXTINF:-1 group-title="Fast",FOX 28 WPGX Panama City
+http://supersonictv.live:8080/611366/682256/71713
 #EXTINF:-1 group-title="Fast",Fox 30 (WGBC) Meridian
 http://supersonictv.live:8080/611366/682256/71644
 #EXTINF:-1 group-title="Fast",FOX 47 WSYM Lansing
 http://supersonictv.live:8080/611366/682256/71598
+#EXTINF:-1 group-title="Fast",FOX 54 WZDX Huntsville
+http://supersonictv.live:8080/611366/682256/71549
 #EXTINF:-1 group-title="Fast",FOX 57 Columbia (WACH)
 http://supersonictv.live:8080/611366/682256/71417
-#EXTINF:-1 group-title="Fast",Fox Atlanta WAGA
-http://supersonictv.live:8080/611366/682256/71292
-#EXTINF:-1 group-title="Fast",FOX Chicago WFLD
-http://supersonictv.live:8080/611366/682256/71398
+#EXTINF:-1 group-title="Fast",FOX 6 WBRC Birmingham
+http://supersonictv.live:8080/611366/682256/71357
+#EXTINF:-1 group-title="Fast",FOX Baltimore WBFF
+http://supersonictv.live:8080/611366/682256/71332
+#EXTINF:-1 group-title="Fast",Fox Belmont WJZY
+http://supersonictv.live:8080/611366/682256/71377
+#EXTINF:-1 group-title="Fast",Fox Boston WFXT
+http://supersonictv.live:8080/611366/682256/71349
 #EXTINF:-1 group-title="Fast",FOX Cleveland WJW
 http://supersonictv.live:8080/611366/682256/71404
-#EXTINF:-1 group-title="Fast",Fox Houston KRIV
-http://supersonictv.live:8080/611366/682256/71527
+#EXTINF:-1 group-title="Fast",FOX Dallas KDFW
+http://supersonictv.live:8080/611366/682256/71439
+#EXTINF:-1 group-title="Fast",Fox Greensboro WGHP
+http://supersonictv.live:8080/611366/682256/71517
+#EXTINF:-1 group-title="Fast",Fox Hartford WTIC
+http://supersonictv.live:8080/611366/682256/71538
 #EXTINF:-1 group-title="Fast",FOX Indianapolis WXIN
 http://supersonictv.live:8080/611366/682256/71557
 #EXTINF:-1 group-title="Fast",FOX Jacksonville WFOX
 http://supersonictv.live:8080/611366/682256/71565
-#EXTINF:-1 group-title="Fast",Fox Orlando WOFL
-http://supersonictv.live:8080/611366/682256/71695
+#EXTINF:-1 group-title="Fast",FOX Los Angeles KTTV
+http://supersonictv.live:8080/611366/682256/71612
+#EXTINF:-1 group-title="Fast",Fox Milwaukee WITI
+http://supersonictv.live:8080/611366/682256/71654
+#EXTINF:-1 group-title="Fast",Fox Minneapolis KMSP
+http://supersonictv.live:8080/611366/682256/71658
+#EXTINF:-1 group-title="Fast",Fox New Orleans WVUE
+http://supersonictv.live:8080/611366/682256/71704
 #EXTINF:-1 group-title="Fast",Fox Philadelphia WTXF
 http://supersonictv.live:8080/611366/682256/71723
-#EXTINF:-1 group-title="Fast",FOX Sacramento KTXL
-http://supersonictv.live:8080/611366/682256/71770
+#EXTINF:-1 group-title="Fast",Fox Salt Lake City KSTU
+http://supersonictv.live:8080/611366/682256/71777
 #EXTINF:-1 group-title="Fast",Fox San Antonio KABB
 http://supersonictv.live:8080/611366/682256/71785
-#EXTINF:-1 group-title="Fast",FOX San Diego KSWB
-http://supersonictv.live:8080/611366/682256/71791
+#EXTINF:-1 group-title="Fast",FOX San Francisco KTVU
+http://supersonictv.live:8080/611366/682256/71797
+#EXTINF:-1 group-title="Fast",FOX St Louis KTVI
+http://supersonictv.live:8080/611366/682256/71831
 #EXTINF:-1 group-title="Fast",FOX Tampa WTVT
 http://supersonictv.live:8080/611366/682256/71864
+#EXTINF:-1 group-title="Fast",FOX Washington WTTG
+http://supersonictv.live:8080/611366/682256/71888
 #EXTINF:-1 group-title="Fast",FOX WDBD Jackson
 http://supersonictv.live:8080/611366/682256/71561
+#EXTINF:-1 group-title="Fast",FOX WNAC Providence RI
+http://supersonictv.live:8080/611366/682256/71728
 #EXTINF:-1 group-title="Fast",FOX22 (KQFX) Jefferson City
 http://supersonictv.live:8080/611366/682256/71569
-#EXTINF:-1 group-title="Fast",GA | Augusta | NBC WAGT
-http://supersonictv.live:8080/611366/682256/71318
-#EXTINF:-1 group-title="Fast",Hallmark Channel East.
-http://supersonictv.live:8080/611366/682256/22890
+#EXTINF:-1 group-title="Fast",FOX28 (KFXA) Cedar Rapids
+http://supersonictv.live:8080/611366/682256/71432
+#EXTINF:-1 group-title="Fast",FOX4 (KTBY) Anchorage
+http://supersonictv.live:8080/611366/682256/71322
+#EXTINF:-1 group-title="Fast",FOX5 (KVVU) Las Vegas
+http://supersonictv.live:8080/611366/682256/71591
+#EXTINF:-1 group-title="Fast",FOX9 WTVC-DT Chattanooga
+http://supersonictv.live:8080/611366/682256/71394
+#EXTINF:-1 group-title="Fast",GA | Columbus | FOX WXTX
+http://supersonictv.live:8080/611366/682256/71411
+#EXTINF:-1 group-title="Fast",GA | Macon | NBC WMGT
+http://supersonictv.live:8080/611366/682256/71637
+#EXTINF:-1 group-title="Fast",GA | Savannah | NBC WSAV
+http://supersonictv.live:8080/611366/682256/78977
+#EXTINF:-1 group-title="Fast",Hallmark Drama
+http://supersonictv.live:8080/611366/682256/22892
+#EXTINF:-1 group-title="Fast",Hallmark Movies & Mysteries East
+http://supersonictv.live:8080/611366/682256/22893
+#EXTINF:-1 group-title="Fast",HBO 2 East
+http://supersonictv.live:8080/611366/682256/22896
+#EXTINF:-1 group-title="Fast",HBO East
+http://supersonictv.live:8080/611366/682256/22894
+#EXTINF:-1 group-title="Fast",HBO Pacific
+http://supersonictv.live:8080/611366/682256/22899
 #EXTINF:-1 group-title="Fast",HBO Signature
 http://supersonictv.live:8080/611366/682256/22900
+#EXTINF:-1 group-title="Fast",HBO West
+http://supersonictv.live:8080/611366/682256/22895
+#EXTINF:-1 group-title="Fast",HBO Zone 
+http://supersonictv.live:8080/611366/682256/22901
 #EXTINF:-1 group-title="Fast",HI | Honolulu | CBS KGMB
 http://supersonictv.live:8080/611366/682256/71544
+#EXTINF:-1 group-title="Fast",HI | Honolulu | FOX KHON
+http://supersonictv.live:8080/611366/682256/71545
 #EXTINF:-1 group-title="Fast",HI | Honolulu | NBC KHNL
 http://supersonictv.live:8080/611366/682256/71546
-#EXTINF:-1 group-title="Fast",ID | Boise | CBS KBOI
-http://supersonictv.live:8080/611366/682256/71351
-#EXTINF:-1 group-title="Fast",ID | Boise | NBC KTVB
-http://supersonictv.live:8080/611366/682256/71352
+#EXTINF:-1 group-title="Fast",IA | Davenport | FOX KLJB
+http://supersonictv.live:8080/611366/682256/71443
+#EXTINF:-1 group-title="Fast",IA | Des Moines | NBC WHO
+http://supersonictv.live:8080/611366/682256/71456
+#EXTINF:-1 group-title="Fast",IA | Sioux Falls| NBC KTIV
+http://supersonictv.live:8080/611366/682256/71816
+#EXTINF:-1 group-title="Fast",IA | Waterloo | NBC KWWL
+http://supersonictv.live:8080/611366/682256/71891
+#EXTINF:-1 group-title="Fast",ID | Caldwell | FOX KNIN
+http://supersonictv.live:8080/611366/682256/71382
+#EXTINF:-1 group-title="Fast",ID | Idaho Falls-Pocatello | NBC KPVI
+http://supersonictv.live:8080/611366/682256/71554
+#EXTINF:-1 group-title="Fast",IL | Bloomington | FOX WYZZ
+http://supersonictv.live:8080/611366/682256/71363
+#EXTINF:-1 group-title="Fast",IL | Decatur | NBC WAND
+http://supersonictv.live:8080/611366/682256/71454
+#EXTINF:-1 group-title="Fast",IL | Peoria | CBS WMBD
+http://supersonictv.live:8080/611366/682256/71718
+#EXTINF:-1 group-title="Fast",IL | Quincy | NBC WGEM
+http://supersonictv.live:8080/611366/682256/71749
 #EXTINF:-1 group-title="Fast",IN | Evansville | CBS WEVV
 http://supersonictv.live:8080/611366/682256/71474
 #EXTINF:-1 group-title="Fast",IN | Evansville | NBC WFIE
 http://supersonictv.live:8080/611366/682256/71475
-#EXTINF:-1 group-title="Fast",IN | Fort Wayne | CBS WANE
-http://supersonictv.live:8080/611366/682256/71484
+#EXTINF:-1 group-title="Fast",IN | Fort Wayne | NBC WPTA
+http://supersonictv.live:8080/611366/682256/71486
+#EXTINF:-1 group-title="Fast",IN | South Bend | NBC WNDU
+http://supersonictv.live:8080/611366/682256/71820
 #EXTINF:-1 group-title="Fast",IN | Terre Haute | NBC WTWO
 http://supersonictv.live:8080/611366/682256/71856
-#EXTINF:-1 group-title="Fast",KS | Topeka | NBC KSNT
-http://supersonictv.live:8080/611366/682256/71857
-#EXTINF:-1 group-title="Fast",LA | Alexandria | NBC KALB
-http://supersonictv.live:8080/611366/682256/71296
+#EXTINF:-1 group-title="Fast",INDIEPLEX
+http://supersonictv.live:8080/611366/682256/22903
+#EXTINF:-1 group-title="Fast",KS | Hutchinson | CBS KWCH
+http://supersonictv.live:8080/611366/682256/71551
+#EXTINF:-1 group-title="Fast",KTVK 3TV Arizona's Family Phoenix
+http://supersonictv.live:8080/611366/682256/71740
+#EXTINF:-1 group-title="Fast",LA | Baton Rouge | CBS WAFB
+http://supersonictv.live:8080/611366/682256/71339
+#EXTINF:-1 group-title="Fast",LA | Lafayette | NBC KLAF
+http://supersonictv.live:8080/611366/682256/71603
 #EXTINF:-1 group-title="Fast",LA | Lake Charles | NBC KPLC
 http://supersonictv.live:8080/611366/682256/71600
 #EXTINF:-1 group-title="Fast",LA | Shreveport | CBS KSLA
 http://supersonictv.live:8080/611366/682256/71843
-#EXTINF:-1 group-title="Fast",LA | Shreveport | FOX KMSS
-http://supersonictv.live:8080/611366/682256/71844
 #EXTINF:-1 group-title="Fast",LA | Shreveport | NBC KSL
 http://supersonictv.live:8080/611366/682256/71845
-#EXTINF:-1 group-title="Fast",MS | Columbus | NBC WTVA
-http://supersonictv.live:8080/611366/682256/71414
-#EXTINF:-1 group-title="Fast",My 9 New Jersey
-http://supersonictv.live:8080/611366/682256/71684
+#EXTINF:-1 group-title="Fast",Latin RCN Novelas
+http://supersonictv.live:8080/611366/682256/61830
+#EXTINF:-1 group-title="Fast",Lifetime Movie Network East
+http://supersonictv.live:8080/611366/682256/22904
+#EXTINF:-1 group-title="Fast",MA | Springfield | FOX WWGB
+http://supersonictv.live:8080/611366/682256/71824
+#EXTINF:-1 group-title="Fast",MA | Springfield | NBC WWLP
+http://supersonictv.live:8080/611366/682256/71825
+#EXTINF:-1 group-title="Fast",MD | Salisbury | NBC WRDE
+http://supersonictv.live:8080/611366/682256/71803
+#EXTINF:-1 group-title="Fast",ME | Portland | NBC WCSH
+http://supersonictv.live:8080/611366/682256/71746
+#EXTINF:-1 group-title="Fast",MO | Springfield | ABC KSPR
+http://supersonictv.live:8080/611366/682256/71826
+#EXTINF:-1 group-title="Fast",MO | Springfield | CBS KOLR
+http://supersonictv.live:8080/611366/682256/71827
+#EXTINF:-1 group-title="Fast",MO | Springfield | NBC KYTV
+http://supersonictv.live:8080/611366/682256/71828
+#EXTINF:-1 group-title="Fast",MS | Laurel | NBC WDAM
+http://supersonictv.live:8080/611366/682256/71594
+#EXTINF:-1 group-title="Fast",MT | Billings | NBC KULR
+http://supersonictv.live:8080/611366/682256/71346
+#EXTINF:-1 group-title="Fast",MT | Butte | NBC KTVM
+http://supersonictv.live:8080/611366/682256/71372
+#EXTINF:-1 group-title="Fast",MX Discovery Channel HD
+http://supersonictv.live:8080/611366/682256/61260
+#EXTINF:-1 group-title="Fast",MY33 (WBFS) Miami
+http://supersonictv.live:8080/611366/682256/71649
+#EXTINF:-1 group-title="Fast",MY49 (WDKA) Paducah
+http://supersonictv.live:8080/611366/682256/71710
+#EXTINF:-1 group-title="Fast",MY49 (WNYO) Buffalo
+http://supersonictv.live:8080/611366/682256/71371
+#EXTINF:-1 group-title="Fast",MY62 (KSMO) Kansas City
+http://supersonictv.live:8080/611366/682256/71579
+#EXTINF:-1 group-title="Fast",MyNet (WHP-DT) Harrisburg
+http://supersonictv.live:8080/611366/682256/71532
+#EXTINF:-1 group-title="Fast",NBA LP02 :   BOSTON CELTICS @ INDIANA PACERS | 1/12-07:30PM 
+http://supersonictv.live:8080/611366/682256/86043
 #EXTINF:-1 group-title="Fast",NBC 10 Columbia (WIS)
 http://supersonictv.live:8080/611366/682256/71418
-#EXTINF:-1 group-title="Fast",NBC 13 WVTM Birmingham
-http://supersonictv.live:8080/611366/682256/71360
+#EXTINF:-1 group-title="Fast",NBC 2 KJRH Tulsa
+http://supersonictv.live:8080/611366/682256/71871
+#EXTINF:-1 group-title="Fast",NBC 25 WEYI Saginaw
+http://supersonictv.live:8080/611366/682256/71804
 #EXTINF:-1 group-title="Fast",NBC 3 (WAVE) Louisville
 http://supersonictv.live:8080/611366/682256/71620
+#EXTINF:-1 group-title="Fast",NBC 4 (KFOR) Oklahoma City
+http://supersonictv.live:8080/611366/682256/71701
 #EXTINF:-1 group-title="Fast",NBC 4 Columbus
 http://supersonictv.live:8080/611366/682256/71410
-#EXTINF:-1 group-title="Fast",NBC 40 (WNKY) Bowling Green
-http://supersonictv.live:8080/611366/682256/71354
 #EXTINF:-1 group-title="Fast",NBC 48 WAFF Huntsville
 http://supersonictv.live:8080/611366/682256/71550
 #EXTINF:-1 group-title="Fast",NBC 5 WMC Memphis
 http://supersonictv.live:8080/611366/682256/71641
-#EXTINF:-1 group-title="Fast",NBC 7 WJHG Panama City
-http://supersonictv.live:8080/611366/682256/71714
-#EXTINF:-1 group-title="Fast",NBC 8 (WLIO) Lima
-http://supersonictv.live:8080/611366/682256/71625
-#EXTINF:-1 group-title="Fast",NBC Atlanta WXIA
-http://supersonictv.live:8080/611366/682256/71293
+#EXTINF:-1 group-title="Fast",NBC 6 Omaha (WOWT)
+http://supersonictv.live:8080/611366/682256/71690
+#EXTINF:-1 group-title="Fast",NBC 7 WPBN Traverse City
+http://supersonictv.live:8080/611366/682256/71858
 #EXTINF:-1 group-title="Fast",NBC Baltimore WBAL
 http://supersonictv.live:8080/611366/682256/71333
+#EXTINF:-1 group-title="Fast",NBC Buffalo WGRZ
+http://supersonictv.live:8080/611366/682256/71370
+#EXTINF:-1 group-title="Fast",NBC Charlotte WCNC NC
+http://supersonictv.live:8080/611366/682256/71389
 #EXTINF:-1 group-title="Fast",NBC Chicago WMAQ
 http://supersonictv.live:8080/611366/682256/71399
 #EXTINF:-1 group-title="Fast",NBC Cleveland WKYC
 http://supersonictv.live:8080/611366/682256/71405
-#EXTINF:-1 group-title="Fast",NBC Green Bay WGBA
-http://supersonictv.live:8080/611366/682256/71514
+#EXTINF:-1 group-title="Fast",NBC Dallas KXAS
+http://supersonictv.live:8080/611366/682256/71440
 #EXTINF:-1 group-title="Fast",NBC Hartford WVIT
 http://supersonictv.live:8080/611366/682256/71539
-#EXTINF:-1 group-title="Fast",NBC Houston KPRC
-http://supersonictv.live:8080/611366/682256/71528
 #EXTINF:-1 group-title="Fast",NBC Indianapolis WTHR
 http://supersonictv.live:8080/611366/682256/71558
 #EXTINF:-1 group-title="Fast",NBC Jacksonville
@@ -391,287 +649,451 @@ http://supersonictv.live:8080/611366/682256/71705
 http://supersonictv.live:8080/611366/682256/71696
 #EXTINF:-1 group-title="Fast",NBC Philadelphia WCAU
 http://supersonictv.live:8080/611366/682256/71724
-#EXTINF:-1 group-title="Fast",NBC Pittsburgh WPXI
-http://supersonictv.live:8080/611366/682256/71735
-#EXTINF:-1 group-title="Fast",NBC Sacramento KCRA
-http://supersonictv.live:8080/611366/682256/71771
-#EXTINF:-1 group-title="Fast",NBC San Diego KNSD
-http://supersonictv.live:8080/611366/682256/71792
+#EXTINF:-1 group-title="Fast",NBC Phoenix KPNX
+http://supersonictv.live:8080/611366/682256/71739
+#EXTINF:-1 group-title="Fast",NBC Portland KGW
+http://supersonictv.live:8080/611366/682256/71744
+#EXTINF:-1 group-title="Fast",NBC St Louis KSDK
+http://supersonictv.live:8080/611366/682256/71832
+#EXTINF:-1 group-title="Fast",NBC TAMPA WFLA
+http://supersonictv.live:8080/611366/682256/71865
 #EXTINF:-1 group-title="Fast",NBC Washington WRC
 http://supersonictv.live:8080/611366/682256/71889
 #EXTINF:-1 group-title="Fast",NBC WLBT Jackson
 http://supersonictv.live:8080/611366/682256/71562
-#EXTINF:-1 group-title="Fast",NBC WLEX Lexington
-http://supersonictv.live:8080/611366/682256/71623
-#EXTINF:-1 group-title="Fast",NBC15 (WPMI) Alabama
-http://supersonictv.live:8080/611366/682256/71327
-#EXTINF:-1 group-title="Fast",NBC23 (KAGS) Bryan
-http://supersonictv.live:8080/611366/682256/71375
-#EXTINF:-1 group-title="Fast",NC | Winston-salem | NBC WXII
-http://supersonictv.live:8080/611366/682256/71900
-#EXTINF:-1 group-title="Fast",NCAAB 36 | MAINE @ NJIT (M) | 1.10 2:00 PM | ESPN+
-http://supersonictv.live:8080/611366/682256/87867
-#EXTINF:-1 group-title="Fast",NCAAB 41 | QUEENS UNIVERSITY @ NORTH FLORIDA (M) | 1.10 2:00 PM | ESPN+
-http://supersonictv.live:8080/611366/682256/87872
-#EXTINF:-1 group-title="Fast",NY | New York | CW (PIX 11)
-http://supersonictv.live:8080/611366/682256/71682
+#EXTINF:-1 group-title="Fast",NBC WPSD Paducah
+http://supersonictv.live:8080/611366/682256/71709
+#EXTINF:-1 group-title="Fast",NBC11 (KCBD) Lubbock
+http://supersonictv.live:8080/611366/682256/71629
+#EXTINF:-1 group-title="Fast",NBC2 (WCBD) Charleston
+http://supersonictv.live:8080/611366/682256/71427
+#EXTINF:-1 group-title="Fast",NBC25 (WXXV) Gulfport
+http://supersonictv.live:8080/611366/682256/71507
+#EXTINF:-1 group-title="Fast",NBC3 WRCB Chattanooga
+http://supersonictv.live:8080/611366/682256/71395
+#EXTINF:-1 group-title="Fast",NBC33 (WVLA) Baton Rouge
+http://supersonictv.live:8080/611366/682256/71341
+#EXTINF:-1 group-title="Fast",NBC8 (KOMU) Jefferson City
+http://supersonictv.live:8080/611366/682256/71570
+#EXTINF:-1 group-title="Fast",NC | High Point | FOX WGHP
+http://supersonictv.live:8080/611366/682256/71542
+#EXTINF:-1 group-title="Fast",NCAAB 06 | NAVY @ AMERICAN UNIVERSITY (M) | 1.12 7:00 PM | CBSSN
+http://supersonictv.live:8080/611366/682256/87837
+#EXTINF:-1 group-title="Fast",NCAAB 07 | NEW ORLEANS @ SE LOUISIANA (M) | 1.12 7:00 PM | ESPN+
+http://supersonictv.live:8080/611366/682256/87838
+#EXTINF:-1 group-title="Fast",NCAAB 40 | GEORGIA SOUTHERN @ SOUTH ALABAMA (M) | 1.10 2:00 PM | ESPNU
+http://supersonictv.live:8080/611366/682256/87871
+#EXTINF:-1 group-title="Fast",ND | Fargo | FOX KVRR
+http://supersonictv.live:8080/611366/682256/71478
+#EXTINF:-1 group-title="Fast",ND | Fargo | NBC KVLY
+http://supersonictv.live:8080/611366/682256/71479
+#EXTINF:-1 group-title="Fast",NE | North Platte | NBC KNOP
+http://supersonictv.live:8080/611366/682256/71686
+#EXTINF:-1 group-title="Fast",NE | Superior | NBC KSNB
+http://supersonictv.live:8080/611366/682256/71837
+#EXTINF:-1 group-title="Fast",NHL CI05  :   VANCOUVER CANUCKS @ MONTREAL CANADIENS | 1/12-07:30PM 
+http://supersonictv.live:8080/611366/682256/86089
+#EXTINF:-1 group-title="Fast",NV | Henderson | FOX KVVU
+http://supersonictv.live:8080/611366/682256/71540
+#EXTINF:-1 group-title="Fast",NY | Plattsburgh | NBC WPTZ
+http://supersonictv.live:8080/611366/682256/71725
 #EXTINF:-1 group-title="Fast",NY | Rochester | CBS WROC
 http://supersonictv.live:8080/611366/682256/71764
-#EXTINF:-1 group-title="Fast",OH | Zanesville | NBC WHIZ
-http://supersonictv.live:8080/611366/682256/71916
-#EXTINF:-1 group-title="Fast",OR | Eugene | CBS KVAL
-http://supersonictv.live:8080/611366/682256/71468
-#EXTINF:-1 group-title="Fast",OR | Medford | NBC KOBI
-http://supersonictv.live:8080/611366/682256/71643
-#EXTINF:-1 group-title="Fast",PA | Johnstown | NBC WJAC
-http://supersonictv.live:8080/611366/682256/71572
+#EXTINF:-1 group-title="Fast",NY | Schenectady | CBS WRGB
+http://supersonictv.live:8080/611366/682256/71805
+#EXTINF:-1 group-title="Fast",OH | Steubenville | NBC WTOV
+http://supersonictv.live:8080/611366/682256/71835
+#EXTINF:-1 group-title="Fast",OH | Toledo | CBS WTOL
+http://supersonictv.live:8080/611366/682256/71872
+#EXTINF:-1 group-title="Fast",OH | Toledo | NBC WNWO
+http://supersonictv.live:8080/611366/682256/71874
+#EXTINF:-1 group-title="Fast",OH | Youngstown | NBC WFMJ
+http://supersonictv.live:8080/611366/682256/71913
+#EXTINF:-1 group-title="Fast",OR | Bend | NBC KTVZ
+http://supersonictv.live:8080/611366/682256/71343
+#EXTINF:-1 group-title="Fast",OR | Eugene | NBC KMTR
+http://supersonictv.live:8080/611366/682256/71470
+#EXTINF:-1 group-title="Fast",OR | Portland | CBS KOIN
+http://supersonictv.live:8080/611366/682256/71742
+#EXTINF:-1 group-title="Fast",PA | Erie | NBC WICU
+http://supersonictv.live:8080/611366/682256/71471
+#EXTINF:-1 group-title="Fast",PA | Harrisburg | CBS WHP
+http://supersonictv.live:8080/611366/682256/71531
 #EXTINF:-1 group-title="Fast",Paramount East
 http://supersonictv.live:8080/611366/682256/22906
-#EXTINF:-1 group-title="Fast",PT CANAL 11 HD
-http://supersonictv.live:8080/611366/682256/7604
-#EXTINF:-1 group-title="Fast",PT HOLLYWOOD
-http://supersonictv.live:8080/611366/682256/7659
-#EXTINF:-1 group-title="Fast",PT KURIAKOS TV 'PT
-http://supersonictv.live:8080/611366/682256/7665
-#EXTINF:-1 group-title="Fast",PT TRAVEL CHANNEL HD
-http://supersonictv.live:8080/611366/682256/7723
+#EXTINF:-1 group-title="Fast",PT CINEMUNDO HD
+http://supersonictv.live:8080/611366/682256/7616
+#EXTINF:-1 group-title="Fast",PT ELEVEN SPORTS 3 HD
+http://supersonictv.live:8080/611366/682256/7631
+#EXTINF:-1 group-title="Fast",PT MOTORVISION HD
+http://supersonictv.live:8080/611366/682256/7669
+#EXTINF:-1 group-title="Fast",RACE 01 | FLO | CHILI BOWL NATIONALS (11.12 4:00 PM ET)
+http://supersonictv.live:8080/611366/682256/88382
+#EXTINF:-1 group-title="Fast",SC | Charleston | CBS WCSC
+http://supersonictv.live:8080/611366/682256/71425
+#EXTINF:-1 group-title="Fast",SC | Greenville | FOX WHNS
+http://supersonictv.live:8080/611366/682256/71520
+#EXTINF:-1 group-title="Fast",SD | Rapid City | NBC KNBN
+http://supersonictv.live:8080/611366/682256/71755
 #EXTINF:-1 group-title="Fast",Showtime 2
 http://supersonictv.live:8080/611366/682256/22910
+#EXTINF:-1 group-title="Fast",Showtime Extreme
+http://supersonictv.live:8080/611366/682256/22912
+#EXTINF:-1 group-title="Fast",Showtime Next
+http://supersonictv.live:8080/611366/682256/22914
 #EXTINF:-1 group-title="Fast",Showtime West
 http://supersonictv.live:8080/611366/682256/22909
-#EXTINF:-1 group-title="Fast",Telemundo 51 LHD
-http://supersonictv.live:8080/611366/682256/10566
-#EXTINF:-1 group-title="Fast",Telemundo Boston LHD
-http://supersonictv.live:8080/611366/682256/10571
+#EXTINF:-1 group-title="Fast",Starz Cinema
+http://supersonictv.live:8080/611366/682256/22920
+#EXTINF:-1 group-title="Fast",TN | Knoxville | NBC WBIR
+http://supersonictv.live:8080/611366/682256/71584
 #EXTINF:-1 group-title="Fast",TN-VA | Tri-Cities | NBC WCYB
 http://supersonictv.live:8080/611366/682256/71876
-#EXTINF:-1 group-title="Fast",TX | Amarillo | NBC KAMR
-http://supersonictv.live:8080/611366/682256/71319
+#EXTINF:-1 group-title="Fast",TX | Brownsville | NBC KVEO
+http://supersonictv.live:8080/611366/682256/71364
 #EXTINF:-1 group-title="Fast",TX | Corpus Christi | CBS KZTV
 http://supersonictv.live:8080/611366/682256/71385
-#EXTINF:-1 group-title="Fast",TX | Corpus Christi | NBC KRIS
-http://supersonictv.live:8080/611366/682256/71386
-#EXTINF:-1 group-title="Fast",TX | El Paso | CBS KDBC
-http://supersonictv.live:8080/611366/682256/71465
 #EXTINF:-1 group-title="Fast",TX | El Paso | NBC KTSM
 http://supersonictv.live:8080/611366/682256/71466
-#EXTINF:-1 group-title="Fast",TX | Harlingen | CBS KGBT
-http://supersonictv.live:8080/611366/682256/71523
-#EXTINF:-1 group-title="Fast",TX | Harlingen | FOX KFXV
-http://supersonictv.live:8080/611366/682256/71524
-#EXTINF:-1 group-title="Fast",TX | Longview | FOX KFXK
-http://supersonictv.live:8080/611366/682256/71616
-#EXTINF:-1 group-title="Fast",UK BBC 1 Northern Ireland
-http://supersonictv.live:8080/611366/682256/12187
-#EXTINF:-1 group-title="Fast",UK BBC 1 Scotland
-http://supersonictv.live:8080/611366/682256/12188
-#EXTINF:-1 group-title="Fast",UK BBC 4
-http://supersonictv.live:8080/611366/682256/12184
-#EXTINF:-1 group-title="Fast",UK BBC Alba
-http://supersonictv.live:8080/611366/682256/12185
-#EXTINF:-1 group-title="Fast",USA AccuWeather
-http://supersonictv.live:8080/611366/682256/47748
-#EXTINF:-1 group-title="Fast",USA American Heroes
-http://supersonictv.live:8080/611366/682256/22044
-#EXTINF:-1 group-title="Fast",USA BBC America UHD
-http://supersonictv.live:8080/611366/682256/22051
-#EXTINF:-1 group-title="Fast",USA Beach TV Panama City
-http://supersonictv.live:8080/611366/682256/77551
+#EXTINF:-1 group-title="Fast",TX | Fort Worth | CBS KTXA
+http://supersonictv.live:8080/611366/682256/71494
+#EXTINF:-1 group-title="Fast",TX | Laredo | NBC KGNS
+http://supersonictv.live:8080/611366/682256/71605
+#EXTINF:-1 group-title="Fast",TX | Nacogdoches | CBS KYTX
+http://supersonictv.live:8080/611366/682256/71675
+#EXTINF:-1 group-title="Fast",TX | Odessa | NBC KWES
+http://supersonictv.live:8080/611366/682256/71702
+#EXTINF:-1 group-title="Fast",TX | San Angelo | NBC KSAN
+http://supersonictv.live:8080/611366/682256/71788
+#EXTINF:-1 group-title="Fast",TX | San Antonio | NBC WOAI
+http://supersonictv.live:8080/611366/682256/71786
+#EXTINF:-1 group-title="Fast",TX | Texarkana | NBC KTAL
+http://supersonictv.live:8080/611366/682256/71854
+#EXTINF:-1 group-title="Fast",TXA21 (KTXA) Dallas
+http://supersonictv.live:8080/611366/682256/71441
+#EXTINF:-1 group-title="Fast",UK BT Sports 2 UHD
+http://supersonictv.live:8080/611366/682256/40442
+#EXTINF:-1 group-title="Fast",UK Eir Sport 2
+http://supersonictv.live:8080/611366/682256/40450
+#EXTINF:-1 group-title="Fast",UK MTV
+http://supersonictv.live:8080/611366/682256/13754
+#EXTINF:-1 group-title="Fast",US NBC (WTWC) Tallahassee
+http://supersonictv.live:8080/611366/682256/71849
+#EXTINF:-1 group-title="Fast",USA A&E UHD
+http://supersonictv.live:8080/611366/682256/22040
+#EXTINF:-1 group-title="Fast",USA ABC 16 (WNEP) Scranton
+http://supersonictv.live:8080/611366/682256/71781
+#EXTINF:-1 group-title="Fast",USA ACC Network
+http://supersonictv.live:8080/611366/682256/40389
+#EXTINF:-1 group-title="Fast",USA Afro TV
+http://supersonictv.live:8080/611366/682256/86100
+#EXTINF:-1 group-title="Fast",USA Altitude Sports
+http://supersonictv.live:8080/611366/682256/77575
+#EXTINF:-1 group-title="Fast",USA AMC Presents
+http://supersonictv.live:8080/611366/682256/77253
+#EXTINF:-1 group-title="Fast",USA AMC+
+http://supersonictv.live:8080/611366/682256/77252
+#EXTINF:-1 group-title="Fast",USA Baby First LHD
+http://supersonictv.live:8080/611366/682256/21789
+#EXTINF:-1 group-title="Fast",USA Beach TV - Myrtle Beach - Grand Strand
+http://supersonictv.live:8080/611366/682256/77548
 #EXTINF:-1 group-title="Fast",USA BeIN Sports 4
 http://supersonictv.live:8080/611366/682256/22190
 #EXTINF:-1 group-title="Fast",USA BeIN Sports 5
 http://supersonictv.live:8080/611366/682256/22191
+#EXTINF:-1 group-title="Fast",USA BeIN Sports 6
+http://supersonictv.live:8080/611366/682256/22192
+#EXTINF:-1 group-title="Fast",USA Bein Sports N Espanol UHD
+http://supersonictv.live:8080/611366/682256/22195
 #EXTINF:-1 group-title="Fast",USA Bein Sports UHD
 http://supersonictv.live:8080/611366/682256/22187
-#EXTINF:-1 group-title="Fast",USA BET Gospel
-http://supersonictv.live:8080/611366/682256/22056
 #EXTINF:-1 group-title="Fast",USA BET HER
 http://supersonictv.live:8080/611366/682256/22053
-#EXTINF:-1 group-title="Fast",USA BET Jams
-http://supersonictv.live:8080/611366/682256/22054
-#EXTINF:-1 group-title="Fast",USA BET SOUL
-http://supersonictv.live:8080/611366/682256/22055
-#EXTINF:-1 group-title="Fast",USA BET West
-http://supersonictv.live:8080/611366/682256/22057
+#EXTINF:-1 group-title="Fast",USA Boomerang UHD
+http://supersonictv.live:8080/611366/682256/21791
 #EXTINF:-1 group-title="Fast",USA BOUNCE TV
 http://supersonictv.live:8080/611366/682256/22058
-#EXTINF:-1 group-title="Fast",USA Bravo East UHD
-http://supersonictv.live:8080/611366/682256/22059
-#EXTINF:-1 group-title="Fast",USA Bravo West LHD
-http://supersonictv.live:8080/611366/682256/22060
-#EXTINF:-1 group-title="Fast",USA BUZZR
-http://supersonictv.live:8080/611366/682256/22061
-#EXTINF:-1 group-title="Fast",USA C-SPAN
-http://supersonictv.live:8080/611366/682256/21757
+#EXTINF:-1 group-title="Fast",USA Cars TV
+http://supersonictv.live:8080/611366/682256/47729
+#EXTINF:-1 group-title="Fast",USA Cartoon Network UHD
+http://supersonictv.live:8080/611366/682256/21792
+#EXTINF:-1 group-title="Fast",USA Cartoon Network West
+http://supersonictv.live:8080/611366/682256/21793
 #EXTINF:-1 group-title="Fast",USA CBS 19 WHNT Huntsville
 http://supersonictv.live:8080/611366/682256/71548
 #EXTINF:-1 group-title="Fast",USA CBS SPORTS HQ
 http://supersonictv.live:8080/611366/682256/77571
-#EXTINF:-1 group-title="Fast",USA CBS UHD
-http://supersonictv.live:8080/611366/682256/22062
-#EXTINF:-1 group-title="Fast",USA CBSN Bay Area
-http://supersonictv.live:8080/611366/682256/77559
-#EXTINF:-1 group-title="Fast",USA CBSN Boston
-http://supersonictv.live:8080/611366/682256/77560
-#EXTINF:-1 group-title="Fast",USA CBSN Dallas
-http://supersonictv.live:8080/611366/682256/77562
-#EXTINF:-1 group-title="Fast",USA CBSN Denver
-http://supersonictv.live:8080/611366/682256/77563
-#EXTINF:-1 group-title="Fast",USA CBSN New York
-http://supersonictv.live:8080/611366/682256/77566
-#EXTINF:-1 group-title="Fast",USA CMT UHD
-http://supersonictv.live:8080/611366/682256/22063
+#EXTINF:-1 group-title="Fast",USA Cleo TV FHD
+http://supersonictv.live:8080/611366/682256/86101
 #EXTINF:-1 group-title="Fast",USA CNBC UHD
 http://supersonictv.live:8080/611366/682256/22064
-#EXTINF:-1 group-title="Fast",USA CNBC World LHD
-http://supersonictv.live:8080/611366/682256/21763
-#EXTINF:-1 group-title="Fast",USA CNN INTERNATIONAL
-http://supersonictv.live:8080/611366/682256/21765
 #EXTINF:-1 group-title="Fast",USA Comedy Central East UHD
 http://supersonictv.live:8080/611366/682256/22065
 #EXTINF:-1 group-title="Fast",USA Comet
 http://supersonictv.live:8080/611366/682256/22066
-#EXTINF:-1 group-title="Fast",USA Cooking Channel
-http://supersonictv.live:8080/611366/682256/22067
-#EXTINF:-1 group-title="Fast",USA COURT TV
-http://supersonictv.live:8080/611366/682256/22068
 #EXTINF:-1 group-title="Fast",USA COZI TV LHD
 http://supersonictv.live:8080/611366/682256/22070
-#EXTINF:-1 group-title="Fast",USA Crime & Investigation
-http://supersonictv.live:8080/611366/682256/22071
+#EXTINF:-1 group-title="Fast",USA Decades
+http://supersonictv.live:8080/611366/682256/82922
 #EXTINF:-1 group-title="Fast",USA Destination America UHD
 http://supersonictv.live:8080/611366/682256/22073
 #EXTINF:-1 group-title="Fast",USA Discovery Channel UHD
 http://supersonictv.live:8080/611366/682256/22074
 #EXTINF:-1 group-title="Fast",USA Discovery Family
 http://supersonictv.live:8080/611366/682256/22076
-#EXTINF:-1 group-title="Fast",USA Discovery Life UHD
-http://supersonictv.live:8080/611366/682256/22075
 #EXTINF:-1 group-title="Fast",USA Discovery Science
 http://supersonictv.live:8080/611366/682256/22077
 #EXTINF:-1 group-title="Fast",USA Discovery West LHD
 http://supersonictv.live:8080/611366/682256/22079
+#EXTINF:-1 group-title="Fast",USA Disney Channel East UHD
+http://supersonictv.live:8080/611366/682256/21795
+#EXTINF:-1 group-title="Fast",USA Disney Channel Paficic
+http://supersonictv.live:8080/611366/682256/21797
+#EXTINF:-1 group-title="Fast",USA Disney Channel West
+http://supersonictv.live:8080/611366/682256/21796
+#EXTINF:-1 group-title="Fast",USA Disney Junior Pacific
+http://supersonictv.live:8080/611366/682256/21800
+#EXTINF:-1 group-title="Fast",USA Disney Junior UHD
+http://supersonictv.live:8080/611366/682256/21798
+#EXTINF:-1 group-title="Fast",USA Disney Junior West LHD
+http://supersonictv.live:8080/611366/682256/21799
+#EXTINF:-1 group-title="Fast",USA Disney XD Pacific
+http://supersonictv.live:8080/611366/682256/21803
+#EXTINF:-1 group-title="Fast",USA Disney XD UHD
+http://supersonictv.live:8080/611366/682256/21801
+#EXTINF:-1 group-title="Fast",USA Disney XD West LHD
+http://supersonictv.live:8080/611366/682256/21802
 #EXTINF:-1 group-title="Fast",USA DIY Network UHD
 http://supersonictv.live:8080/611366/682256/22080
-#EXTINF:-1 group-title="Fast",USA E! West LHD
-http://supersonictv.live:8080/611366/682256/22082
+#EXTINF:-1 group-title="Fast",USA E! East UHD
+http://supersonictv.live:8080/611366/682256/22081
+#EXTINF:-1 group-title="Fast",USA ESPN 2 UHD
+http://supersonictv.live:8080/611366/682256/22199
+#EXTINF:-1 group-title="Fast",USA ESPN SEC Network 
+http://supersonictv.live:8080/611366/682256/22208
+#EXTINF:-1 group-title="Fast",USA ESPN UHD
+http://supersonictv.live:8080/611366/682256/22198
+#EXTINF:-1 group-title="Fast",USA ESPNU UHD
+http://supersonictv.live:8080/611366/682256/22202
+#EXTINF:-1 group-title="Fast",USA FETV
+http://supersonictv.live:8080/611366/682256/86404
+#EXTINF:-1 group-title="Fast",USA Food Network East LHD
+http://supersonictv.live:8080/611366/682256/22084
+#EXTINF:-1 group-title="Fast",USA Food Network West LHD
+http://supersonictv.live:8080/611366/682256/22085
 #EXTINF:-1 group-title="Fast",USA Fox News UHD
 http://supersonictv.live:8080/611366/682256/21768
-#EXTINF:-1 group-title="Fast",USA Fox Sports New Orleans
-http://supersonictv.live:8080/611366/682256/78948
+#EXTINF:-1 group-title="Fast",USA Fox Sports 1 UHD
+http://supersonictv.live:8080/611366/682256/78936
+#EXTINF:-1 group-title="Fast",USA Fox Sports 2 UHD
+http://supersonictv.live:8080/611366/682256/78937
+#EXTINF:-1 group-title="Fast",USA Fox Sports Detroit
+http://supersonictv.live:8080/611366/682256/78942
+#EXTINF:-1 group-title="Fast",USA Fox Sports Florida
+http://supersonictv.live:8080/611366/682256/78943
+#EXTINF:-1 group-title="Fast",USA Fox Sports Indiana
+http://supersonictv.live:8080/611366/682256/78944
+#EXTINF:-1 group-title="Fast",USA Fox UHD
+http://supersonictv.live:8080/611366/682256/22086
 #EXTINF:-1 group-title="Fast",USA Freeform UHD
 http://supersonictv.live:8080/611366/682256/21804
 #EXTINF:-1 group-title="Fast",USA Fuse TV
 http://supersonictv.live:8080/611366/682256/22089
+#EXTINF:-1 group-title="Fast",USA FX East UHD
+http://supersonictv.live:8080/611366/682256/22091
+#EXTINF:-1 group-title="Fast",USA FX West LHD
+http://supersonictv.live:8080/611366/682256/22092
+#EXTINF:-1 group-title="Fast",USA FXM UHD
+http://supersonictv.live:8080/611366/682256/22093
+#EXTINF:-1 group-title="Fast",USA FXX East UHD
+http://supersonictv.live:8080/611366/682256/22094
 #EXTINF:-1 group-title="Fast",USA FXX West LHD
 http://supersonictv.live:8080/611366/682256/22095
+#EXTINF:-1 group-title="Fast",USA FYI
+http://supersonictv.live:8080/611366/682256/22096
 #EXTINF:-1 group-title="Fast",USA Game Show Network UHD
 http://supersonictv.live:8080/611366/682256/22098
 #EXTINF:-1 group-title="Fast",USA Great American Country
 http://supersonictv.live:8080/611366/682256/77552
+#EXTINF:-1 group-title="Fast",USA HGTV East UHD
+http://supersonictv.live:8080/611366/682256/22101
 #EXTINF:-1 group-title="Fast",USA HGTV West LHD
 http://supersonictv.live:8080/611366/682256/22103
-#EXTINF:-1 group-title="Fast",USA Latin CLAN
-http://supersonictv.live:8080/611366/682256/61883
+#EXTINF:-1 group-title="Fast",USA HLN UHD
+http://supersonictv.live:8080/611366/682256/22107
+#EXTINF:-1 group-title="Fast",USA Investigation Discovery East UHD
+http://supersonictv.live:8080/611366/682256/22110
+#EXTINF:-1 group-title="Fast",USA Law And Crime
+http://supersonictv.live:8080/611366/682256/22114
+#EXTINF:-1 group-title="Fast",USA Lifetime East UHD
+http://supersonictv.live:8080/611366/682256/22115
+#EXTINF:-1 group-title="Fast",USA Marquee Sports Network
+http://supersonictv.live:8080/611366/682256/40408
+#EXTINF:-1 group-title="Fast",USA MASN
+http://supersonictv.live:8080/611366/682256/77459
+#EXTINF:-1 group-title="Fast",USA MASN 2
+http://supersonictv.live:8080/611366/682256/77460
+#EXTINF:-1 group-title="Fast",USA MAVTV
+http://supersonictv.live:8080/611366/682256/22117
+#EXTINF:-1 group-title="Fast",USA MC Video | Musica Urbana
+http://supersonictv.live:8080/611366/682256/13720
+#EXTINF:-1 group-title="Fast",USA MLB Network UHD
+http://supersonictv.live:8080/611366/682256/40402
+#EXTINF:-1 group-title="Fast",USA MTV Live
+http://supersonictv.live:8080/611366/682256/13752
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | 90's
+http://supersonictv.live:8080/611366/682256/13731
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | Alternative
+http://supersonictv.live:8080/611366/682256/13745
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | Dance/ EDM
+http://supersonictv.live:8080/611366/682256/13735
 #EXTINF:-1 group-title="Fast",USA Music Choice Video | Hip-Hop and R&B
 http://supersonictv.live:8080/611366/682256/13726
 #EXTINF:-1 group-title="Fast",USA Music Choice Video | Pop & Country
 http://supersonictv.live:8080/611366/682256/13730
 #EXTINF:-1 group-title="Fast",USA Music Choice Video | Pop Hits
 http://supersonictv.live:8080/611366/682256/13729
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | Pop Latino
+http://supersonictv.live:8080/611366/682256/13738
 #EXTINF:-1 group-title="Fast",USA Music Choice Video | R&B Soul
 http://supersonictv.live:8080/611366/682256/13734
 #EXTINF:-1 group-title="Fast",USA Music Choice Video | Rap
 http://supersonictv.live:8080/611366/682256/13739
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | Rock
+http://supersonictv.live:8080/611366/682256/13733
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | Throwback Jamz
+http://supersonictv.live:8080/611366/682256/13740
+#EXTINF:-1 group-title="Fast",USA Music Choice Video | Tropicales
+http://supersonictv.live:8080/611366/682256/13742
 #EXTINF:-1 group-title="Fast",USA Music Choice Video | Y2K
 http://supersonictv.live:8080/611366/682256/13736
-#EXTINF:-1 group-title="Fast",USA Nat Geo WILD
-http://supersonictv.live:8080/611366/682256/22122
-#EXTINF:-1 group-title="Fast",USA NBA 02 : Boston Celtics vs Indiana Pacers @ 07:30 PM EST
-http://supersonictv.live:8080/611366/682256/83044
-#EXTINF:-1 group-title="Fast",USA NBA 03 : Philadelphia 76ers vs Toronto Raptors @ 07:30 PM EST
-http://supersonictv.live:8080/611366/682256/83045
-#EXTINF:-1 group-title="Fast",USA NBA04 : Brooklyn Nets vs Dallas Mavericks @ 08:30 PM EST
-http://supersonictv.live:8080/611366/682256/83046
-#EXTINF:-1 group-title="Fast",USA NBA05 : Los Angeles Lakers vs Sacramento Kings @ 10:00 PM EST
-http://supersonictv.live:8080/611366/682256/83047
-#EXTINF:-1 group-title="Fast",USA NBA07 :  
-http://supersonictv.live:8080/611366/682256/83049
-#EXTINF:-1 group-title="Fast",USA NBC 10 WJAR Providence
-http://supersonictv.live:8080/611366/682256/71730
-#EXTINF:-1 group-title="Fast",USA NBC Sports Boston
-http://supersonictv.live:8080/611366/682256/78965
-#EXTINF:-1 group-title="Fast",USA NBC Sports California
-http://supersonictv.live:8080/611366/682256/78966
-#EXTINF:-1 group-title="Fast",USA NBC Sports California Plus
-http://supersonictv.live:8080/611366/682256/78967
+#EXTINF:-1 group-title="Fast",USA MY 20 Houston KTXH
+http://supersonictv.live:8080/611366/682256/71529
+#EXTINF:-1 group-title="Fast",USA My 28 WRDC
+http://supersonictv.live:8080/611366/682256/71917
+#EXTINF:-1 group-title="Fast",USA National Geographic East UHD
+http://supersonictv.live:8080/611366/682256/22123
+#EXTINF:-1 group-title="Fast",USA NBA 01:  Utah Jazz vs Cleveland Cavaliers @ 07:00 PM EST
+http://supersonictv.live:8080/611366/682256/83043
 #EXTINF:-1 group-title="Fast",USA NBC Sports Network UHD
 http://supersonictv.live:8080/611366/682256/78970
-#EXTINF:-1 group-title="Fast",USA New England Cable News LHD
-http://supersonictv.live:8080/611366/682256/40387
-#EXTINF:-1 group-title="Fast",USA News 12 New Jersey
-http://supersonictv.live:8080/611366/682256/21781
-#EXTINF:-1 group-title="Fast",USA NEWS 12 THE BRONX
-http://supersonictv.live:8080/611366/682256/21778
-#EXTINF:-1 group-title="Fast",USA NEWS 12 WESTCHESTER
-http://supersonictv.live:8080/611366/682256/21779
-#EXTINF:-1 group-title="Fast",USA Newsmax UHD
-http://supersonictv.live:8080/611366/682256/77589
+#EXTINF:-1 group-title="Fast",USA NBC Sports Philadelphia
+http://supersonictv.live:8080/611366/682256/78972
+#EXTINF:-1 group-title="Fast",USA NBC UHD
+http://supersonictv.live:8080/611366/682256/22126
+#EXTINF:-1 group-title="Fast",USA NHL 10 : Carolina Hurricanes vs Detroit Red Wings @ 07:00 PM
+http://supersonictv.live:8080/611366/682256/82992
+#EXTINF:-1 group-title="Fast",USA NHL01:  SEA VS NYR (NHLN Feed ) @ 7:00 pm
+http://supersonictv.live:8080/611366/682256/82983
+#EXTINF:-1 group-title="Fast",USA NHL03 : TBL VS PHI (NBCSP Feed ) @ 7:00 pm
+http://supersonictv.live:8080/611366/682256/82985
+#EXTINF:-1 group-title="Fast",USA NHL04 : VAN VS MTL (Prime Feed ) @ 7:30 pm
+http://supersonictv.live:8080/611366/682256/82986
+#EXTINF:-1 group-title="Fast",USA NHL05  :  VAN VS MTL (RDS Feed ) @ 7:30 pm
+http://supersonictv.live:8080/611366/682256/82987
 #EXTINF:-1 group-title="Fast",USA NICK JR
 http://supersonictv.live:8080/611366/682256/21806
-#EXTINF:-1 group-title="Fast",USA Nickelodeon UHD
-http://supersonictv.live:8080/611366/682256/21808
-#EXTINF:-1 group-title="Fast",USA Ovation
-http://supersonictv.live:8080/611366/682256/22133
-#EXTINF:-1 group-title="Fast",USA PBS Kids
-http://supersonictv.live:8080/611366/682256/21810
-#EXTINF:-1 group-title="Fast",USA PBS WASHINGTON DC
-http://supersonictv.live:8080/611366/682256/78545
-#EXTINF:-1 group-title="Fast",USA PBS WPBT MIami
-http://supersonictv.live:8080/611366/682256/78546
+#EXTINF:-1 group-title="Fast",USA NickToons
+http://supersonictv.live:8080/611366/682256/21809
+#EXTINF:-1 group-title="Fast",USA Oxygen East UHD
+http://supersonictv.live:8080/611366/682256/22134
+#EXTINF:-1 group-title="Fast",USA PBS (KUAT) AZ | Tucson
+http://supersonictv.live:8080/611366/682256/78446
+#EXTINF:-1 group-title="Fast",USA PBS (KUSM) MT | Bozeman
+http://supersonictv.live:8080/611366/682256/78450
+#EXTINF:-1 group-title="Fast",USA PBS (KVIE) CA | Sacramento
+http://supersonictv.live:8080/611366/682256/78451
+#EXTINF:-1 group-title="Fast",USA PBS (WBGU) OH | Bowling Green
+http://supersonictv.live:8080/611366/682256/78460
+#EXTINF:-1 group-title="Fast",USA PBS (WBIQ) AL | Birmingham
+http://supersonictv.live:8080/611366/682256/78461
+#EXTINF:-1 group-title="Fast",USA PBS (WFIU-WTIU( IN | Bloomington
+http://supersonictv.live:8080/611366/682256/78472
+#EXTINF:-1 group-title="Fast",USA PBS (WHYY) PA | Philadelphia
+http://supersonictv.live:8080/611366/682256/78481
+#EXTINF:-1 group-title="Fast",USA PBS (WLVT) PA | Allentown
+http://supersonictv.live:8080/611366/682256/78492
+#EXTINF:-1 group-title="Fast",USA PBS (WNED) NY | Buffalo
+http://supersonictv.live:8080/611366/682256/78495
+#EXTINF:-1 group-title="Fast",USA PBS (WNET) NY | New York
+http://supersonictv.live:8080/611366/682256/78496
 #EXTINF:-1 group-title="Fast",USA Root Sports Network
 http://supersonictv.live:8080/611366/682256/77461
 #EXTINF:-1 group-title="Fast",USA Root Sports NW
 http://supersonictv.live:8080/611366/682256/77576
-#EXTINF:-1 group-title="Fast",USA Smithsonian Channel LHD
-http://supersonictv.live:8080/611366/682256/22148
-#EXTINF:-1 group-title="Fast",USA SNY LHD
-http://supersonictv.live:8080/611366/682256/22150
-#EXTINF:-1 group-title="Fast",USA Stadium 1 UHD
-http://supersonictv.live:8080/611366/682256/40429
-#EXTINF:-1 group-title="Fast",USA TBS West LHD
-http://supersonictv.live:8080/611366/682256/22155
-#EXTINF:-1 group-title="Fast",USA TCM
-http://supersonictv.live:8080/611366/682256/22156
-#EXTINF:-1 group-title="Fast",USA Tennis Channel UHD
-http://supersonictv.live:8080/611366/682256/40433
-#EXTINF:-1 group-title="Fast",USA The Film Detective
-http://supersonictv.live:8080/611366/682256/47742
-#EXTINF:-1 group-title="Fast",USA TLC West
-http://supersonictv.live:8080/611366/682256/22158
-#EXTINF:-1 group-title="Fast",USA TNT East UHD
-http://supersonictv.live:8080/611366/682256/22159
-#EXTINF:-1 group-title="Fast",USA UP TV
-http://supersonictv.live:8080/611366/682256/47744
+#EXTINF:-1 group-title="Fast",USA Start TV
+http://supersonictv.live:8080/611366/682256/86401
+#EXTINF:-1 group-title="Fast",USA Sundance TV LHD
+http://supersonictv.live:8080/611366/682256/22152
+#EXTINF:-1 group-title="Fast",USA truTV West LHD
+http://supersonictv.live:8080/611366/682256/22165
+#EXTINF:-1 group-title="Fast",USA TV One
+http://supersonictv.live:8080/611366/682256/22166
+#EXTINF:-1 group-title="Fast",USA TVG 2 Network
+http://supersonictv.live:8080/611366/682256/22168
+#EXTINF:-1 group-title="Fast",USA TVG Network
+http://supersonictv.live:8080/611366/682256/22167
+#EXTINF:-1 group-title="Fast",USA TVLand UHD
+http://supersonictv.live:8080/611366/682256/22169
+#EXTINF:-1 group-title="Fast",USA TyC Sports
+http://supersonictv.live:8080/611366/682256/40435
+#EXTINF:-1 group-title="Fast",USA UFC Network
+http://supersonictv.live:8080/611366/682256/22177
+#EXTINF:-1 group-title="Fast",USA Universo West LHD
+http://supersonictv.live:8080/611366/682256/22171
+#EXTINF:-1 group-title="Fast",USA Univision East UHD
+http://supersonictv.live:8080/611366/682256/22173
+#EXTINF:-1 group-title="Fast",USA Usa Network Pacific
+http://supersonictv.live:8080/611366/682256/22176
+#EXTINF:-1 group-title="Fast",USA VH1 CLASSIC
+http://supersonictv.live:8080/611366/682256/22179
 #EXTINF:-1 group-title="Fast",USA VH1 UHD
 http://supersonictv.live:8080/611366/682256/22178
 #EXTINF:-1 group-title="Fast",USA VSIN
 http://supersonictv.live:8080/611366/682256/85836
+#EXTINF:-1 group-title="Fast",USA Wapa America
+http://supersonictv.live:8080/611366/682256/22181
+#EXTINF:-1 group-title="Fast",USA WE TV LHD
+http://supersonictv.live:8080/611366/682256/22182
 #EXTINF:-1 group-title="Fast",USA WGN 9 Chicago
 http://supersonictv.live:8080/611366/682256/77553
+#EXTINF:-1 group-title="Fast",USA Willow Cricket Extra
+http://supersonictv.live:8080/611366/682256/40437
+#EXTINF:-1 group-title="Fast",USA WPIX
+http://supersonictv.live:8080/611366/682256/22186
 #EXTINF:-1 group-title="Fast",USA: COWBOY CHANNEL
 http://supersonictv.live:8080/611366/682256/22069
-#EXTINF:-1 group-title="Fast",USA: ONE AMERICA NEWS NETWORK
-http://supersonictv.live:8080/611366/682256/21784
-#EXTINF:-1 group-title="Fast",USA: SPORTSMAN CHANNEL
-http://supersonictv.live:8080/611366/682256/22149
 #EXTINF:-1 group-title="Fast",UT | Salt Lake City | CBS KUTV
 http://supersonictv.live:8080/611366/682256/71776
-#EXTINF:-1 group-title="Fast",VA | Portsmouth | NBC WAVY
-http://supersonictv.live:8080/611366/682256/71726
-#EXTINF:-1 group-title="Fast",WA | Yakima | FOX KCYU
-http://supersonictv.live:8080/611366/682256/71909
-#EXTINF:-1 group-title="Fast",WI | La Crosse | CBS WKBT
-http://supersonictv.live:8080/611366/682256/71585
+#EXTINF:-1 group-title="Fast",UT | Salt Lake City | NBC KSL
+http://supersonictv.live:8080/611366/682256/71778
+#EXTINF:-1 group-title="Fast",VA | Charlottesville | NBC WVIR
+http://supersonictv.live:8080/611366/682256/71391
+#EXTINF:-1 group-title="Fast",VA | Harrisonburg | FOX Net
+http://supersonictv.live:8080/611366/682256/71535
+#EXTINF:-1 group-title="Fast",VT | Burlington | CBS WCAX
+http://supersonictv.live:8080/611366/682256/71365
+#EXTINF:-1 group-title="Fast",WA | Spokane | CBS KREM
+http://supersonictv.live:8080/611366/682256/71821
+#EXTINF:-1 group-title="Fast",WA | Spokane | NBC KHQ
+http://supersonictv.live:8080/611366/682256/71822
+#EXTINF:-1 group-title="Fast",WA | Tacoma | FOX KCPQ
+http://supersonictv.live:8080/611366/682256/71851
+#EXTINF:-1 group-title="Fast",WI | Green Bay | CBS WFRV
+http://supersonictv.live:8080/611366/682256/71511
+#EXTINF:-1 group-title="Fast",WI | La Crosse | FOX WLAX
+http://supersonictv.live:8080/611366/682256/71586
+#EXTINF:-1 group-title="Fast",WI | Madison | NBC WMTV
+http://supersonictv.live:8080/611366/682256/71635
+#EXTINF:-1 group-title="Fast",WI | Wausau | NBC WJFW
+http://supersonictv.live:8080/611366/682256/71883
 #EXTINF:-1 group-title="Fast",WV | Bluefield | NBC WVVA
 http://supersonictv.live:8080/611366/682256/71362
+#EXTINF:-1 group-title="Fast",WV | Clarksburg | NBC WBOY
+http://supersonictv.live:8080/611366/682256/71401
+#EXTINF:-1 group-title="Fast",WV | Huntington | CBS WOWK
+http://supersonictv.live:8080/611366/682256/71552
+#EXTINF:-1 group-title="Fast",WV | Huntington | NBC WSAZ
+http://supersonictv.live:8080/611366/682256/71553
+#EXTINF:-1 group-title="Fast",WV | Parkersburg | NBC WTAP
+http://supersonictv.live:8080/611366/682256/71716
