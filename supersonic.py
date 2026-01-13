@@ -5,16 +5,19 @@ import time
 from pathlib import Path
 from urllib.parse import urljoin
 
-# ---------- CONFIG ----------
+# ---------- CONFIG (ADJUSTED & REALISTIC) ----------
 
-TIMEOUT = aiohttp.ClientTimeout(total=10)
+TIMEOUT = aiohttp.ClientTimeout(total=12)
 
-MAX_CONCURRENCY = 100
+MAX_CONCURRENCY = 80
 MAX_HLS_DEPTH = 3
 
-MIN_SPEED_KBPS = 400        # minimum throughput
-MAX_TTFB = 1.5              # seconds
-SAMPLE_BYTES = 256_000      # read max 256 KB
+MIN_SPEED_KBPS = 250        # realistic HD threshold
+MAX_TTFB = 4.0              # allow CDN warmup
+SAMPLE_BYTES = 384_000      # read up to 384 KB
+WARMUP_BYTES = 32_000       # ignore first 32 KB for speed
+
+RETRIES = 2                 # retry slow streams once
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0"
@@ -25,44 +28,58 @@ BLOCKED_DOMAINS = {
     "ssai2-ads.api.leiniao.com",
 }
 
-# ---------- SPEED TEST ----------
+# ---------- SPEED TEST (WARMED & REALISTIC) ----------
 
 async def stream_is_fast(session, url, headers):
-    try:
-        start = time.perf_counter()
+    for attempt in range(RETRIES):
+        try:
+            start = time.perf_counter()
 
-        async with session.get(url, headers=headers) as r:
-            if r.status >= 400:
-                return False
+            async with session.get(url, headers=headers) as r:
+                if r.status >= 400:
+                    return False
 
-            first_chunk_time = None
-            total = 0
+                first_byte_time = None
+                speed_start_time = None
+                total = 0
+                measured = 0
 
-            async for chunk in r.content.iter_chunked(8192):
-                now = time.perf_counter()
+                async for chunk in r.content.iter_chunked(8192):
+                    now = time.perf_counter()
 
-                if first_chunk_time is None:
-                    first_chunk_time = now
+                    if first_byte_time is None:
+                        first_byte_time = now
 
-                total += len(chunk)
+                    total += len(chunk)
 
-                if total >= SAMPLE_BYTES:
-                    break
+                    # warmup period
+                    if total < WARMUP_BYTES:
+                        continue
 
-            if not first_chunk_time:
-                return False
+                    if speed_start_time is None:
+                        speed_start_time = now
 
-            ttfb = first_chunk_time - start
-            duration = max(now - first_chunk_time, 0.001)
-            speed_kbps = (total / 1024) / duration
+                    measured += len(chunk)
 
-            return (
-                ttfb <= MAX_TTFB and
-                speed_kbps >= MIN_SPEED_KBPS
-            )
+                    if measured >= SAMPLE_BYTES:
+                        break
 
-    except Exception:
-        return False
+                if not speed_start_time:
+                    continue
+
+                ttfb = first_byte_time - start
+                duration = max(now - speed_start_time, 0.001)
+                speed_kbps = (measured / 1024) / duration
+
+                if ttfb <= MAX_TTFB and speed_kbps >= MIN_SPEED_KBPS:
+                    return True
+
+        except Exception:
+            pass
+
+        await asyncio.sleep(0.2)
+
+    return False
 
 # ---------- STREAM VALIDATION ----------
 
@@ -74,7 +91,7 @@ async def is_stream_fast(session, url, headers, depth=0):
         if d in url:
             return False
 
-    # Non-HLS streams → speed test directly
+    # Non-HLS stream
     if ".m3u8" not in url:
         return await stream_is_fast(session, url, headers)
 
@@ -140,7 +157,7 @@ async def check_stream(semaphore, session, entry):
 
     return fast, title, extinf, vlcopts, url
 
-# ---------- MAIN LOGIC ----------
+# ---------- MAIN ----------
 
 async def filter_fast_streams(input_path, output_path):
     lines = Path(input_path).read_text(
@@ -160,11 +177,7 @@ async def filter_fast_streams(input_path, output_path):
             extinf.clear()
             vlcopts.clear()
 
-    connector = aiohttp.TCPConnector(
-        limit_per_host=20,
-        ssl=False,
-    )
-
+    connector = aiohttp.TCPConnector(limit_per_host=15, ssl=False)
     semaphore = asyncio.Semaphore(MAX_CONCURRENCY)
 
     async with aiohttp.ClientSession(
@@ -173,11 +186,7 @@ async def filter_fast_streams(input_path, output_path):
         headers=DEFAULT_HEADERS,
     ) as session:
 
-        tasks = [
-            check_stream(semaphore, session, e)
-            for e in entries
-        ]
-
+        tasks = [check_stream(semaphore, session, e) for e in entries]
         fast_entries = []
 
         for coro in asyncio.as_completed(tasks):
@@ -197,24 +206,20 @@ async def filter_fast_streams(input_path, output_path):
 
     fast_entries.sort(key=lambda x: x[0])
 
-    output = ["#EXTM3U"]
+    out = ["#EXTM3U"]
     for _, extinf, vlcopts, url in fast_entries:
-        output.extend(extinf)
-        output.extend(vlcopts)
-        output.append(url)
+        out.extend(extinf)
+        out.extend(vlcopts)
+        out.append(url)
 
-    Path(output_path).write_text(
-        "\n".join(output) + "\n",
-        encoding="utf-8"
-    )
-
+    Path(output_path).write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"\nSaved FAST playlist to: {output_path}")
 
 # ---------- CLI ----------
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python fast_m3u_filter.py input.m3u output.m3u")
+        print("Usage: python fast_filter.py input.m3u output.m3u")
         sys.exit(1)
 
     if not Path(sys.argv[1]).exists():
