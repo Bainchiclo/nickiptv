@@ -1,36 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Stuttgart vs Eintracht Frankfurt" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyqvrDAoQ3EBBB8QiAyWO4QAExAoCFJnxRc15evNFOmtMGrGiIQA.webp" group-title="Streamed",Stuttgart vs Eintracht Frankfurt
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/FEBGwLtrAPRWNkjhuoWumAVamzUuvBvw/admin/stream/bl_vfb/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Damac vs Al-Ittihad" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhg+EN0ibgSTSD4gSR-SlwgI+kAQpM+KLmDLwi80Q6a0wTsaIhA.webp" group-title="Streamed",Damac vs Al-Ittihad
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/JcReDzzlmBHveBZquzaWmNpWfNFDoxWu/charlie/stream/damac-vs-al-ittihad-fc-1436043/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fethiyespor vs Galatasaray" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxSUQApMAAMuEN3UgAJgZQgIe3aZAEKTPqrZgy8IvNGqmtME7GiIQA.webp" group-title="Streamed",Fethiyespor vs Galatasaray
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/MZmFHkaaEGDsVtnTAmJpZRshMleXXtav/echo/stream/fethiyespor-vs-galatasaray-football-1489330/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="U-BT Cluj-Napoca vs Hamburg Towers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhgYfmD4gBEENxAATHSe3GcJffoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",U-BT Cluj-Napoca vs Hamburg Towers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/kjxxraiknyZzFrFNIeNINvDZMEiyDGdP/charlie/stream/u-bt-cluj-napoca-vs-veolia-towers-hamburg-1629473409/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Neptunas Klaipeda vs Cedevita Olimpija Ljubljana" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxDN6IACYhEzFjhCSHiSxFs4yjkCAicnDD4gQmY2ljCO2H5sBDDAeHp0YCwKfs5Y8WJgycDRuUA.webp" group-title="Streamed",EuroCup: Neptunas Klaipeda vs Cedevita Olimpija Ljubljana
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/VoYdZjjBKvgDBDZfrTlcFBFycjCWfoKd/charlie/stream/neptunas-klaipeda-vs-cedevita-olimpija-ljubljana-1629473408/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC U23 Asian Cup: Japan U23 vs Qatar U23" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOENhYgI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="Streamed",AFC U23 Asian Cup: Japan U23 vs Qatar U23
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/VZlGfJOcFmxqCodtZalvewjwHRwwujKP/charlie/stream/japan-u23-vs-qatar-u23-1501610/1/playlist.m3u8
+https://lb1.strmd.top/secure/dxtPVrXmgodWHlyXHsSZrFapGzTtXrhy/charlie/stream/japan-u23-vs-qatar-u23-1501610/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Bahcesehir College Istanbul vs BAXI Manresa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",EuroCup: Bahcesehir College Istanbul vs BAXI Manresa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/DUseVwqfMtrNytxJooHyAPMLMjnneWRe/charlie/stream/bahcesehir-koleji-sk-vs-baxi-manresa-1629473405/1/playlist.m3u8
+https://lb4.strmd.top/secure/axpFbjOIjegqEnkldnUDGVPWkncToWgv/charlie/stream/bahcesehir-koleji-sk-vs-baxi-manresa-1629473405/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bahcesehir Kol. vs Manresa" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIFCA11yDAMbNJPeGKrcCXVmDC58toA.webp" group-title="Streamed",Bahcesehir Kol. vs Manresa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/oAFIPJXobVbNycjVIZiIfkUnxFUMarXz/echo/stream/bahcesehir-kol-vs-manresa-basketball-453230/1/playlist.m3u8
+https://lb7.strmd.top/secure/aRWFaAnRptSJkSzyklvOnKAAkkVmrLrv/echo/stream/bahcesehir-kol-vs-manresa-basketball-453230/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Paarl Royals vs Durban's Super Giants" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YkQAE04AGMOpDcQfEIgj6Q5xGtMwCFJnxRcwZeEXmjHTWmGdjREIA.webp" group-title="Streamed",Paarl Royals vs Durban's Super Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/jglWVoZTZpfCYsnxmLpKOcIbZzrciwIx/charlie/stream/paarl-royals-vs-durbans-super-giants-1629473404/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gaziantep vs Kocaelispor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFYPkAGdiG7rcBiCGMlDOCAQpM+KLmDLwi80Xaa0wDsaIhA.webp" group-title="Streamed",Gaziantep vs Kocaelispor
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/WiCZFASCGlPIkTWjTFTkflFfmlrTJfEl/echo/stream/gazisehir-gaziantep-vs-kocaelispor-football-1489331/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Masters Snooker " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Masters Snooker 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/XibPNssQYPSjQwbqbGIwlmbkSjHnQuSb/echo/stream/masters-snooker-pick3/1/playlist.m3u8
+https://lb7.strmd.top/secure/VzyKAuFNizeEODLjqSqtSxaAVcMQaPUw/charlie/stream/paarl-royals-vs-durbans-super-giants-1629473404/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 250 Adelaide / ATP 250 Auckland	  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",ATP 250 Adelaide / ATP 250 Auckland	  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/InOymgajlcJBDanZgHAOvNAJxmXRXVWp/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
+https://lb4.strmd.top/secure/DFLJGdNcjZkNPaXhekWfeIpyfVoBcLiE/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
