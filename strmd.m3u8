@@ -1,21 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Bahcesehir College Istanbul vs BAXI Manresa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",EuroCup: Bahcesehir College Istanbul vs BAXI Manresa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/EdTBcfXEROjgdSxsDhwkbALjZsIzBBLI/charlie/stream/bahcesehir-koleji-sk-vs-baxi-manresa-1629473405/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bahcesehir Kol. vs Manresa" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIFCA11yDAMbNJPeGKrcCXVmDC58toA.webp" group-title="Streamed",Bahcesehir Kol. vs Manresa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/rBsvwUCleTeBZMUDQYWTczABMjtVTURV/echo/stream/bahcesehir-kol-vs-manresa-basketball-453230/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Paarl Royals vs Durban's Super Giants" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YkQAE04AGMOpDcQfEIgj6Q5xGtMwCFJnxRcwZeEXmjHTWmGdjREIA.webp" group-title="Streamed",Paarl Royals vs Durban's Super Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/cmrCDjbwjZyvKlhHTzkOAEdQwzbTFFZu/charlie/stream/paarl-royals-vs-durbans-super-giants-1629473404/1/playlist.m3u8
+https://lb7.strmd.top/secure/zOYIuqAMJJHkgmfeQbDnAsTffAuKkmGL/charlie/stream/paarl-royals-vs-durbans-super-giants-1629473404/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gaziantep vs Kocaelispor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFYPkAGdiG7rcBiCGMlDOCAQpM+KLmDLwi80Xaa0wDsaIhA.webp" group-title="Streamed",Gaziantep vs Kocaelispor
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/EtDIkwMjrnxeTePxTdiuulOANdWoCgAa/echo/stream/gazisehir-gaziantep-vs-kocaelispor-football-1489331/1/playlist.m3u8
+https://lb9.strmd.top/secure/HxdylcIdfOZCBxfHcoPfqbSLIlNtFvcr/echo/stream/gazisehir-gaziantep-vs-kocaelispor-football-1489331/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Masters Snooker " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Masters Snooker 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ZFmoFGASvsWTdLrgVxDlFljJDKqBWVFo/echo/stream/masters-snooker-pick3/1/playlist.m3u8
+https://lb4.strmd.top/secure/KNlvlpawoENdQuASESrEYVzOoPVOXmtT/echo/stream/masters-snooker-pick3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 250 Adelaide / ATP 250 Auckland	  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",ATP 250 Adelaide / ATP 250 Auckland	  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/ObXXCyiBZGRDXqkJYCJKtPmdqHWlrKWX/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
+https://lb6.strmd.top/secure/wwrGLzHxdklCuPXlYITpzguaOOekJkle/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
