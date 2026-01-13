@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Asia AFC U-23 Asian Cup] IR Iran U23 vs Lebanon U23 (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Asia AFC U-23 Asian Cup] IR Iran U23 vs Lebanon U23 (SPORT9)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d14.epicquesthero.com:999/hls/do48.m3u8?md5=cSj7JRRrTshISqVe4Fmbng&expires=1768316464
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Asia AFC U-23 Asian Cup] Uzbekistan U23 vs Korea Republic U23 (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Asia AFC U-23 Asian Cup] Uzbekistan U23 vs Korea Republic U23 (SPORT9)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d13.epicquesthero.com:999/hls/do20.m3u8?md5=QbbDjFT9eI9aVXOAZ_9aXg&expires=1768316451
 #EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Asia Cup U23] Iran U23 vs Lebanon U23 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Asia Cup U23] Iran U23 vs Lebanon U23 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
