@@ -1,13 +1,20 @@
 import asyncio
 import aiohttp
 import sys
+import time
 from pathlib import Path
 from urllib.parse import urljoin
 
-TIMEOUT = aiohttp.ClientTimeout(total=8)
-MIN_SEGMENT_SIZE = 20000
+# ---------- CONFIG ----------
+
+TIMEOUT = aiohttp.ClientTimeout(total=10)
+
 MAX_CONCURRENCY = 100
 MAX_HLS_DEPTH = 3
+
+MIN_SPEED_KBPS = 400        # minimum throughput
+MAX_TTFB = 1.5              # seconds
+SAMPLE_BYTES = 256_000      # read max 256 KB
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0"
@@ -18,36 +25,48 @@ BLOCKED_DOMAINS = {
     "ssai2-ads.api.leiniao.com",
 }
 
+# ---------- SPEED TEST ----------
 
-# ---------- Network helpers ----------
-
-async def head_ok(session, url, headers):
+async def stream_is_fast(session, url, headers):
     try:
-        async with session.head(url, headers=headers, allow_redirects=True) as r:
-            return r.status < 400, r.headers.get("Content-Type", "").lower()
-    except aiohttp.ClientError:
-        return False, ""
+        start = time.perf_counter()
 
-
-async def stream_has_data(session, url, headers):
-    try:
         async with session.get(url, headers=headers) as r:
             if r.status >= 400:
                 return False
 
+            first_chunk_time = None
             total = 0
+
             async for chunk in r.content.iter_chunked(8192):
+                now = time.perf_counter()
+
+                if first_chunk_time is None:
+                    first_chunk_time = now
+
                 total += len(chunk)
-                if total >= MIN_SEGMENT_SIZE:
-                    return True
-            return False
-    except aiohttp.ClientError:
+
+                if total >= SAMPLE_BYTES:
+                    break
+
+            if not first_chunk_time:
+                return False
+
+            ttfb = first_chunk_time - start
+            duration = max(now - first_chunk_time, 0.001)
+            speed_kbps = (total / 1024) / duration
+
+            return (
+                ttfb <= MAX_TTFB and
+                speed_kbps >= MIN_SPEED_KBPS
+            )
+
+    except Exception:
         return False
 
+# ---------- STREAM VALIDATION ----------
 
-# ---------- Stream validation ----------
-
-async def is_stream_playable(session, url, headers, depth=0):
+async def is_stream_fast(session, url, headers, depth=0):
     if depth > MAX_HLS_DEPTH:
         return False
 
@@ -55,19 +74,17 @@ async def is_stream_playable(session, url, headers, depth=0):
         if d in url:
             return False
 
-    ok, content_type = await head_ok(session, url, headers)
-    if not ok:
-        return False
+    # Non-HLS streams → speed test directly
+    if ".m3u8" not in url:
+        return await stream_is_fast(session, url, headers)
 
-    if ".m3u8" not in url and "mpegurl" not in content_type:
-        return True
-
+    # HLS playlist
     try:
         async with session.get(url, headers=headers) as r:
             if r.status >= 400:
                 return False
             text = await r.text()
-    except aiohttp.ClientError:
+    except Exception:
         return False
 
     if not text.startswith("#EXTM3U"):
@@ -80,11 +97,11 @@ async def is_stream_playable(session, url, headers, depth=0):
         if line.startswith("#EXT-X-STREAM-INF") and i + 1 < len(lines):
             variant = lines[i + 1].strip()
             if not variant.startswith("#"):
-                return await is_stream_playable(
+                return await is_stream_fast(
                     session,
                     urljoin(url, variant),
                     headers,
-                    depth + 1,
+                    depth + 1
                 )
             return False
 
@@ -93,14 +110,10 @@ async def is_stream_playable(session, url, headers, depth=0):
     if not segments:
         return False
 
-    return await stream_has_data(
-        session,
-        urljoin(url, segments[0]),
-        headers,
-    )
+    segment_url = urljoin(url, segments[0])
+    return await stream_is_fast(session, segment_url, headers)
 
-
-# ---------- Worker ----------
+# ---------- WORKER ----------
 
 async def check_stream(semaphore, session, entry):
     extinf, vlcopts, url = entry
@@ -117,7 +130,7 @@ async def check_stream(semaphore, session, entry):
             headers["User-Agent"] = value
 
     async with semaphore:
-        playable = await is_stream_playable(session, url, headers)
+        fast = await is_stream_fast(session, url, headers)
 
     title = ""
     if extinf:
@@ -125,12 +138,11 @@ async def check_stream(semaphore, session, entry):
         if len(parts) == 2:
             title = parts[1].strip()
 
-    return playable, title, extinf, vlcopts, url
+    return fast, title, extinf, vlcopts, url
 
+# ---------- MAIN LOGIC ----------
 
-# ---------- Playlist processing ----------
-
-async def filter_m3u_playlist(input_path, output_path):
+async def filter_fast_streams(input_path, output_path):
     lines = Path(input_path).read_text(
         encoding="utf-8", errors="ignore"
     ).splitlines()
@@ -166,48 +178,47 @@ async def filter_m3u_playlist(input_path, output_path):
             for e in entries
         ]
 
-        playable_entries = []
+        fast_entries = []
 
         for coro in asyncio.as_completed(tasks):
-            playable, title, extinf, vlcopts, url = await coro
-            if playable:
-                print(f"✓ {title}")
+            fast, title, extinf, vlcopts, url = await coro
+            if fast:
+                print(f"✓ FAST: {title}")
                 if extinf:
                     parts = extinf[0].split(",", 1)
                     extinf[0] = (
-                        f'{parts[0]} group-title="Supersonic",{parts[1]}'
+                        f'{parts[0]} group-title="Fast",{parts[1]}'
                         if len(parts) == 2
-                        else f'{parts[0]} group-title="Supersonic"'
+                        else f'{parts[0]} group-title="Fast"'
                     )
-                playable_entries.append((title.lower(), extinf, vlcopts, url))
+                fast_entries.append((title.lower(), extinf, vlcopts, url))
             else:
-                print(f"✗ {url}")
+                print(f"✗ SLOW: {url}")
 
-    playable_entries.sort(key=lambda x: x[0])
+    fast_entries.sort(key=lambda x: x[0])
 
-    out = ["#EXTM3U"]
-    for _, extinf, vlcopts, url in playable_entries:
-        out.extend(extinf)
-        out.extend(vlcopts)
-        out.append(url)
+    output = ["#EXTM3U"]
+    for _, extinf, vlcopts, url in fast_entries:
+        output.extend(extinf)
+        output.extend(vlcopts)
+        output.append(url)
 
     Path(output_path).write_text(
-        "\n".join(out) + "\n",
-        encoding="utf-8",
+        "\n".join(output) + "\n",
+        encoding="utf-8"
     )
 
-    print(f"\nSaved to {output_path}")
-
+    print(f"\nSaved FAST playlist to: {output_path}")
 
 # ---------- CLI ----------
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python filter_m3u_playlist_async.py input.m3u output.m3u")
+        print("Usage: python fast_m3u_filter.py input.m3u output.m3u")
         sys.exit(1)
 
     if not Path(sys.argv[1]).exists():
         print("Input file does not exist.")
         sys.exit(1)
 
-    asyncio.run(filter_m3u_playlist(sys.argv[1], sys.argv[2]))
+    asyncio.run(filter_fast_streams(sys.argv[1], sys.argv[2]))
