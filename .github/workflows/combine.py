@@ -1,0 +1,65 @@
+name: 🚀 Update Merged Playlist 📺
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # ⏰ Every 30 minutes (UTC)
+  workflow_dispatch:        # 🔘 Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install required Python dependency
+        run: pip3 install requests
+
+      - name: 📦 Install aiohttp
+        run: pip3 install aiohttp
+
+      - name: 🎯 Run scraping script
+        run: python3 combine.py vidaa.m3u8 supersonic.m3u8 combine.m3u8
+
+      - name: 💾 Commit & Safely Push if Playlist Changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          git add combine.m3u8
+
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "🔁 Update playlist $(date -u +'%a %b %d %T UTC %Y')"
+
+          sleep $((RANDOM % 10 + 5))
+
+          if ! git push origin main; then
+            echo "⚠️ Push rejected. Trying safe fetch + rebase..."
+            git pull origin main --rebase || {
+              echo "❌ Rebase failed. Exiting to avoid corruption."
+              exit 1
+            }
+            git push origin main || {
+              echo "❌ Second push failed. Remote changed again."
+              exit 1
+            }
+          fi
+
+     
