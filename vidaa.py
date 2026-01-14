@@ -5,7 +5,7 @@ import time
 from pathlib import Path
 from urllib.parse import urljoin
 
-# ---------- CONFIG ----------
+# ---------------- CONFIG ----------------
 
 TIMEOUT = aiohttp.ClientTimeout(total=12)
 
@@ -15,9 +15,9 @@ MAX_HLS_DEPTH = 3
 MIN_SPEED_KBPS = 150
 MAX_TTFB = 4.0
 
+SEGMENTS_TO_TEST = 2
 SAMPLE_BYTES = 256_000
 WARMUP_BYTES = 32_000
-SEGMENTS_TO_TEST = 2
 RETRIES = 2
 
 DEFAULT_HEADERS = {
@@ -29,60 +29,56 @@ BLOCKED_DOMAINS = {
     "ssai2-ads.api.leiniao.com",
 }
 
-# ---------- AUTO LABELING ----------
+# ---------------- QUALITY LABELING ----------------
 
-def classify_speed(speed_kbps):
-    if speed_kbps >= 1500:
+def classify_speed(speed):
+    if speed >= 1500:
         return "4K"
-    if speed_kbps >= 600:
+    if speed >= 600:
         return "FHD"
-    if speed_kbps >= 300:
+    if speed >= 300:
         return "HD"
-    if speed_kbps >= 150:
+    if speed >= 150:
         return "SD"
     return None
 
-# ---------- SPEED TEST ----------
+# ---------------- SPEED MEASUREMENT ----------------
 
 async def measure_segment_speed(session, url, headers):
     try:
         start = time.perf_counter()
-
         async with session.get(url, headers=headers) as r:
             if r.status >= 400:
                 return None
 
-            first_byte_time = None
-            speed_start_time = None
+            first_byte = None
+            speed_start = None
             total = 0
             measured = 0
 
             async for chunk in r.content.iter_chunked(8192):
                 now = time.perf_counter()
 
-                if first_byte_time is None:
-                    first_byte_time = now
+                if first_byte is None:
+                    first_byte = now
 
                 total += len(chunk)
 
                 if total < WARMUP_BYTES:
                     continue
 
-                if speed_start_time is None:
-                    speed_start_time = now
+                if speed_start is None:
+                    speed_start = now
 
                 measured += len(chunk)
 
                 if measured >= SAMPLE_BYTES:
                     break
 
-            if not speed_start_time:
+            if not speed_start or (first_byte - start) > MAX_TTFB:
                 return None
 
-            if first_byte_time - start > MAX_TTFB:
-                return None
-
-            duration = max(now - speed_start_time, 0.001)
+            duration = max(now - speed_start, 0.001)
             return (measured / 1024) / duration
 
     except Exception:
@@ -90,7 +86,6 @@ async def measure_segment_speed(session, url, headers):
 
 async def average_segment_speed(session, urls, headers):
     speeds = []
-
     for url in urls:
         for _ in range(RETRIES):
             s = await measure_segment_speed(session, url, headers)
@@ -104,17 +99,15 @@ async def average_segment_speed(session, urls, headers):
 
     return sum(speeds) / len(speeds)
 
-# ---------- STREAM CHECK ----------
+# ---------------- STREAM CHECK ----------------
 
 async def check_stream_speed(session, url, headers, depth=0):
     if depth > MAX_HLS_DEPTH:
         return None
 
-    for d in BLOCKED_DOMAINS:
-        if d in url:
-            return None
+    if any(d in url for d in BLOCKED_DOMAINS):
+        return None
 
-    # Non-HLS
     if ".m3u8" not in url:
         return await average_segment_speed(session, [url], headers)
 
@@ -131,27 +124,23 @@ async def check_stream_speed(session, url, headers, depth=0):
 
     lines = text.splitlines()
 
-    # Master playlist
     for i, line in enumerate(lines):
         if line.startswith("#EXT-X-STREAM-INF") and i + 1 < len(lines):
-            variant = lines[i + 1].strip()
-            if not variant.startswith("#"):
-                return await check_stream_speed(
-                    session,
-                    urljoin(url, variant),
-                    headers,
-                    depth + 1
-                )
-            return None
+            return await check_stream_speed(
+                session,
+                urljoin(url, lines[i + 1].strip()),
+                headers,
+                depth + 1
+            )
 
     segments = [l for l in lines if l and not l.startswith("#")]
     if len(segments) < SEGMENTS_TO_TEST:
         return None
 
-    segment_urls = [urljoin(url, s) for s in segments[:SEGMENTS_TO_TEST]]
-    return await average_segment_speed(session, segment_urls, headers)
+    urls = [urljoin(url, s) for s in segments[:SEGMENTS_TO_TEST]]
+    return await average_segment_speed(session, urls, headers)
 
-# ---------- WORKER ----------
+# ---------------- WORKER ----------------
 
 async def worker(semaphore, session, entry):
     extinf, vlcopts, url = entry
@@ -159,12 +148,11 @@ async def worker(semaphore, session, entry):
 
     for opt in vlcopts:
         k, _, v = opt[len("#EXTVLCOPT:"):].partition("=")
-        k = k.lower()
-        if k == "http-referrer":
+        if k.lower() == "http-referrer":
             headers["Referer"] = v
-        elif k == "http-origin":
+        elif k.lower() == "http-origin":
             headers["Origin"] = v
-        elif k == "http-user-agent":
+        elif k.lower() == "http-user-agent":
             headers["User-Agent"] = v
 
     async with semaphore:
@@ -178,13 +166,12 @@ async def worker(semaphore, session, entry):
 
     return speed, title, extinf, vlcopts, url
 
-# ---------- MAIN ----------
+# ---------------- MAIN ----------------
 
-async def filter_and_label(input_path, output_path):
+async def filter_playlist(input_path, output_path):
     lines = Path(input_path).read_text(encoding="utf-8", errors="ignore").splitlines()
 
-    entries = []
-    extinf, vlcopts = [], []
+    entries, extinf, vlcopts = [], [], []
 
     for line in lines:
         if line.startswith("#EXTINF"):
@@ -196,10 +183,9 @@ async def filter_and_label(input_path, output_path):
             extinf.clear()
             vlcopts.clear()
 
+    best = {}
     semaphore = asyncio.Semaphore(MAX_CONCURRENCY)
     connector = aiohttp.TCPConnector(limit_per_host=15, ssl=False)
-
-    best_by_title = {}
 
     async with aiohttp.ClientSession(
         timeout=TIMEOUT,
@@ -211,31 +197,27 @@ async def filter_and_label(input_path, output_path):
 
         for coro in asyncio.as_completed(tasks):
             speed, title, extinf, vlcopts, url = await coro
-
             if not title or speed is None or speed < MIN_SPEED_KBPS:
                 continue
 
-            key = title.lower().strip()
             label = classify_speed(speed)
-
             if not label:
                 continue
 
-            # Keep only the fastest stream per title
-            if key in best_by_title and best_by_title[key]["speed"] >= speed:
+            key = f"{title.lower()}::{label}"
+
+            if key in best and best[key]["speed"] >= speed:
                 continue
 
-            if extinf:
-                parts = extinf[0].split(",", 1)
-                name = parts[1] if len(parts) == 2 else title
-                extinf[0] = (
-                    f'{parts[0]} group-title="{label}",'
-                    f'[{label}] {name} ({int(speed)} KB/s)'
-                )
+            parts = extinf[0].split(",", 1)
+            extinf[0] = (
+                f'{parts[0]} group-title="{label}",'
+                f'[{label}] {parts[1]}'
+            )
 
-            best_by_title[key] = {
-                "speed": speed,
+            best[key] = {
                 "title": title,
+                "speed": speed,
                 "extinf": extinf,
                 "vlcopts": vlcopts,
                 "url": url,
@@ -243,30 +225,20 @@ async def filter_and_label(input_path, output_path):
 
             print(f"✓ {label}: {title} ({int(speed)} KB/s)")
 
-    # Sort alphabetically
-    final_entries = sorted(
-        best_by_title.values(),
-        key=lambda x: x["title"].lower()
-    )
-
     out = ["#EXTM3U"]
-    for e in final_entries:
+    for e in sorted(best.values(), key=lambda x: (x["title"].lower(), x["speed"])):
         out.extend(e["extinf"])
         out.extend(e["vlcopts"])
         out.append(e["url"])
 
     Path(output_path).write_text("\n".join(out) + "\n", encoding="utf-8")
-    print(f"\nSaved deduplicated FAST playlist to: {output_path}")
+    print(f"\nSaved playlist to: {output_path}")
 
-# ---------- CLI ----------
+# ---------------- CLI ----------------
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python auto_label_filter.py input.m3u output.m3u")
+        print("Usage: python filter.py input.m3u output.m3u")
         sys.exit(1)
 
-    if not Path(sys.argv[1]).exists():
-        print("Input file does not exist.")
-        sys.exit(1)
-
-    asyncio.run(filter_and_label(sys.argv[1], sys.argv[2]))
+    asyncio.run(filter_playlist(sys.argv[1], sys.argv[2]))
