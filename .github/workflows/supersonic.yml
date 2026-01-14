@@ -33,7 +33,7 @@ jobs:
         run: pip3 install aiohttp
 
       - name: 🎯 Run scraping script
-        run: curl -L -A "Mozilla/5.0" -o playlist.m3u8 "https://mc-jc2eowe80j.bunny.run/playlist.m3u8"
+        run: curl -L -A "Mozilla/5.0" -o playlist.m3u8 "http://s.rocketdns.info:8080/get.php?username=Z3nXfkOnf0&password=Madt8rUvmN&type=m3u_plus"
              
              cat playlist.m3u8
 
