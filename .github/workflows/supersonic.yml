@@ -26,6 +26,10 @@ jobs:
       - name: 📦 Install required Python dependency
         run: pip3 install requests
 
+      - name: 📦 Install required Python dependency
+        run: sudo apt update
+             sudo apt install ffmpeg -y
+
       - name: 📦 Install aiohttp
         run: pip3 install aiohttp
 
