@@ -30,7 +30,8 @@ jobs:
         run: pip3 install aiohttp
 
       - name: 🎯 Run scraping script
-        run: python3 combine.py vidaa.m3u8 supersonic.m3u8 combine.m3u8
+        run: curl -L -o tcl.m3u8 https://www.apsattv.com/tclplus.m3u
+             python3 combine.py vidaa.m3u8 tcl.m3u8.m3u8 combine.m3u8
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
