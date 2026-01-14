@@ -1,51 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Ulm vs Niners Chemnitz" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIKPDB9qSENxBqYIFLhB9TiE8sIxgTPii5gym+vNGOmtMM7GiIQA.webp" group-title="Streamed",Ulm vs Niners Chemnitz
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/ALwLhbqJODKfUbIDBGyWQqsARiKydcgc/charlie/stream/ratiopharm-ulm-vs-niners-chemnitz-1629473465/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Aris BC vs Hapoel Jerusalem BC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgAJnXK8kIbiD651IFLsMmYIY4RjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Aris BC vs Hapoel Jerusalem BC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/CxVBpbptAMkgMioKtNwnGNsFazNrbLKL/echo/stream/aris-vs-hapoel-jerusalem-basketball-453231/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Buducnost VOLI Podgorica vs Lietkabelis Panevezys" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAcQESyGyJsAE2D2cTqcwswQhG2McXvFiCWwFZBQZIW2BaqBDDAeHp0YCwKEJysWPFiYMkhGRBAA.webp" group-title="Streamed",EuroCup: Buducnost VOLI Podgorica vs Lietkabelis Panevezys
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/AlixHurmmlqZjYutooWquwDeYJAMwGSw/charlie/stream/buducnost-voli-podgorica-vs-7bet-lietkabelis-panevezys-1629473466/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Aris Thessaloniki Betsson vs Hapoel Midtown Jerusalem" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",EuroCup: Aris Thessaloniki Betsson vs Hapoel Midtown Jerusalem
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/DSpDtrLWzUiNTThHPaWUFtkmitMHbPIb/charlie/stream/aris-thessaloniki-betsson-vs-hapoel-midtown-jerusalem-1629473467/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Den Bosch vs PSV Eindhoven" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJuSQg17ENxB9ceoygMgIRkAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",FC Den Bosch vs PSV Eindhoven
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/vOZKleDGhiHXUZplHllKOfDpTTUlhrex/echo/stream/den-bosch-vs-psv-eindhoven-football-1495635/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolfsburg vs St Pauli" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBluYMnBA8Q3EABMQMECZyI+R3SHgEKTPii4by9eaMdNaYDWNEQgA.webp" group-title="Streamed",Wolfsburg vs St Pauli
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/LgaxjEnYpicpjeeueSYhxIamWMrknova/admin/stream/bl_wob/1/playlist.m3u8
+https://lb6.strmd.top/secure/btyCKhjofhLgmRkQwYarEvrFjTVhiRPQ/admin/stream/bl_wob/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Napoli vs Parma" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMCnFhwibmtwg+ICCBj6zqkPAIUmfTWzBl4ReaM1NaYJ2NEQgA.webp" group-title="Streamed",Napoli vs Parma
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/CSuklWnAbrWVPyMWznIDYLWWAwkLssWO/admin/stream/sa_nap/1/playlist.m3u8
+https://lb3.strmd.top/secure/EwKTHMDyfXhyrovpqtuvcsvDrRovfppb/admin/stream/sa_nap/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pro League: Al-Ahli Jeddah vs Al Taawon" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHENkTz+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="Streamed",Pro League: Al-Ahli Jeddah vs Al Taawon
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ScBxWexbfqefhegOZQQhYnRQPDFozyJu/echo/stream/al-ahli-jeddah-vs-al-taawon-football-1436041/1/playlist.m3u8
+https://lb5.strmd.top/secure/FmWxRDJGhbZETgUFwxybJBZVteifCKYV/echo/stream/al-ahli-jeddah-vs-al-taawon-football-1436041/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Halide Edip Advar vs Fenerbahe" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IIsvrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Streamed",Halide Edip Advar vs Fenerbahe
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/NOwUiCndpqEgokSsLTPSUXtOAJCTcMjI/echo/stream/halide-edip-adivar-vs-fenerbahce-football-1489326/1/playlist.m3u8
+https://lb5.strmd.top/secure/hxujHygWMpdCLgEXzvCtfmGQulwTxYWZ/echo/stream/halide-edip-adivar-vs-fenerbahce-football-1489326/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Senegal vs Egypt" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEhBKMEkohuIPiAi4dIGEZyIIBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title="Streamed",Senegal vs Egypt
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/mHdwsbhNgWKefsViYTylWlrtpWaCbLHP/admin/stream/afcon/1/playlist.m3u8
+https://lb7.strmd.top/secure/MruLenrLOFMEDKgbxbkPQVRyaVJnMTze/admin/stream/afcon/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Mecum Auctions: Kissimmee 2026 (Day 3)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="Streamed",Mecum Auctions: Kissimmee 2026 (Day 3)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/WduQfiwXkxhYFmTLfXnKcleJINxRpoJx/charlie/stream/kissimmee-2026-day-3-1629473463/1/playlist.m3u8
+https://lb4.strmd.top/secure/GvakzIJHHionmhgXAxIRzFbHLQvDJhsj/charlie/stream/kissimmee-2026-day-3-1629473463/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Olympiakos Piraeus vs PAOK" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IIiBT1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Streamed",Olympiakos Piraeus vs PAOK
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/iHGJazWRbLVSJUFlAQxfGrbJGZZOUZPW/echo/stream/olympiakos-piraeus-vs-paok-football-1503188/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Trk Telekom BK vs London Lions" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gAJmLXZgakNxCqSIIxGNn9OCAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Trk Telekom BK vs London Lions
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/CzSrDtBBEnfuvnuFNlSuzqXOStgZOCwu/charlie/stream/turk-telekom-ankara-vs-london-lions-1629473461/1/playlist.m3u8
+https://lb5.strmd.top/secure/PTnkGUHMjtudJzrBHElTbrWvSGHQnYAM/echo/stream/olympiakos-piraeus-vs-paok-football-1503188/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sunrisers Eastern Cape vs Joburg Super Kings" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgAJsCRgUdbCG4g+IRBH0hziIyWMEKTPjrZgy8IvNE6mtMM7GiIQA.webp" group-title="Streamed",Sunrisers Eastern Cape vs Joburg Super Kings
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/lfckcRIjqvxzLyrDJDCLVvKVRwLGhoPf/charlie/stream/sunrisers-eastern-cape-vs-joburg-super-kings-1629473460/1/playlist.m3u8
+https://lb9.strmd.top/secure/PKQGweHbveKLpIeUjyyJYFVAPGfiYioY/charlie/stream/sunrisers-eastern-cape-vs-joburg-super-kings-1629473460/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Masters Snooker " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Masters Snooker 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/mEXwgESPYqpisuebKLNBgbsfwsuqwKrt/echo/stream/masters-snooker-pick3/1/playlist.m3u8
+https://lb7.strmd.top/secure/YSTCHvqvgfZeHsqUiWVBgnBATNJcqMIW/echo/stream/masters-snooker-pick3/1/playlist.m3u8
