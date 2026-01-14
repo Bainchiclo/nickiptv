@@ -75,4 +75,4 @@ def combine_playlists(file1, file2, output_file):
     print(f"Combined playlist saved to {output_file} with {len(sorted_entries)} unique entries.")
 
 # Example usage:
-combine_playlists("playlist1.m3u", "playlist2.m3u", "combined_playlist.m3u")
+combine_playlists("vidaa.m3u8", "supersonic.m3u8", "combine.m3u8")
