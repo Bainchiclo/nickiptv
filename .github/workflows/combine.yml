@@ -31,7 +31,7 @@ jobs:
 
       - name: 🎯 Run scraping script
         run: curl -L -o tcl.m3u8 https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/tcl.m3u8
-             python3 combine.py vidaa.m3u8 tcl.m3u8.m3u8 combine.m3u8
+             python3 combine.py vidaa.m3u8 tcl.m3u8 combine.m3u8
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
