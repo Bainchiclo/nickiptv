@@ -1,9 +1,7 @@
 import asyncio
 import aiohttp
 import sys
-import time
 from pathlib import Path
-from urllib.parse import urljoin
 
 # ---------- CONFIG ----------
 TIMEOUT = aiohttp.ClientTimeout(total=12)
@@ -20,7 +18,7 @@ BLOCKED_DOMAINS = {
 # ---------- STREAM VALIDATION (IGNORE SPEED) ----------
 async def is_stream_fast(session, url, headers, depth=0):
     """
-    Accept all streams as 'fast', unless they are blocked or recursion is too deep.
+    Accept all streams as 'fast', unless blocked or depth exceeded.
     """
     if depth > MAX_HLS_DEPTH:
         return False
@@ -29,12 +27,12 @@ async def is_stream_fast(session, url, headers, depth=0):
         if d in url:
             return False
 
-    # Non-HLS or HLS, always accept
+    # Always accept stream
     return True
 
 # ---------- WORKER ----------
 async def check_stream(semaphore, session, entry):
-    extinf, vlcopts, url = entry
+    extinf, vlcopts, kodiprops, url = entry
     headers = {}
 
     for opt in vlcopts:
@@ -56,24 +54,27 @@ async def check_stream(semaphore, session, entry):
         if len(parts) == 2:
             title = parts[1].strip()
 
-    return fast, title, extinf, vlcopts, url
+    return fast, title, extinf, vlcopts, kodiprops, url
 
 # ---------- MAIN ----------
 async def filter_all_streams(input_path, output_path):
     lines = Path(input_path).read_text(encoding="utf-8", errors="ignore").splitlines()
 
     entries = []
-    extinf, vlcopts = [], []
+    extinf, vlcopts, kodiprops = [], [], []
 
     for line in lines:
         if line.startswith("#EXTINF"):
             extinf = [line]
         elif line.startswith("#EXTVLCOPT"):
             vlcopts.append(line)
+        elif line.startswith("#KODIPROP"):
+            kodiprops.append(line)
         elif line.startswith(("http://", "https://")):
-            entries.append((extinf.copy(), vlcopts.copy(), line.strip()))
+            entries.append((extinf.copy(), vlcopts.copy(), kodiprops.copy(), line.strip()))
             extinf.clear()
             vlcopts.clear()
+            kodiprops.clear()
 
     connector = aiohttp.TCPConnector(limit_per_host=15, ssl=False)
     semaphore = asyncio.Semaphore(MAX_CONCURRENCY)
@@ -88,26 +89,20 @@ async def filter_all_streams(input_path, output_path):
         all_entries = []
 
         for coro in asyncio.as_completed(tasks):
-            fast, title, extinf, vlcopts, url = await coro
+            fast, title, extinf, vlcopts, kodiprops, url = await coro
             if fast:
                 print(f"✓ ACCEPTED: {title or url}")
-                if extinf:
-                    parts = extinf[0].split(",", 1)
-                    extinf[0] = (
-                        f'{parts[0]} group-title="Fast",{parts[1]}'
-                        if len(parts) == 2
-                        else f'{parts[0]} group-title="Fast"'
-                    )
-                all_entries.append((title.lower(), extinf, vlcopts, url))
+                all_entries.append((title.lower(), extinf, vlcopts, kodiprops, url))
             else:
                 print(f"✗ BLOCKED DOMAIN: {url}")
 
     all_entries.sort(key=lambda x: x[0])
 
     out = ["#EXTM3U"]
-    for _, extinf, vlcopts, url in all_entries:
+    for _, extinf, vlcopts, kodiprops, url in all_entries:
         out.extend(extinf)
         out.extend(vlcopts)
+        out.extend(kodiprops)
         out.append(url)
 
     Path(output_path).write_text("\n".join(out) + "\n", encoding="utf-8")
