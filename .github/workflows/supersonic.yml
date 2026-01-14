@@ -33,7 +33,7 @@ jobs:
         run: pip3 install aiohttp
 
       - name: 🎯 Run scraping script
-        run: ffmpeg -i http://supersonictv.live:8080/get.php?username=611366&password=682256&type=m3u -c copy output.ts
+        run: ffmpeg -i "http://supersonictv.live:8080/get.php?username=611366&password=682256&type=m3u" -c copy output.ts
 
              python3 supersonic.py output.ts supersonic.m3u8
 
