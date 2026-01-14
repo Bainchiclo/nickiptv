@@ -33,7 +33,7 @@ jobs:
         run: pip3 install aiohttp
 
       - name: 🎯 Run scraping script
-        run: curl -L -A "Mozilla/5.0" -o playlist.m3u8 "http://supersonictv.live:8080/get.php?username=611366&password=682256&type=m3u"
+        run: curl -L -A "Mozilla/5.0" -o playlist.m3u8 "https://mc-jc2eowe80j.bunny.run/playlist.m3u8"
              
              cat playlist.m3u8
 
