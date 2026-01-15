@@ -1,36 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Adelaide Giants vs Perth Heat" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6wwSbG0ghuIACYhEffSFMlDOkHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Streamed",Adelaide Giants vs Perth Heat
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/XeuwBLZEYFJqJUGsgsYhKZWLXmODpYFc/charlie/stream/adelaide-giants-vs-perth-heat-1629473515/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Adelaide International: Centre Court: Day 4" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Adelaide International: Centre Court: Day 4
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/GkxByYlbdEcFxxZqHeIKbUapBljExVTG/charlie/stream/centre-court-day-4-1629473495/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Melbourne Renegades vs Perth Scorchers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxREQwMLBAkQ3bSAggAJsZBm9fEIkYUmfFFzBl4ReaIdNam0VLpA.webp" group-title="Streamed",Melbourne Renegades vs Perth Scorchers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/CLHxVxtJbyfHMEyVZoDrwVqYsvvTUUsP/echo/stream/bbl-melbourne-renegades-vs-perth-scorchers-game-126262/1/playlist.m3u8
+https://lb7.strmd.top/secure/qeiYKmQWaAOQvSXQriDQgZcjKtnkfabf/charlie/stream/melbourne-renegades-vs-perth-scorchers-1629473514/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Sydney Blue Sox vs Brisbane Bandits" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgAJiBDsQMEBBDd1IRHyObVOFCGWEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="Streamed",Sydney Blue Sox vs Brisbane Bandits
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/cUOUsBUaJDztTuTHNjeGEZhPJEuOImoT/charlie/stream/sydney-blue-sox-vs-brisbane-bandits-1629473512/1/playlist.m3u8
+https://lb9.strmd.top/secure/HcgkmSoSHJSjYIVeJAJclFJRsZXTaLld/charlie/stream/sydney-blue-sox-vs-brisbane-bandits-1629473512/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Australian Open Opening Week: Alcaraz vs. de Minaur (Exhibition)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Australian Open Opening Week: Alcaraz vs. de Minaur (Exhibition)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/XTPmYdatHdwBGbGoezjUKhgdwiIaCGFN/charlie/stream/australian-open-opening-week-alcaraz-vs-de-minaur-exhibition-1629473513/1/playlist.m3u8
+https://lb2.strmd.top/secure/vOLpYmhiOnflfERkAwqorNVMkaXkwddK/charlie/stream/australian-open-opening-week-alcaraz-vs-de-minaur-exhibition-1629473513/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Adelaide International: Show Court 1: Day 4" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Adelaide International: Show Court 1: Day 4
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/cxAdHMmgMijXQpkNKMSdyuuwYBNFYtbX/charlie/stream/show-court-1-day-4-1629473494/1/playlist.m3u8
+https://lb8.strmd.top/secure/VINpQnKTVSYAaItXhHogFzbSPQPnjBno/charlie/stream/show-court-1-day-4-1629473494/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Zimbabwe U19 vs Scotland U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeRmCBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Streamed",ICC Under-19 Cricket World Cup: Zimbabwe U19 vs Scotland U19
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/aEYFlAKiANFjSlROaOYDHeCcQJxHkhvN/charlie/stream/zimbabwe-vs-scotland-1629473510/1/playlist.m3u8
+https://lb7.strmd.top/secure/NDDuQbLvYfDPgrEcqpOEzIXqeExmrNeA/charlie/stream/zimbabwe-vs-scotland-1629473510/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Dubai Invitational | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Dubai Invitational | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/IGyPnjyHnoRdiPediBqrFvKlPJmtsooI/echo/stream/dubai-invitational-dp-world-tour-pga-526234/1/playlist.m3u8
+https://lb10.strmd.top/secure/ZMXhPdHMMBMNNyAVPKONdmuGnwAVMupt/echo/stream/dubai-invitational-dp-world-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Chattogram Royals vs Noakhali Express" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphwgQfECXVqQ3bQBNtiLThwaIBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="Streamed",Chattogram Royals vs Noakhali Express
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/jMzrtOqLjXSeHCiaYoUkPHnCSrvnwVDR/charlie/stream/chattogram-royals-vs-noakhali-express-1629473509/1/playlist.m3u8
+https://lb9.strmd.top/secure/RdZDPWYQMVGJIWEZQsHlVzevfNqztqSL/charlie/stream/chattogram-royals-vs-noakhali-express-1629473509/1/playlist.m3u8
