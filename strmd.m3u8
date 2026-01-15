@@ -1,56 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Oklahoma City Thunder" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Houston Rockets vs Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/UERlhgmlsMjpRdKIiFAxceLVJheQmjQC/delta/stream/live_nba_rockets-thunder-live-streaming-428078304/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Miami Heat vs Boston Celtics" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Miami Heat vs Boston Celtics
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/tZDTgjkOWHavOyuDcljdVNYMirZudFqU/delta/stream/live_nba_heat-celtics-live-streaming-428078736/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Liberty vs New Mexico State" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3DyQ6hOpDcQJLRBAATXSER8QB5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Liberty vs New Mexico State
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/OHhhQzTzWKELUJgWjGCJhKBlSnFRhNxp/delta/stream/live_ncaa_liberty-new-mexico-st-live-streaming-461398464/1/playlist.m3u8
+https://lb8.strmd.top/secure/EDibsXIRZuOvOELdzsbHEZSQuDmHEQWW/delta/stream/live_ncaa_liberty-new-mexico-st-live-streaming-461398464/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Detroit Pistons vs Phoenix Suns" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Detroit Pistons vs Phoenix Suns
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/gTBWyrGLDojdsLuEBHxldGBiFhKUfzkD/delta/stream/live_nba_pistons-suns-live-streaming-428077872/1/playlist.m3u8
+https://lb2.strmd.top/secure/DwVPcMiJucnuzyWMdioLjbRAIcXJaqse/delta/stream/live_nba_pistons-suns-live-streaming-428077872/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cleveland State Vikings vs Wisconsin Green Bay Phoenix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Cleveland State Vikings vs Wisconsin Green Bay Phoenix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/PAoEVwvcRGmrpdgyYBMOsUNfnjGbSSUi/delta/stream/live_ncaa_cleveland-uwgb-live-streaming-428107680/1/playlist.m3u8
+https://lb5.strmd.top/secure/SAPcPRlSliYrhYKayvqfWgGmUnmttezQ/delta/stream/live_ncaa_cleveland-uwgb-live-streaming-428107680/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Wisconsin-Milwaukee Panthers vs Oakland Golden Grizzlies" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Wisconsin-Milwaukee Panthers vs Oakland Golden Grizzlies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/UHuyvHrwlQlpxfeEzGsmVtBpGQWgpCfy/delta/stream/live_ncaa_wisconsin-milwaukee-oakland-live-streaming-428114592/1/playlist.m3u8
+https://lb7.strmd.top/secure/RFykyvpBjOozcxaqGTIvxltZKVDpPXiA/delta/stream/live_ncaa_wisconsin-milwaukee-oakland-live-streaming-428114592/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres vs Montral Canadiens" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Buffalo Sabres vs Montral Canadiens
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/hRTsBpSPhmWVrDifYauLcebFmHvdDRlZ/delta/stream/live_nhl_sabres-canadiens-live-streaming-488498256/1/playlist.m3u8
+https://lb4.strmd.top/secure/FouofdfzHSSXopStotXokEbmaNAmDOaG/delta/stream/live_nhl_sabres-canadiens-live-streaming-488498256/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Columbus Blue Jackets vs Vancouver Canucks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Columbus Blue Jackets vs Vancouver Canucks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/GhnsYjcJxWSFHMUPaitFUSuHOwHrgtDb/delta/stream/live_nhl_blue-jackets-canucks-live-streaming-488498688/1/playlist.m3u8
+https://lb10.strmd.top/secure/pcUCHOiPlJgBawVEiUSNXjQnYsSZOyKm/delta/stream/live_nhl_blue-jackets-canucks-live-streaming-488498688/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins vs Philadelphia Flyers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Pittsburgh Penguins vs Philadelphia Flyers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/qEfMYLqKutHMVXxktRZsGWcwQBzpiKZb/delta/stream/live_nhl_penguins-flyers-live-streaming-488499120/1/playlist.m3u8
+https://lb8.strmd.top/secure/HerVpyQEQNJGjbgrCGPjHaQxkufPSKEz/delta/stream/live_nhl_penguins-flyers-live-streaming-488499120/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals vs San Jose Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Washington Capitals vs San Jose Sharks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/gRLhbTLITNprPgmAHFFmOXgRTIOFrhMD/delta/stream/live_nhl_capitals-sharks-live-streaming-488499552/1/playlist.m3u8
+https://lb1.strmd.top/secure/AvKgITfXsuAjaeQGtQbIZXfxWThicHZg/delta/stream/live_nhl_capitals-sharks-live-streaming-488499552/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bragantino vs Corinthians" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYNWTVxE3EBBB8QiEkZBmYe3AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Bragantino vs Corinthians
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/DrWfqtffgNXBCnpkAscMGvnTUmITgZCN/echo/stream/rb-bragantino-vs-corinthians-football-1500524/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Albany Great Danes vs Binghamton Bearcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Albany Great Danes vs Binghamton Bearcats
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/SpYcdFsAdHaeFogshjcNixJvfkrPavpP/delta/stream/live_ncaa_albany-ny-binghamton-live-streaming-428105520/1/playlist.m3u8
+https://lb10.strmd.top/secure/qNUkvNcbVyqXQBroxYpBlEdtYULxrRRi/delta/stream/live_ncaa_albany-ny-binghamton-live-streaming-428105520/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="IUPUI Jaguars vs Robert Morris Colonials" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",IUPUI Jaguars vs Robert Morris Colonials
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/bVNodQIBVeJvEwKBSWiPUeYsRXIaFVtM/delta/stream/live_ncaa_iupui-colonials-live-streaming-428108112/1/playlist.m3u8
+https://lb8.strmd.top/secure/bGyeSuXTYZdkhrDbdroOBzlpkRspUlsl/delta/stream/live_ncaa_iupui-colonials-live-streaming-428108112/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Virginia Military Keydets vs Mercer Bears" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Virginia Military Keydets vs Mercer Bears
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/jvFBmHDSDfZethdjZfibciuqqiuIlkrx/delta/stream/live_ncaa_virginia-military-mercer-live-streaming-428113728/1/playlist.m3u8
+https://lb3.strmd.top/secure/dDdNozuERZHeVTeUHeKrYzEXHMufPSQl/delta/stream/live_ncaa_virginia-military-mercer-live-streaming-428113728/1/playlist.m3u8
