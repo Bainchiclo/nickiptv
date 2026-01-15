@@ -1,41 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heerenveen vs RKC Waalwijk" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdVYACYgSIeojVadKEDBDGtIXZYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Heerenveen vs RKC Waalwijk
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/qLCWBivnylDyCnSVghgIhinysVUpDSxs/echo/stream/heerenveen-vs-waalwijk-football-1495638/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Anadolu Efes SK vs Baskonia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggoIECxAATENxB8dBzUd2qUIGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Anadolu Efes SK vs Baskonia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/PmORjpeMQUIngsQDXnMdZZBgZPVSvIZL/echo/stream/anadolu-efes-vs-baskonia-basketball-454489/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hellas Verona vs Bologna" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxheKENzAkQibiAAmIHSZAaciIwYIUmfFF23l680Q6a0w2saIhA.webp" group-title="Streamed",Hellas Verona vs Bologna
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/cRLVeCotuGXmqYoHHGViJWvVsjRhGUku/admin/stream/sa_ver/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Beikta vs Ankara Keirengc" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIg4tXimAATENxC6+IFCAghVus-uWEYwJny1swZeEXmitTWmBdjREEA.webp" group-title="Streamed",Beikta vs Ankara Keirengc
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/OXlOaegMFtrCLsKMkPaYfHemrjjKkSSo/echo/stream/besiktas-vs-keciorengucu-football-1489325/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: Anadolu Efes Istanbul vs Baskonia Vitoria-Gasteiz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Euroleague: Anadolu Efes Istanbul vs Baskonia Vitoria-Gasteiz
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/fwVaWjiHQDgxDZLIulrJyehiJKMiuEmd/charlie/stream/anadolu-efes-istanbul-vs-baskonia-vitoria-gasteiz-1629473521/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Mecum Auctions: Kissimmee 2026 (Day 4)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="Streamed",Mecum Auctions: Kissimmee 2026 (Day 4)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/vnnowQMtnjXElZpfvfllNFaOZPDqWuKB/charlie/stream/kissimmee-2026-day-4-1629473520/1/playlist.m3u8
+https://lb7.strmd.top/secure/lTXCDOmolOctMWjntmwNnsGMTTwEvjcL/charlie/stream/kissimmee-2026-day-4-1629473520/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sony Open in Hawaii | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Sony Open in Hawaii | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/oMPNuYwCTzFrJhMKDnmxQubzFMDKvPBm/echo/stream/sony-open-in-hawaii-pga-tour-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hellas Verona vs Bologna" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Streamed",Hellas Verona vs Bologna
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/KLcIEPcCwehLlUMghgCeVZZTuBNfEjqj/delta/stream/live_serie-a_verona-bologna-live-streaming-440908704/1/playlist.m3u8
+https://lb2.strmd.top/secure/VKzqPSACuOHelOsrjApJxlRAHaBVPzDB/echo/stream/sony-open-in-hawaii-pga-tour-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dubai Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgBoGAvwhuIPiEQoQAExAkQR3buMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Dubai Basketball vs Virtus Pallacanestro Bologna
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/LfekfpeyhxiOhpXBySstzOknqbMCSymi/charlie/stream/dubai-basketball-vs-virtus-bologna-1629473519/1/playlist.m3u8
+https://lb5.strmd.top/secure/TmOaHhERAdPxQoSyFsTfLKflHSCKQOEI/charlie/stream/dubai-basketball-vs-virtus-bologna-1629473519/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Bahrain Darts Masters: Day 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Streamed",Bahrain Darts Masters: Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/cZxmmYNBSWIvzrOYDceHhdRbjIytpuys/charlie/stream/day-1-1629474377/1/playlist.m3u8
+https://lb4.strmd.top/secure/BLwmoDzCGfpplYASRVmbXRlxmekfDsLg/charlie/stream/day-1-1629474377/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pretoria Capitals vs Paarl Royals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQvbmCTAADLvUg+IRGu4hzamMZAwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Streamed",Pretoria Capitals vs Paarl Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/xiILoqKXoYhvPEgYAYEoFgYHSRhBYFzf/charlie/stream/pretoria-capitals-vs-paarl-royals-1629473518/1/playlist.m3u8
+https://lb6.strmd.top/secure/cfxZcpbLcDGQmNqWwHdNjNetsylElMkf/charlie/stream/pretoria-capitals-vs-paarl-royals-1629473518/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Masters Snooker " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Masters Snooker 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/PWHFfSsOLntCevgFQINhcmNtMZtqJwYo/echo/stream/masters-snooker-pick3/1/playlist.m3u8
+https://lb4.strmd.top/secure/ofWtKsNshHvFMKyDykpCUHrnvjPaAvzx/echo/stream/masters-snooker-pick3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Riyadh Racing Season Race Night #14" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Riyadh Season Horse Racing: Riyadh Racing Season Race Night #14
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/BhjoaMOEbhNySOGtOFxoVsUxYmXlVlZt/charlie/stream/riyadh-racing-season-race-night-14-1629473517/1/playlist.m3u8
+https://lb1.strmd.top/secure/rijuUHPiXAPYQLHiTAkJCdfzIszLoint/charlie/stream/riyadh-racing-season-race-night-14-1629473517/1/playlist.m3u8
