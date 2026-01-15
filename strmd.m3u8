@@ -1,96 +1,86 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Olimpia Milano vs KK Crvena zvezda" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBl6YQUhCJuIPiAAme7YdMQQ5mAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Olimpia Milano vs KK Crvena zvezda
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/JDLddcwawwARwOmzhUBbnzkPusojfTrB/echo/stream/olimpia-milano-vs-crvena-zvezda-basketball-454492/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Augsburg vs Union Berlin" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gYlECTXbVWlCH0ATEHwMmzywuqZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Streamed",FC Augsburg vs Union Berlin
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TefUMyFyBQHupMQpiwzhWoHSdUvSTOzl/admin/stream/bl_fca/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: EA7 Emporio Armani Milan vs Crvena Zvezda Meridianbet Belgrade" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Euroleague: EA7 Emporio Armani Milan vs Crvena Zvezda Meridianbet Belgrade
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/XYtYqKkpSjvTpXXaUdgNsRqclkLOlNVC/charlie/stream/ea7-emporio-armani-milan-vs-crvena-zvezda-meridianbet-belgrade-1629473525/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maccabi Tel Aviv BC vs BC algiris" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3r4QAqmQAmIbupAwQiFCB2GSpkMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Maccabi Tel Aviv BC vs BC algiris
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/yTjYsFPtHIpahZfExXZUmRWKgXwFYjvq/echo/stream/maccabi-tel-aviv-vs-zalgiris-kaunas-basketball-454491/1/playlist.m3u8
+https://lb9.strmd.top/secure/nMcWpFSdXiqUbEaVlUyvfuiiTJgehPld/echo/stream/maccabi-tel-aviv-vs-zalgiris-kaunas-basketball-454491/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Memphis Grizzlies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Streamed",Orlando Magic vs Memphis Grizzlies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/fpeKDzTNIEmPDYROqKzaUoyTOsXThroH/admin/stream/orlandomagic/1/playlist.m3u8
+https://lb1.strmd.top/secure/yrCXnwfZOVuzpDUqLmDKvIpyoIFvnyJG/admin/stream/orlandomagic/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: Maccabi Tel Aviv vs Zalgiris Kaunas" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxBmAJsAshCIcvXO3rDXp2eTEMJyBAQQVoi+Nr7kZr4Qriz2-DDAeHp0YCwKkZJCtAnkYMnAkUIQQA.webp" group-title="Streamed",Euroleague: Maccabi Tel Aviv vs Zalgiris Kaunas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/uOlEykQeNrfnRIzmIncfpVfKwMlvRrYP/charlie/stream/maccabi-tel-aviv-vs-zalgiris-kaunas-1629473523/1/playlist.m3u8
+https://lb7.strmd.top/secure/npyJZwfXuGWLBgMeBqZFIvJDXYcTQnKP/charlie/stream/maccabi-tel-aviv-vs-zalgiris-kaunas-1629473523/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Latin America Amateur Championship: First Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="Streamed",Latin America Amateur Championship: First Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uvvSFNIBQMXhOdJCzRLpBRlGGJoADMjD/charlie/stream/first-round-1629473524/1/playlist.m3u8
+https://lb2.strmd.top/secure/eHqNfTrJiSybNQcefcPQXEvwhFPoMIzG/charlie/stream/first-round-1629473524/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Burgos Club de Ftbol vs Valencia" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Streamed",Burgos Club de Ftbol vs Valencia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/NgHIASpEiHYRjQLNsoIFEdcPFGDmRZSm/delta/stream/live_copa-del-rey_burgos-valencia-live-streaming-490186080/1/playlist.m3u8
+https://lb9.strmd.top/secure/efArAjAPrjhKMmoQvxADOiAqQymvHoQf/delta/stream/live_copa-del-rey_burgos-valencia-live-streaming-490186080/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Racing Club vs Barcelona" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Streamed",Real Racing Club vs Barcelona
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/stNwdyWYPYRoZxsCxpogVomkqIWeloBA/delta/stream/live_copa-del-rey_r-racing-club-barcelona-live-streaming-490186512/1/playlist.m3u8
+https://lb7.strmd.top/secure/RhRUvYWqFfNdcjiaPPFuITWarQTyfdzA/delta/stream/live_copa-del-rey_r-racing-club-barcelona-live-streaming-490186512/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs Milan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="Streamed",Como vs Milan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/XkGCqMNlhZnPnQNJOSuCoQYNRoHtRvuB/delta/stream/live_serie-a_como-milan-live-streaming-440909136/1/playlist.m3u8
+https://lb1.strmd.top/secure/UEKcGUQAEMJODYtOAfFzZPchrcVfbyFW/delta/stream/live_serie-a_como-milan-live-streaming-440909136/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bayern Mnchen Basketball vs Panathinaikos BC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADa9JGD5gkIbqpAATA4mPGUIS3wIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Streamed",Bayern Mnchen Basketball vs Panathinaikos BC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/wWOYfdHiWUZJdMcOlhuCnAwkVFjNXidE/echo/stream/bayern-vs-panathinaikos-basketball-454490/1/playlist.m3u8
+https://lb1.strmd.top/secure/FyvjHZBIkBDpiQDewCBfjYyGNlBDuvhz/echo/stream/bayern-vs-panathinaikos-basketball-454490/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: FC Bayern Munich Basketball vs Panathinaikos Athens Basketball" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmvEBxAsQtM2RCIHjIbYhT6lryF+9hDojMECAhKjb+jBD8MMB4enRgLAoekkK08eRgScAeQhBAA.webp" group-title="Streamed",Euroleague: FC Bayern Munich Basketball vs Panathinaikos Athens Basketball
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/FVHDZiyoMFJJTHxfDhYyKQFCAVFKQsvl/charlie/stream/fc-bayern-munich-basketball-vs-panathinaikos-athens-basketball-1629473522/1/playlist.m3u8
+https://lb3.strmd.top/secure/MxBpoVlCKzIPdbndlqcEABXWixyLgiOo/charlie/stream/fc-bayern-munich-basketball-vs-panathinaikos-athens-basketball-1629473522/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Schwenninger vs Eisbaren Berlin" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA.webp" group-title="Streamed",Schwenninger vs Eisbaren Berlin
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/RISQqBdQyLTbtMlDPWKedbJTqtMdwNqJ/echo/stream/schwenninger-vs-eisbaren-berlin-hockey-409044/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heerenveen vs RKC Waalwijk" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdVYACYgSIeojVadKEDBDGtIXZYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Heerenveen vs RKC Waalwijk
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/ZTyFzoHiZvzgKJkJtEXbsOiDAbuNJeoR/echo/stream/heerenveen-vs-waalwijk-football-1495638/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Anadolu Efes SK vs Baskonia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggoIECxAATENxB8dBzUd2qUIGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Anadolu Efes SK vs Baskonia
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/WJVlmVfIsXeOJveqPsmNrPycZOgxUxCB/echo/stream/anadolu-efes-vs-baskonia-basketball-454489/1/playlist.m3u8
+https://lb8.strmd.top/secure/DSeVARvQNBgDaMHvmhezwnVODMUnItQj/echo/stream/schwenninger-vs-eisbaren-berlin-hockey-409044/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hellas Verona vs Bologna" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxheKENzAkQibiAAmIHSZAaciIwYIUmfFF23l680Q6a0w2saIhA.webp" group-title="Streamed",Hellas Verona vs Bologna
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/IivsLsNNgGFuvFMTqaAaXFrhRpekunRy/admin/stream/sa_ver/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Beikta vs Ankara Keirengc" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIg4tXimAATENxC6+IFCAghVus-uWEYwJny1swZeEXmitTWmBdjREEA.webp" group-title="Streamed",Beikta vs Ankara Keirengc
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/yMQfXatGrHtfDevZIQthkjiqfLRsAVsW/echo/stream/besiktas-vs-keciorengucu-football-1489325/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: Anadolu Efes Istanbul vs Baskonia Vitoria-Gasteiz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Euroleague: Anadolu Efes Istanbul vs Baskonia Vitoria-Gasteiz
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/QZUSZmGccMDgdXeknetlXYxfafzbHNHj/charlie/stream/anadolu-efes-istanbul-vs-baskonia-vitoria-gasteiz-1629473521/1/playlist.m3u8
+https://lb7.strmd.top/secure/gkMJRxtnmpaKLgXGMkLMZqaAYbfLAzZn/admin/stream/sa_ver/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sony Open in Hawaii | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Sony Open in Hawaii | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/JHlnbaSLWBRRcXszKtszemxfPoSVWzFH/echo/stream/sony-open-in-hawaii-pga-tour-game-162626/1/playlist.m3u8
+https://lb8.strmd.top/secure/lELkAPOXpqkJbCAftabgpPlhSgXUwlwU/echo/stream/sony-open-in-hawaii-pga-tour-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Series of Darts: Bahrain Darts Masters" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Streamed",World Series of Darts: Bahrain Darts Masters
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/UwPfKQcrBHGIIdEqWdtCvvNjoQfmQFSw/admin/stream/darts/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pretoria Capitals vs Paarl Royals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQvbmCTAADLvUg+IRGu4hzamMZAwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Streamed",Pretoria Capitals vs Paarl Royals
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/uCsoKJoqiwlFGDymbomUyqeDfkfLgIdm/echo/stream/sa20-pretoria-capitals-vs-paarl-royals-cricket-1/1/playlist.m3u8
+https://lb2.strmd.top/secure/YCKqQJmcfUXPqgpyAFBdZblXlfLOhTpr/admin/stream/darts/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Masters Snooker " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Masters Snooker 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/LBwoqswFhesYyrfAVorcdodaxqUytgld/echo/stream/masters-snooker-pick3/1/playlist.m3u8
+https://lb10.strmd.top/secure/qwLMkqWeVcELodtQHbpXHKuQZRPWwwqm/echo/stream/masters-snooker-pick3/1/playlist.m3u8
