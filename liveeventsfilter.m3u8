@@ -344,11 +344,6 @@ https://streamfree.click/US/NHL4/index.m3u8?st=KjhPVsf6mBD4uwog2z714w&e=17684568
 #EXTVLCOPT:http-origin=https://matchify.zip/events/tracker5/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://matchify.zip/5555.php
-#EXTINF:-1 tvg-chno="239" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Aucklander Court (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Tennis ATP] Tennis ATP Aucklander Court (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.133/hls/naaaq.m3u8
 #EXTINF:-1 tvg-chno="240" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis ATP-WTA Adelaideer Court (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis] Tennis ATP-WTA Adelaideer Court (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
