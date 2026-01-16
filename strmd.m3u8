@@ -1,66 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Fenerbahce vs Valencia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiEQQQJOuQYBjZpJ7wxVbgS6swYXPmtA.webp" group-title="Streamed",Fenerbahce vs Valencia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Monaco vs Lorient" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhhwqqFD4huICCG2ISIGHoNmQBCkz4ouYMhoalOTWmAdjREIA.webp" group-title="Streamed",Monaco vs Lorient
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uHtEGuUZvwasHFvDLHpGMCRrubCTlKqy/echo/stream/fenerbahce-vs-valencia-basketball-454494/1/playlist.m3u8
+https://lb6.strmd.top/secure/SLBRqqltgOFcNfcIEqVlhjVqTDWzDNFG/admin/stream/l1_mon/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Jahn Regensburg vs Ingolstadt" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBl5tWiDYhuIACYg+h1SZwGUOghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Streamed",Jahn Regensburg vs Ingolstadt
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/VnaCPADGetAHEaMIWLXLGdOjbClqcLBu/charlie/stream/ssv-jahn-regensburg-vs-fc-ingolstadt-04-1394246/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Segunda Liga: Academico Viseu vs Uniao de Leiria" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPJMgO-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="Streamed",Segunda Liga: Academico Viseu vs Uniao de Leiria
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/IpofYjKXaTLNZlcAIIWnpQbxAruvJpdB/charlie/stream/academico-viseu-vs-uniao-de-leiria-1398122/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: Fenerbahce Beko Istanbul vs Valencia Basket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGb0QEKeQ4hDYxogAmnHAxBPLwCDg++bYoiEdiAg3t4g2HwEMMB4enRgLApWkkK08eRgSeFCEEA.webp" group-title="Streamed",Euroleague: Fenerbahce Beko Istanbul vs Valencia Basket
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/FAXPAcAhgpdPCDAaeKwSgpeJlfLfzATZ/charlie/stream/fenerbahce-beko-istanbul-vs-valencia-basketball-1629473573/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fortuna Dsseldorf vs Arminia Bielefeld" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBZqfWGBAhuICHpB8QJECh2mQAEz0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Fortuna Dsseldorf vs Arminia Bielefeld
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/OYMIYPdvjTnpXDkjjZLvDSFsidZXvjFO/charlie/stream/fortuna-dusseldorf-vs-arminia-bielefeld-1388769/1/playlist.m3u8
+https://lb2.strmd.top/secure/LIKRflUWeCZfqarCIovotjfHHweQNvFp/charlie/stream/fortuna-dusseldorf-vs-arminia-bielefeld-1388769/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eintracht Braunschweig vs Magdeburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmuYCrBlwibiBIhEOEPpBqcelQQpM+KLlvL15o+01pgtY0RCA.webp" group-title="Streamed",Eintracht Braunschweig vs Magdeburg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/JCtCDNYaTEENFdzebdyeVnnUYWfnhTZj/charlie/stream/eintracht-braunschweig-vs-1-fc-magdeburg-1388768/1/playlist.m3u8
+https://lb3.strmd.top/secure/nJVSvLiredFUAcpjtkMbvLytLGBXnEFi/charlie/stream/eintracht-braunschweig-vs-1-fc-magdeburg-1388768/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Ittihad vs Al-Ettifaq" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNwg+uUCBIhuIACYgUICGv07DpmAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Al-Ittihad vs Al-Ettifaq
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/AKxuQGTYpyMTyZVkUUFtXzdixaXgkxgs/charlie/stream/al-ittihad-fc-vs-al-ettifaq-1436050/1/playlist.m3u8
+https://lb10.strmd.top/secure/cdrLqjQiEBGqrDHMTDwHGNThBlUIoWbE/charlie/stream/al-ittihad-fc-vs-al-ettifaq-1436050/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Mecum Auctions: Kissimmee 2026 (Day 5)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="Streamed",Mecum Auctions: Kissimmee 2026 (Day 5)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/iQhxOpXfsujJmYsXqTNTuAZBjFRxIWff/charlie/stream/kissimmee-2026-day-5-1629473572/1/playlist.m3u8
+https://lb9.strmd.top/secure/GbfFJpvmbyejGywFXqgbSEZshCchZHGC/charlie/stream/kissimmee-2026-day-5-1629473572/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sony Open in Hawaii | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Sony Open in Hawaii | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/GGIDZtYKloikXAQWVwqCUjecaXBdEIAl/echo/stream/sony-open-in-hawaii-pga-tour-game-162626/1/playlist.m3u8
+https://lb1.strmd.top/secure/mCcRyFzbkBzqOtITiwwTMrWWXXwNbITE/echo/stream/sony-open-in-hawaii-pga-tour-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Series of Darts: Bahrain Darts Masters" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="Streamed",World Series of Darts: Bahrain Darts Masters
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/qDSyKIYlwmVekebvysJcxCbZIWMhzGsL/admin/stream/darts/1/playlist.m3u8
+https://lb5.strmd.top/secure/IlvbjwraFBMFtHGEPWfDxXcymfuIybYR/admin/stream/darts/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="MI Cape Town vs Sunrisers Eastern Cape" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjKIyAE1LsQ3EHxCIIOkCaM4cEAhSZ8UXMKqLzRdprTAOxoiEA.webp" group-title="Streamed",MI Cape Town vs Sunrisers Eastern Cape
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/QnTXOHcYZuQyszZaAZbPdwqvdUjkhEiD/charlie/stream/mi-cape-town-vs-sunrisers-eastern-cape-1629473569/1/playlist.m3u8
+https://lb8.strmd.top/secure/XNOyQPOZRtIQzUHReYkHJDQWsBDEZLdZ/charlie/stream/mi-cape-town-vs-sunrisers-eastern-cape-1629473569/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC U23 Asian Cup: Vietnam U23 vs UAE U23" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOIyBAR+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="Streamed",AFC U23 Asian Cup: Vietnam U23 vs UAE U23
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/CLebDuvrRYglzPBMsdjkUaegxnNDmwVm/charlie/stream/vietnam-u23-vs-uae-u23-1506732/1/playlist.m3u8
+https://lb2.strmd.top/secure/BrYvsOJcQiomDCaUAuMeuDhLaOIjAHND/charlie/stream/vietnam-u23-vs-uae-u23-1506732/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ACA 199 Frolov vs Emeev" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",ACA 199 Frolov vs Emeev
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/vEdBMbNMXpkCZcJBMwmFywnYWQdLyNXy/echo/stream/ppv-event-02-aca-199-frolov-v-emeev-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Prince Khalid Abdullah Cup Race Night (Saudi Cup Trials Weekend)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Riyadh Season Horse Racing: Prince Khalid Abdullah Cup Race Night (Saudi Cup Trials Weekend)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/kIuTxkvWTDCAOhgikqLVkrWBcExPBKLw/charlie/stream/prince-khalid-abdullah-cup-race-night-saudi-cup-trials-weekend-1629473567/1/playlist.m3u8
+https://lb6.strmd.top/secure/hBGDnzoWiWIrxKjzXteTRLlEfBnWPZIq/echo/stream/ppv-event-02-aca-199-frolov-v-emeev-ppv-02/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Masters Snooker " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Masters Snooker 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/BgtGfogyrlHTWwqpmhMAPBkuCiVbRNmh/echo/stream/masters-snooker-pick3/1/playlist.m3u8
+https://lb3.strmd.top/secure/dcTutrMCpPJMglpcwviVxBuypStZqLLo/echo/stream/masters-snooker-pick3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 138 Pompet vs Decho" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",ONE Friday Fights 138 Pompet vs Decho
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/rZRGgDKXZhuIRWXubGtbkviVwypxXNcN/echo/stream/ppv-event-01-one-friday-fights-138-pompet-v-decho-ppv-001/1/playlist.m3u8
+https://lb8.strmd.top/secure/unioHkQFoMmEKGrAVgstJzRAHxrVHCly/echo/stream/ppv-event-01-one-friday-fights-138-pompet-v-decho-ppv-001/1/playlist.m3u8
