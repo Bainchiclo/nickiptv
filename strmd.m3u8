@@ -1,41 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Perth Scorchers vs Melbourne Stars" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg4EEHzAATEIm6aQBkrhC6Uhk3wIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Streamed",Perth Scorchers vs Melbourne Stars
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/fqqnmjmeHCidPApmYdSXBURJAxLVpUPJ/echo/stream/bbl-perth-scorchers-vs-melbourne-stars-game-126262/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Adelaide Giants vs Perth Heat" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6wwSbG0ghuIACYhEffSFMlDOkHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Streamed",Adelaide Giants vs Perth Heat
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/ZUMtjAWAFPXNiKXDyfYUcePHIMuqHIwa/charlie/stream/adelaide-giants-vs-perth-heat-1629473604/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Melbourne Victory" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5hVAE3LcwIENxAQQfEIkMkDIc+oMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Adelaide United vs Melbourne Victory
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/ypPtetEgdtjRShodBfDkvicCIAZZcHIO/charlie/stream/adelaide-united-vs-melbourne-victory-1469632/1/playlist.m3u8
+https://lb3.strmd.top/secure/tdNRGtwrkEXJSGuDiIndVapAOzKtUtjV/charlie/stream/adelaide-united-vs-melbourne-victory-1469632/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Dhaka Capitals vs Rangpur Riders" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMuEABNmzMEhDcQfEIgj6Q5gyk0gYBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Streamed",Dhaka Capitals vs Rangpur Riders
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/jLXvRaFVkSkOiWSbAWWImKFpeYJssmGU/charlie/stream/rangpur-riders-vs-dhaka-capitals-1629473560/1/playlist.m3u8
+https://lb3.strmd.top/secure/VDixKIyHGkEltjzsDOIEmrEeCLGRRKtT/charlie/stream/rangpur-riders-vs-dhaka-capitals-1629473560/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Australian Open Opening Ceremony with Roger Federer (Exhibition)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Australian Open Opening Ceremony with Roger Federer (Exhibition)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/AotkQMcKcLjAttBiaSKEychTwcRRGYoh/charlie/stream/australian-open-opening-ceremony-with-roger-federer-exhibition-1629473600/1/playlist.m3u8
+https://lb8.strmd.top/secure/LsSHQhSJhSTayQOiGJRredLBJxEYnMhn/charlie/stream/australian-open-opening-ceremony-with-roger-federer-exhibition-1629473600/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: India Under-19 vs  Bangladesh Under-19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiHk5+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="Streamed",ICC Under-19 Cricket World Cup: India Under-19 vs  Bangladesh Under-19
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/dWQtermZGHkQwjwtrEiaXoPbbBOdVgeW/charlie/stream/india-vs-bangladesh-1629473602/1/playlist.m3u8
+https://lb8.strmd.top/secure/zmvZOZnHimwNVPoUFqaanslItfiHDbAG/charlie/stream/india-vs-bangladesh-1629473602/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Dubai Invitational | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Dubai Invitational | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/mTGcocAkiijSHJZVjDKMwfWOqYjJXyQB/echo/stream/dubai-invitational-dp-world-tour-pga-526234/1/playlist.m3u8
+https://lb2.strmd.top/secure/QXcEMefFHoGJYRsbbRviRGTjCgGKRLQQ/echo/stream/dubai-invitational-dp-world-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Central Coast Mariners vs Macarthur FC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAp+2EABMt-ENxAkQfVSEQQQFxIZgEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title="Streamed",Central Coast Mariners vs Macarthur FC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/KbsXLkXtKQCADUMmCFCpstOVAAjwVSxS/echo/stream/central-coast-mariners-vs-macarthur-football-1469631/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Adelaide Strikers vs Melbourne Renegades" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYFCDgCUwAAwhuICCA04VmkHwvHlhGMCZ8dbMGXhF5onU1phXY0QggA.webp" group-title="Streamed",Adelaide Strikers vs Melbourne Renegades
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/IiMswNVEyzAcFeHDebMFXfkIYTPyOAvk/charlie/stream/adelaide-strikers-vs-melbourne-renegades-1629473599/1/playlist.m3u8
+https://lb3.strmd.top/secure/bEnoLGBCZTADRLzrZjGZyVsaakFdVFPd/echo/stream/central-coast-mariners-vs-macarthur-football-1469631/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 250 Adelaide / ATP 250 Auckland	  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",ATP 250 Adelaide / ATP 250 Auckland	  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/UlzgKAGEeoqUYgjJMjUdypuwJoKOpbus/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
+https://lb6.strmd.top/secure/WNPPxOQiRzzVBvuIJVkRcqgyrRIOiIBH/echo/stream/atp-250-adelaide-atp-250-auckland-tn-1/1/playlist.m3u8
